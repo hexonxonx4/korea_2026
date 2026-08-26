@@ -1,6 +1,6 @@
 # 🇰🇷 Voyage Corée du Sud 2026 — Rapport maître
 
-**Version maître — 26 août 2026 — avec contrôle ponctuel des vols**
+**Version maître — 26 août 2026 — contrôle des vols actualisé**
 
 > **Budget voyage : 5 000 $ CAD**  
 > **Coûts connus : 2 847,88 $**  
@@ -19,7 +19,7 @@
 | ✈️ Air Canada | ✅ **AXOQWM** |
 | ✈️ Aller | **AC303 + AC63 — 23 oct.** |
 | ✈️ Retour | **AC64 — 8 nov. + AC314 — 9 nov.** |
-| 🔎 Contrôle vols | 🟢 **Effectué le 26 août** |
+| 🔎 Contrôle vols | 🟢 **Effectué le 26 août 2026** |
 | 🏙️ Séoul / Hongdae | **24 oct. → 1er nov.** |
 | 🌊 Busan | **1er → 4 nov.** |
 | 🟢 4–8 novembre | **Ouvert — 350 $ provisionnés** |
@@ -39,11 +39,14 @@
 
 ---
 
-# 2. ✈️ Contrôle des vols — 26 août
+# 2. ✈️ Contrôle des vols — 26 août 2026
 
-J'ai effectué une vérification ponctuelle des quatre vols avant de produire cette version du rapport.
+J'ai effectué une vérification fraîche des quatre vols avant de produire cette version du rapport, à partir des grilles publiques d'Air Canada Vacations consultées le **26 août 2026** :
 
-L'horaire public d'Air Canada confirme que les horaires sont exprimés en **heure locale de chaque aéroport**. 
+- [grille Asie — AC63 et AC64](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-ASIA-Asia.pdf);
+- [grille Canada Ouest — AC303 et AC314](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-CANADA-WesternCanada.pdf).
+
+Les heures ci-dessous sont exprimées en **heure locale de chaque aéroport** et les horaires demeurent sujets à changement.
 
 ## Aller — vendredi 23 octobre
 
@@ -51,7 +54,14 @@ L'horaire public d'Air Canada confirme que les horaires sont exprimés en **heur
 
 > **YUL → YVR**
 
-L'horaire actuellement publié pour AC303 autour du 23 octobre donne un départ de Montréal à **8 h 30**. Les données d'horaire indiquent AC303 sur cette route et confirment son exploitation pendant cette période. 
+Horaire actuellement publié pour le 23 octobre :
+
+> 🛫 **YUL : 8 h 30**<br>
+> 🛬 **YVR : 10 h 42**<br>
+> ✈️ Boeing 787-9<br>
+> ⏱️ ~5 h 12
+
+La grille publique indique AC303 sur cette route le vendredi 23 octobre.
 
 ### AC63 — Vancouver → Séoul
 
@@ -64,7 +74,7 @@ Horaire actuellement publié pour le 23 octobre :
 > ✈️ Boeing 787-9  
 > ⏱️ ~11 h 45
 
-Le 23 octobre est précisément la dernière journée de la grille saisonnière actuelle **12 h 20 → 16 h 05**. 
+Le 23 octobre est précisément la dernière journée de la grille saisonnière actuelle **12 h 20 → 16 h 05**.
 
 ### Correspondance à Vancouver
 
@@ -84,11 +94,12 @@ Cela donne environ :
 
 > **ICN → YVR — dimanche 8 novembre**
 
-La grille saisonnière applicable à partir du 1er novembre place actuellement AC64 autour de :
+La grille saisonnière applicable du 1er novembre au 16 décembre place actuellement AC64 à :
 
-> 🛫 **ICN : 18 h 55**  
-> 🛬 **YVR : 12 h 45**  
-> ✈️ Boeing 787-9
+> 🛫 **ICN : 18 h 55**<br>
+> 🛬 **YVR : 12 h 45**<br>
+> ✈️ Boeing 787-9<br>
+> ⏱️ ~9 h 50
 
 La traversée de la ligne de changement de date explique évidemment l'arrivée à Vancouver le même jour civil local. 
 
@@ -98,16 +109,16 @@ La traversée de la ligne de changement de date explique évidemment l'arrivée 
 
 L'horaire public confirme précisément ce que tu m'as indiqué :
 
-> 🛫 **YVR : 00 h 15 — 9 novembre**  
-> 🛬 **YUL : 7 h 10 — 9 novembre**  
-> ✈️ Airbus A220-300  
-> ⏱️ ~4 h 55
+> 🛫 **YVR : 00 h 15 — 9 novembre**<br>
+> 🛬 **YUL : 7 h 10 — 9 novembre**<br>
+> ✈️ Airbus A220-300<br>
+> ⏱️ ~3 h 55
 
-Cette grille est valide du **1er novembre au 3 décembre 2026**. 
+Cette grille est valide du **2 novembre au 3 décembre 2026**.
 
 ### Particularité de la correspondance retour
 
-Il y a donc une **longue escale à Vancouver** entre l'arrivée d'AC64 en milieu de journée le 8 novembre et le départ d'AC314 à **00 h 15 le 9**.
+Il y a donc une **longue escale d'environ 11 h 30 à Vancouver** entre l'arrivée d'AC64 à 12 h 45 le 8 novembre et le départ d'AC314 à **00 h 15 le 9**.
 
 🟢 Aucun risque de correspondance serrée ici. C'est plutôt une question de confort et de quoi faire pendant cette escale.
 
@@ -603,7 +614,7 @@ Promeneuse :
 
 Le voyage est maintenant structuré jusque dans les détails financiers **et les quatre segments aériens sont identifiés et contrôlés**.
 
-Le contrôle du 26 août ne montre aucune anomalie majeure. **AC63 est actuellement publié YVR 12 h 20 → ICN 16 h 05 le lendemain**, tandis que le retour saisonnier **AC64 est publié autour de 18 h 55 ICN → 12 h 45 YVR**. Le **AC314 de 00 h 15 le 9 novembre est bien cohérent avec l'horaire public actuellement publié**. 
+Le contrôle actualisé du 26 août 2026 ne montre aucune anomalie majeure. **AC63 est actuellement publié YVR 12 h 20 → ICN 16 h 05 le lendemain**, tandis que le retour saisonnier **AC64 est publié à 18 h 55 ICN → 12 h 45 YVR**. Le **AC314 de 00 h 15 le 9 novembre est bien cohérent avec l'horaire public actuellement publié**.
 
 La correspondance qui mérite réellement notre attention à l'approche du départ est **AC303 → AC63 à Vancouver**, actuellement autour de **1 h 38**. Elle est parfaitement exploitable à ce stade, mais contrairement au retour, elle mérite d'être surveillée si Air Canada modifie AC303 ou AC63.
 

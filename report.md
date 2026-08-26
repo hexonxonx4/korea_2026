@@ -1,6 +1,6 @@
 # 🇰🇷 Voyage Corée du Sud 2026 — Rapport maître
 
-**Version maître — 26 août 2026 — contrôle des vols actualisé**
+**Version maître — 26 août 2026 — contrôle des vols et fuseaux horaires actualisé**
 
 > **Budget voyage : 5 000 $ CAD**  
 > **Coûts connus : 2 847,88 $**  
@@ -46,7 +46,7 @@ J'ai effectué une vérification fraîche des quatre vols avant de produire cett
 - [grille Asie — AC63 et AC64](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-ASIA-Asia.pdf);
 - [grille Canada Ouest — AC303 et AC314](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-CANADA-WesternCanada.pdf).
 
-Les heures ci-dessous sont exprimées en **heure locale de chaque aéroport** et les horaires demeurent sujets à changement.
+Chaque heure de vol est accompagnée de son **fuseau local** et, lorsqu'elle diffère, de son **équivalent à Montréal**. Les horaires demeurent sujets à changement.
 
 ## Aller — vendredi 23 octobre
 
@@ -56,8 +56,8 @@ Les heures ci-dessous sont exprimées en **heure locale de chaque aéroport** et
 
 Horaire actuellement publié pour le 23 octobre :
 
-> 🛫 **YUL : 8 h 30**<br>
-> 🛬 **YVR : 10 h 42**<br>
+> 🛫 **YUL : 8 h 30 HAE (UTC−4)** — heure de Montréal<br>
+> 🛬 **YVR : 10 h 42 HAP (UTC−7)** — **13 h 42 à Montréal (HAE)**<br>
 > ✈️ Boeing 787-9<br>
 > ⏱️ ~5 h 12
 
@@ -69,16 +69,16 @@ La grille publique indique AC303 sur cette route le vendredi 23 octobre.
 
 Horaire actuellement publié pour le 23 octobre :
 
-> 🛫 **YVR : 12 h 20**  
-> 🛬 **ICN : 16 h 05 le 24 octobre**  
-> ✈️ Boeing 787-9  
+> 🛫 **YVR : 12 h 20 HAP (UTC−7)** — **15 h 20 à Montréal (HAE)**<br>
+> 🛬 **ICN : 16 h 05 KST (UTC+9) le 24 octobre** — **3 h 05 à Montréal (HAE) le 24 octobre**<br>
+> ✈️ Boeing 787-9<br>
 > ⏱️ ~11 h 45
 
-Le 23 octobre est précisément la dernière journée de la grille saisonnière actuelle **12 h 20 → 16 h 05**.
+Le 23 octobre est précisément la dernière journée de la grille saisonnière actuelle **12 h 20 HAP → 16 h 05 KST le lendemain**.
 
 ### Correspondance à Vancouver
 
-AC303 arrive publiquement autour de **10 h 42** dans la grille applicable au 23 octobre et AC63 part à **12 h 20**. 
+AC303 arrive publiquement à **10 h 42 HAP (13 h 42 à Montréal)** dans la grille applicable au 23 octobre et AC63 part à **12 h 20 HAP (15 h 20 à Montréal)**.
 
 Cela donne environ :
 
@@ -96,8 +96,8 @@ Cela donne environ :
 
 La grille saisonnière applicable du 1er novembre au 16 décembre place actuellement AC64 à :
 
-> 🛫 **ICN : 18 h 55**<br>
-> 🛬 **YVR : 12 h 45**<br>
+> 🛫 **ICN : 18 h 55 KST (UTC+9)** — **4 h 55 à Montréal (HNE)**<br>
+> 🛬 **YVR : 12 h 45 HNP (UTC−8)** — **15 h 45 à Montréal (HNE)**<br>
 > ✈️ Boeing 787-9<br>
 > ⏱️ ~9 h 50
 
@@ -109,8 +109,8 @@ La traversée de la ligne de changement de date explique évidemment l'arrivée 
 
 L'horaire public confirme précisément ce que tu m'as indiqué :
 
-> 🛫 **YVR : 00 h 15 — 9 novembre**<br>
-> 🛬 **YUL : 7 h 10 — 9 novembre**<br>
+> 🛫 **YVR : 00 h 15 HNP (UTC−8) — 9 novembre** — **3 h 15 à Montréal (HNE)**<br>
+> 🛬 **YUL : 7 h 10 HNE (UTC−5) — 9 novembre** — heure de Montréal<br>
 > ✈️ Airbus A220-300<br>
 > ⏱️ ~3 h 55
 
@@ -118,7 +118,7 @@ Cette grille est valide du **2 novembre au 3 décembre 2026**.
 
 ### Particularité de la correspondance retour
 
-Il y a donc une **longue escale d'environ 11 h 30 à Vancouver** entre l'arrivée d'AC64 à 12 h 45 le 8 novembre et le départ d'AC314 à **00 h 15 le 9**.
+Il y a donc une **longue escale d'environ 11 h 30 à Vancouver** entre l'arrivée d'AC64 à **12 h 45 HNP le 8 novembre (15 h 45 à Montréal)** et le départ d'AC314 à **00 h 15 HNP le 9 novembre (3 h 15 à Montréal)**.
 
 🟢 Aucun risque de correspondance serrée ici. C'est plutôt une question de confort et de quoi faire pendant cette escale.
 
@@ -137,6 +137,7 @@ Je comparerai notamment :
 - numéros de vols;
 - changements saisonniers;
 - appareils lorsqu'ils sont disponibles;
+- fuseau horaire local et équivalent à Montréal pour chaque heure de vol;
 - durée des correspondances;
 - modifications importantes visibles publiquement.
 
@@ -572,7 +573,7 @@ Promeneuse :
 | **29 oct.** | 🛒 Épicerie — **400 $ max** |
 | **1 nov.** | 🚄 Busan |
 | **8 nov.** | ✈️ **AC64 ICN → YVR** |
-| **9 nov. 00 h 15** | ✈️ **AC314 YVR → YUL** |
+| **9 nov. 00 h 15 HNP**<br>**3 h 15 à Montréal (HNE)** | ✈️ **AC314 YVR → YUL** |
 | **9 nov.** | 🏠 Retour Québec |
 | **20 nov.** | ✈️ Air Canada — 275,94 $ |
 | **20 déc.** | ✈️ Air Canada — 275,94 $ |
@@ -614,7 +615,7 @@ Promeneuse :
 
 Le voyage est maintenant structuré jusque dans les détails financiers **et les quatre segments aériens sont identifiés et contrôlés**.
 
-Le contrôle actualisé du 26 août 2026 ne montre aucune anomalie majeure. **AC63 est actuellement publié YVR 12 h 20 → ICN 16 h 05 le lendemain**, tandis que le retour saisonnier **AC64 est publié à 18 h 55 ICN → 12 h 45 YVR**. Le **AC314 de 00 h 15 le 9 novembre est bien cohérent avec l'horaire public actuellement publié**.
+Le contrôle actualisé du 26 août 2026 ne montre aucune anomalie majeure. **AC63 est actuellement publié YVR 12 h 20 HAP (15 h 20 à Montréal) → ICN 16 h 05 KST le lendemain (3 h 05 à Montréal)**, tandis que le retour saisonnier **AC64 est publié à 18 h 55 KST ICN (4 h 55 à Montréal) → 12 h 45 HNP YVR (15 h 45 à Montréal)**. Le **AC314 de 00 h 15 HNP le 9 novembre (3 h 15 à Montréal) est bien cohérent avec l'horaire public actuellement publié**.
 
 La correspondance qui mérite réellement notre attention à l'approche du départ est **AC303 → AC63 à Vancouver**, actuellement autour de **1 h 38**. Elle est parfaitement exploitable à ce stade, mais contrairement au retour, elle mérite d'être surveillée si Air Canada modifie AC303 ou AC63.
 
@@ -630,4 +631,4 @@ dont :
 
 Le budget foyer demeure séparé, avec maintenant **800 $ d'épicerie explicitement provisionnés**, plus les dépenses animales à déterminer.
 
-Enfin, pour les prochaines régénérations du rapport, **le contrôle AC303 / AC63 / AC64 / AC314 fait désormais partie de la procédure de mise à jour avant génération**.
+Enfin, pour les prochaines régénérations du rapport, **le contrôle AC303 / AC63 / AC64 / AC314 fait partie de la procédure de mise à jour avant génération**, avec indication systématique du fuseau local et de l'équivalent à Montréal pour chaque heure de vol.

@@ -2,16 +2,17 @@
 
 **Version maître — 26 août 2026**
 
-> **Budget cible : 5 000 $ CAD**  
+> **Budget voyage cible : 5 000 $ CAD**  
 > **Coûts connus : 2 847,88 $**  
-> **Provisions restantes : 1 355,00 $**  
-> **Marge discrétionnaire : 797,12 $**
+> **Provisions voyage restantes : 1 355,00 $**  
+> **Marge discrétionnaire : 797,12 $**  
+> **Budget foyer suivi séparément : 800 $ d'épicerie + animaux/promeneuse à déterminer**
 
 ---
 
 ## 1. Tableau de bord
 
-| Élément | Situation actuelle |
+| Élément | Situation |
 |---|---|
 | 📅 Voyage | **23 octobre → 8 novembre 2026** |
 | ✈️ Air Canada | ✅ Réservé — **AXOQWM** |
@@ -24,15 +25,16 @@
 | 🚄 Interurbain Corée | **150 $ provisionnés** |
 | 🚇 Transport local Corée | **125 $ provisionnés** |
 | 🚍🚇 Brossard ↔ YUL | **30 $ provisionnés** |
-| 🍜 Nourriture | **700 $ provisionnés** |
+| 🍜 Nourriture en Corée | **700 $ provisionnés** |
 | 📱 eSIM | ✅ **SKT / Trazy — 39,11 $ payé** |
-| 🛡️ Assurance | ✅ **Assurance collective suffisante** |
+| 🛡️ Assurance | ✅ **Collective suffisante** |
 | 🎒 Équipement | ✅ |
-| 🎯 **Budget maximal** | **5 000,00 $** |
-| 📌 **Coûts connus** | **2 847,88 $** |
-| 🧮 **Provisions restantes** | **1 355,00 $** |
+| 🎯 Budget voyage | **5 000,00 $** |
+| 📌 Coûts connus | **2 847,88 $** |
+| 🧮 Provisions voyage | **1 355,00 $** |
 | 🎉 **Marge discrétionnaire** | **797,12 $** |
-| 💵 Fonds prévus pendant le voyage | **~2 250 $** |
+| 🛒 Épicerie foyer | **800 $ provisionnés séparément** |
+| 💵 Fonds prévus pendant voyage | **~2 250 $** |
 | 💳 Crédit disponible | **~1 500 $** |
 | 🧙 MTG restant | **Scrubland + Sliver Queen** |
 
@@ -40,13 +42,13 @@
 
 # 2. Philosophie du voyage
 
-Le voyage reste volontairement **lent, flexible et peu chargé**.
+Le séjour demeure volontairement **lent et flexible**.
 
 Rythme privilégié :
 
 > **matin tranquille → brunch/dîner → exploration → souper → soirée**
 
-Les activités réservées constituent des points d'ancrage. Les journées libres restent réellement libres et pourront évoluer selon l'énergie, la météo et les découvertes.
+Les réservations servent de points d'ancrage. Les journées libres restent réellement libres afin de pouvoir ajuster le programme selon l'énergie, la météo et les découvertes.
 
 Hongdae demeure la base principale à Séoul.
 
@@ -54,7 +56,7 @@ Priorités musicales :
 
 > **punk → hardcore → metal → rock alternatif → indie**
 
-L'objectif reste de découvrir la Corée, pas d'établir empiriquement combien de K-pop un cerveau humain peut supporter avant de réclamer l'asile politique.
+La K-pop demeure un risque entièrement évitable.
 
 ---
 
@@ -75,16 +77,14 @@ L'objectif reste de découvrir la Corée, pas d'établir empiriquement combien d
 | **2 nov.** | Busan | Exploration | 🟢 |
 | **3 nov.** | Busan | Exploration / **Gwangalli en soirée** | 🟢 |
 | **4 nov.** | Busan → ? | Bloc flexible | 🟢 |
-| **5 nov.** | ? | Libre | 🟢 |
-| **6 nov.** | ? | Libre | 🟢 |
-| **7 nov.** | ? | Libre | 🟢 |
+| **5–7 nov.** | ? | Libre | 🟢 |
 | **8 nov.** | ✈️ | Retour vers Montréal | ✅ |
 
 ---
 
 # 4. ✈️ Air Canada
 
-Référence :
+Référence de réservation :
 
 > **AXOQWM**
 
@@ -106,19 +106,19 @@ Financement :
 | **20 janvier 2027** | 275,94 $ |
 | **TOTAL** | **1 655,64 $** |
 
-Les échéances sont donc le **20 de chaque mois**.
+Les prélèvements sont le **20 de chaque mois**.
 
-Les trois paiements suivant le voyage représentent :
+Les trois versements post-voyage représentent :
 
 > **827,82 $**
 
-Ils demeurent à prévoir dans le cashflow personnel.
+Ils appartiennent au cashflow personnel futur même si le coût complet du billet est déjà comptabilisé dans le budget voyage.
 
 ---
 
 # 5. 🏠 Hébergements connus
 
-## Hongdae principal
+### Hongdae principal
 
 > **593,34 $**
 
@@ -126,17 +126,13 @@ Ils demeurent à prévoir dans le cashflow personnel.
 
 > **12 octobre**
 
----
-
-## Nuit supplémentaire — arrivée du 24 octobre
+### Nuit supplémentaire — 24 octobre
 
 > **106,09 $ — ✅ PAYÉ**
 
-Cette nuit couvre maintenant correctement l'arrivée.
+Cette nuit couvre maintenant correctement l'arrivée à Séoul.
 
----
-
-## Busan
+### Busan
 
 Coût total :
 
@@ -144,26 +140,19 @@ Coût total :
 
 | Paiement | Montant | Statut |
 |---|---:|---|
-| À la réservation | **147,99 $** | ✅ |
+| À la réservation | **147,99 $** | ✅ Payé |
 | Solde | **147,99 $** | 🟡 **17 octobre** |
 | **TOTAL** | **295,98 $** | |
 
----
+### Total hébergements connus
 
-## Total hébergements connus
-
-| Hébergement | Coût |
-|---|---:|
-| Hongdae | **593,34 $** |
-| Nuit supplémentaire | **106,09 $** |
-| Busan | **295,98 $** |
-| **TOTAL** | **995,41 $** |
+> **593,34 + 106,09 + 295,98 = 995,41 $**
 
 ---
 
 # 6. 🏠 Hébergement du 4 au 8 novembre
 
-Quatre nuits restent ouvertes.
+Quatre nuits demeurent volontairement ouvertes.
 
 Provision conservatrice :
 
@@ -173,16 +162,11 @@ Soit :
 
 > **87,50 $ / nuit**
 
-Cela permet de conserver la flexibilité entre :
-
-- retour à Séoul;
-- prolongation;
-- troisième destination;
-- autre hébergement trouvé plus tard.
+Cela permet de conserver la liberté entre retour à Séoul, prolongation ailleurs ou troisième destination.
 
 Lorsque l'hébergement sera réservé :
 
-> **coût réel → remplace la provision**
+> **provision → coût réel → différence retournée à la marge**
 
 ---
 
@@ -198,32 +182,31 @@ Plan retenu :
 
 > **YUL → navette → Palais des congrès → métro → REM → Brossard**
 
-Provision :
+Provision totale :
 
 # **30 $ A/R**
 
-Répartition approximative :
+Approximation :
 
-- REM/métro : **~10 $**
-- navette : **~20 $ taxes comprises**
+| Transport | A/R |
+|---|---:|
+| REM/métro | **~10 $** |
+| Navette Air Canada | **~20 $ taxes comprises** |
+| **Provision** | **30 $** |
 
 ---
 
-# 8. 📅 Réservation de la navette
+# 8. 📅 Navette Air Canada
 
-Les deux tâches sont inscrites dans Google Agenda.
+Les deux tâches sont déjà inscrites dans Google Agenda.
 
 ### 15 septembre — 9 h
 
-> **Réserver navette Air Canada — aller**
+> 🚍 **Réserver navette aller vers YUL**
 
 ### 30 septembre — 9 h
 
-> **Réserver navette Air Canada — retour**
-
-Après achat :
-
-> **prix réel → remplace la provision de 30 $**
+> 🚍 **Réserver navette retour de YUL**
 
 ---
 
@@ -231,27 +214,25 @@ Après achat :
 
 Programme :
 
-> **Installation → repérage immédiat → relaxation**
+> **installation → repérage immédiat → relaxation**
 
-Aucune grosse activité.
+Pas de grosse activité touristique.
 
-Objectif : rejoindre Hongdae, prendre possession du logement, manger, marcher un peu et commencer l'adaptation.
+Objectifs : rejoindre Hongdae, prendre possession du logement, manger, marcher un peu et commencer l'adaptation.
 
 ---
 
 # 10. 😵‍💫 25 octobre — jetlag
 
-Objectif officiel :
+Mission :
 
 > **Guérir le jetlag.**
-
-Journée légère.
 
 Sortie en soirée seulement si l'énergie est là.
 
 ---
 
-# 11. 🌙 26 octobre — exploration + croisière
+# 11. 🌙 26 octobre — croisière
 
 ### Journée
 
@@ -271,23 +252,21 @@ Coût :
 
 > # ✅ RÉSERVÉE
 
-Coût :
+Coût déboursé :
 
 > **0 $**
 
-L'activité a été couverte entièrement par un crédit Airbnb.
+L'activité a été couverte par un crédit Airbnb.
 
 ---
 
 # 13. 🏙️ Séoul — 28 au 31 octobre
 
-Quatre journées flexibles.
+Quatre journées libres.
 
-Possibilités :
+Pistes possibles :
 
-- Hongdae;
-- Yeonnam;
-- Mangwon;
+- Hongdae / Yeonnam / Mangwon;
 - quartiers historiques;
 - Euljiro;
 - Itaewon;
@@ -297,21 +276,17 @@ Possibilités :
 - marchés;
 - street food.
 
-Ce sont des pistes et non une checklist.
+Aucune obligation de tout faire.
 
 ---
 
 # 14. 🎸 Concerts
 
-Recherche fraîche avant le départ.
+Recherche prévue avant le départ.
 
 Priorités :
 
-- punk;
-- hardcore;
-- metal;
-- rock alternatif;
-- indie locale.
+> **punk / hardcore / metal / rock alternatif / indie**
 
 Rappel :
 
@@ -319,7 +294,7 @@ Rappel :
 
 ---
 
-# 15. 🚄 Transport interurbain Corée
+# 15. 🚄 Transport interurbain
 
 Provision conservatrice :
 
@@ -328,10 +303,10 @@ Provision conservatrice :
 | Trajet | Provision |
 |---|---:|
 | Séoul → Busan | **75 $** |
-| Retour / transport interurbain vers Séoul | **75 $** |
+| Retour / transport vers Séoul | **75 $** |
 | **TOTAL** | **150 $** |
 
-Le deuxième trajet reste volontairement générique puisque le bloc final n'est pas fixé.
+Le deuxième trajet demeure générique puisque le bloc final est encore ouvert.
 
 ---
 
@@ -345,35 +320,32 @@ Réservation :
 
 # 🔔 **30 septembre — 18 h**
 
-Horaire privilégié :
+Départ privilégié :
 
 > **11 h → 13 h**
 
-Une fois acheté :
-
-> **prix réel → remplace la provision de 75 $**
+Après achat, le coût réel remplacera les **75 $ provisionnés**.
 
 ---
 
 # 17. 🚇 Transport local en Corée
 
-Nouvelle provision officielle :
+Provision :
 
 # **125 $**
 
-Elle couvre principalement :
+Cette enveloppe couvre principalement :
 
-- métro à Séoul;
+- métro Séoul;
 - autobus;
-- métro à Busan;
-- transports publics courants;
-- déplacements locaux pendant le bloc final.
+- métro Busan;
+- transports collectifs du bloc final.
 
-Sur 17 jours :
+Cela représente environ :
 
-> **~7,35 $ / jour**
+> **7,35 $ / jour**
 
-Les taxis occasionnels ne sont **pas** inclus dans cette provision et seront pris dans la marge discrétionnaire lorsqu'ils sont réellement utiles.
+Les taxis occasionnels sont pris dans la marge discrétionnaire.
 
 ---
 
@@ -387,7 +359,7 @@ Priorités :
 
 - côte;
 - marchés;
-- bouffe;
+- nourriture;
 - quartiers;
 - promenades;
 - expériences locales;
@@ -397,25 +369,27 @@ Priorités :
 
 # 19. 🟢 Bloc 4–8 novembre
 
-Toujours volontairement ouvert.
+Toujours ouvert.
 
-### Option A — Séoul
+### Option de référence
 
-Option de référence :
+> **Retour à Séoul**
+
+Avantages :
 
 - simplicité;
-- magasinage final;
 - activités manquées;
-- retour vers ICN plus simple.
+- magasinage final;
+- retour plus facile vers ICN.
 
-### Option B — autre destination
+### Alternative
 
-Seulement si quelque chose vaut réellement le détour.
+Troisième destination seulement si une option vaut réellement le détour.
 
-Deux provisions existent déjà :
+Déjà provisionné :
 
-> 🏠 **Hébergement : 350 $**  
-> 🚄 **Transport interurbain : 75 $**
+> 🏠 **350 $ hébergement**  
+> 🚄 **75 $ transport interurbain**
 
 ---
 
@@ -428,9 +402,9 @@ Deux provisions existent déjà :
 | Revendeur | **Trazy** |
 | Réseau | **SK Telecom** |
 | Forfait | **Unlimited 5G Data** |
-| Durée | **20 jours / 480 heures** |
+| Durée | **20 jours / 480 h** |
 | Prix | **39,11 $ CAD** |
-| QR code | ✅ Reçu |
+| QR | ✅ Reçu |
 | Statut | ✅ Payée / émise |
 
 ---
@@ -439,11 +413,11 @@ Deux provisions existent déjà :
 
 | Équipement | Coût |
 |---|---:|
-| UA Hustle 6.0 29 L | **65,24 $** |
+| UA Hustle 6.0 — 29 L | **65,24 $** |
 | Adaptateur Anker + HDMI | **44,82 $** |
 | **TOTAL** | **110,06 $** |
 
-Provision initiale :
+Provision originale :
 
 > **250 $**
 
@@ -457,7 +431,7 @@ Provision initiale :
 
 > # ✅ RÉGLÉE
 
-L'assurance collective du travail offre une couverture suffisante.
+L'assurance collective du travail fournit une couverture suffisante.
 
 Assurance supplémentaire :
 
@@ -465,7 +439,7 @@ Assurance supplémentaire :
 
 ---
 
-# 23. 🍜 Nourriture
+# 23. 🍜 Nourriture en Corée
 
 Provision conservatrice :
 
@@ -475,7 +449,7 @@ Sur environ 17 jours :
 
 > **~41 $ / jour**
 
-Cette enveloppe couvre :
+Elle couvre :
 
 - brunch/dîner;
 - souper;
@@ -484,15 +458,11 @@ Cette enveloppe couvre :
 - boissons courantes;
 - quelques repas plus coûteux.
 
-Les grosses soirées alcoolisées sont considérées comme des **sorties** plutôt que comme de la nourriture.
+Les grosses soirées alcoolisées sont comptabilisées comme sorties.
 
 ---
 
-# 24. 💰 Budget maître
-
-Budget maximal :
-
-# **5 000,00 $**
+# 24. 💰 Budget voyage — 5 000 $
 
 ## Coûts connus
 
@@ -516,7 +486,7 @@ Disponible après coûts connus :
 
 ---
 
-# 25. 🧮 Provisions restantes
+# 25. 🧮 Provisions voyage restantes
 
 | Poste | Provision |
 |---|---:|
@@ -524,9 +494,9 @@ Disponible après coûts connus :
 | 🏠 Hébergement 4–8 nov. | **350 $** |
 | 🚄 Séoul → Busan | **75 $** |
 | 🚄 Retour / interurbain | **75 $** |
-| 🚇 Transport local Corée | **125 $** |
+| 🚇 Transport local | **125 $** |
 | 🚍🚇 Brossard ↔ YUL | **30 $** |
-| **TOTAL PROVISIONNÉ** | **1 355 $** |
+| **TOTAL** | **1 355 $** |
 
 Calcul :
 
@@ -536,28 +506,23 @@ Calcul :
 
 ---
 
-# 26. 🎉 À quoi servent les 797,12 $
+# 26. 🎉 Marge discrétionnaire
 
-Tous les besoins essentiels ou hautement prévisibles sont maintenant couverts ou provisionnés.
-
-Les **797,12 $** peuvent donc essentiellement servir à :
+Les **797,12 $** restent disponibles principalement pour :
 
 - 🎸 concerts;
 - 🍺 bars / sorties;
 - 🎟️ activités supplémentaires;
 - 🚕 taxis;
-- 🛍️ souvenirs;
-- magasinage;
+- 🛍️ souvenirs / magasinage;
 - dépenses spontanées;
 - 🧯 imprévus.
 
-Sur 17 jours, cela représente théoriquement :
+Sur 17 jours :
 
 > **~46,89 $ / jour**
 
-**en plus** des ~41 $/jour déjà réservés pour la nourriture et des transports publics déjà provisionnés.
-
-Il ne s'agit donc pas d'un budget de subsistance : c'est essentiellement la marge de plaisir et de sécurité du séjour.
+Cette somme est **en plus** des provisions nourriture, transports et hébergements.
 
 ---
 
@@ -569,7 +534,7 @@ Il ne s'agit donc pas d'un budget de subsistance : c'est essentiellement la marg
 | Fonds supplémentaires | **29 octobre** | **~1 000 $** |
 | **TOTAL** | | **~2 250 $** |
 
-Ces fonds devront financer à la fois certaines provisions encore non payées et les dépenses discrétionnaires.
+Ces sommes représentent le cash/account disponible pendant le séjour, pas uniquement le budget discrétionnaire.
 
 ---
 
@@ -579,7 +544,7 @@ Crédit déjà disponible :
 
 > **~1 000 $**
 
-Crédit supplémentaire prévu :
+Crédit supplémentaire :
 
 > **~500 $**
 
@@ -587,13 +552,11 @@ Total :
 
 # **~1 500 $**
 
-Cette somme constitue un **filet de sécurité**.
-
-Elle ne fait pas augmenter le budget officiel au-dessus de 5 000 $.
+Il s'agit d'un **filet de sécurité** et non d'une extension automatique du budget de 5 000 $.
 
 ---
 
-# 29. 🧙 Vente Magic — réalisé
+# 29. 🧙 Vente Magic — financement réalisé
 
 Montant encaissé :
 
@@ -603,7 +566,7 @@ Montant encaissé :
 |---|---:|
 | Capital One | **−985 $** |
 | Best Buy | **−830 $** |
-| **Reste du produit MTG** | **1 485 $** |
+| **Reste** | **1 485 $** |
 
 ### Capital One
 
@@ -613,60 +576,75 @@ Montant encaissé :
 
 > ✅ **Cleared**
 
-Le remboursement de Best Buy a évité environ **400–500 $ d'intérêts potentiels**.
+Cela évite environ **400–500 $ d'intérêts potentiels**.
 
 ---
 
 # 30. 🧙 Scrubland + Sliver Queen
 
-Annonces actives sur Facebook Marketplace et dans les groupes privés MTG.
+Annonces déjà actives sur Facebook Marketplace et dans les groupes privés MTG.
 
-| Carte | Affiché | Espéré |
+| Carte | Prix affiché | Espéré |
 |---|---:|---:|
 | Scrubland | **375 $** | **325–350 $** |
 | Sliver Queen | **300 $** | **250–275 $** |
 | **TOTAL** | **675 $** | **575–625 $** |
 
-Forecast officiel :
+Forecast budgétaire :
 
 > **0 $**
 
-Forecast potentiel :
+Potentiel :
 
 > **+575 à +625 $**
 
-Le voyage ne dépend pas de ces ventes.
+Le voyage ne dépend donc pas de leur vente.
 
 ---
 
-# 31. 🏠 Budget foyer
+# 31. 🏠 Budget foyer — séparé du voyage
 
-Le budget foyer demeure séparé du plafond de **5 000 $ du voyage**.
+Les dépenses destinées aux enfants et aux animaux ne sont **pas incluses dans les 5 000 $ du voyage**.
 
-Il comprend :
-
-- épicerie enfants;
-- nourriture animaux;
-- promeneuse;
-- autres besoins domestiques pendant l'absence.
+Elles doivent cependant être suivies dans le cashflow entourant le départ.
 
 ---
 
-# 32. 🛒 Enfants
+# 32. 🛒 Épicerie enfants
 
-### 15 octobre
+Il existe maintenant **deux enveloppes distinctes**.
 
-L'épicerie doit couvrir adéquatement leurs besoins avant le départ.
+| Achat | Période couverte | Enveloppe |
+|---|---|---:|
+| **15 octobre** | **15 → 29 octobre** | **400 $** |
+| **29 octobre** | **29 oct. → 12 nov.** | **400 $** |
+| **TOTAL** | **15 oct. → 12 nov.** | **800 $** |
 
-### 29 octobre → 12 novembre
-
-Provision :
+### Première enveloppe — 15 octobre
 
 # **400 $**
 
-Cette somme peut être modulée après discussion avec les enfants.
+Elle couvre :
 
-Par prudence, aucune économie n'est comptabilisée d'avance.
+> **15 → 29 octobre**
+
+Cette épicerie doit permettre aux enfants d'être correctement approvisionnés avant et pendant le début de l'absence.
+
+### Deuxième enveloppe — 29 octobre
+
+# **400 $**
+
+Elle couvre :
+
+> **29 octobre → 12 novembre**
+
+Comme tu seras absent, tu dois vérifier avec les enfants s'ils ont réellement besoin du montant complet.
+
+Pour le forecast :
+
+> **400 $ intégralement provisionnés**
+
+Toute économie éventuelle sera traitée comme du buffer seulement une fois confirmée.
 
 ---
 
@@ -682,7 +660,7 @@ Par prudence, aucune économie n'est comptabilisée d'avance.
 
 ### Nourriture
 
-Elle doit couvrir **tout le voyage**.
+Elle doit couvrir **l'intégralité du voyage**.
 
 Deadline :
 
@@ -690,7 +668,7 @@ Deadline :
 
 À cette date :
 
-- achats terminés;
+- derniers achats terminés;
 - nourriture disponible;
 - portions préparées;
 - instructions claires.
@@ -701,11 +679,27 @@ Deadline :
 
 > **2–3 promenades par semaine**
 
-Coût et disponibilité restent ouverts.
+Coût et disponibilité restent à déterminer.
+
+Cette dépense appartient au **budget foyer**, pas au budget Corée.
 
 ---
 
-# 34. ⏰ Rappels / Google Agenda
+# 34. 🏠 Budget foyer actuellement identifié
+
+| Poste | Montant |
+|---|---:|
+| 🛒 Épicerie 15–29 oct. | **400 $** |
+| 🛒 Épicerie 29 oct.–12 nov. | **400 $** |
+| 🐕🐈 Nourriture animaux | **À déterminer** |
+| 🐕 Promeneuse | **À déterminer** |
+| **Minimum déjà provisionné** | **800 $** |
+
+Ce budget doit être intégré au **cashflow personnel**, mais ne modifie pas la marge discrétionnaire de **797,12 $ du voyage**.
+
+---
+
+# 35. ⏰ Rappels / Google Agenda
 
 | Date | Tâche | Système |
 |---|---|---|
@@ -716,26 +710,26 @@ Coût et disponibilité restent ouverts.
 | **15 oct.** | 🎸 Spectacles Hongdae | 🔔 |
 | **18 oct.** | Checklist départ | 🔔 |
 | **22 oct.** | Busan Top 10 | 🔔 |
-| **1 nov.** | Décider du bloc 4–8 novembre | 🔔 |
+| **1 nov.** | Décider bloc 4–8 novembre | 🔔 |
 
 ---
 
-# 35. 📆 Échéancier maître
+# 36. 📆 Échéancier financier et logistique
 
-| Date | Action | Statut / montant |
+| Date | Action | Montant / statut |
 |---|---|---|
 | **Maintenant** | eSIM | ✅ |
 | **Maintenant** | Assurance | ✅ |
-| **Maintenant** | Scrubland + Sliver Queen | 🟢 En vente |
+| **Maintenant** | MTG restantes | 🟢 En vente |
 | **Septembre** | Promeneuse | 🟡 |
 | **15 sept.** | 🚍 Réserver navette aller | 📅 |
 | **20 sept.** | ✈️ Air Canada | **275,94 $** |
 | **30 sept.** | 🚍 Réserver navette retour | 📅 |
 | **30 sept. 18 h** | 🚄 Réserver KTX | 🔔 |
 | **12 oct.** | 🏠 Hongdae | **593,34 $** |
-| **15 oct.** | 🛒 Épicerie enfants | 🟡 |
+| **15 oct.** | 🛒 Épicerie enfants | **400 $** |
 | **15 oct.** | 🎸 Concerts | 🔔 |
-| **17 oct.** | 🏠 Busan | **147,99 $** |
+| **17 oct.** | 🏠 Busan — solde | **147,99 $** |
 | **18 oct.** | Checklist départ | 🔔 |
 | **20 oct.** | ✈️ Air Canada | **275,94 $** |
 | **≤20 oct.** | 🐕🐈 Nourriture animaux | 🟡 |
@@ -746,7 +740,7 @@ Coût et disponibilité restent ouverts.
 | **26 oct.** | 🌙 Croisière | ✅ |
 | **27 oct.** | 🇰🇷 DMZ | ✅ |
 | **29 oct.** | 💵 Fonds supplémentaires | **~1 000 $** |
-| **29 oct.** | 🛒 Enfants | **400 $ réservé / modulable** |
+| **29 oct.** | 🛒 Épicerie enfants | **400 $ max / modulable** |
 | **1 nov.** | 🚄 Séoul → Busan | 🟡 |
 | **4–8 nov.** | 🏠 Hébergement | **350 $ provisionnés** |
 | **20 nov.** | ✈️ Air Canada | **275,94 $** |
@@ -755,55 +749,83 @@ Coût et disponibilité restent ouverts.
 
 ---
 
-# 36. 💰 Réconciliation complète du budget
+# 37. 💰 Réconciliation complète du budget voyage
 
 | Catégorie | Montant |
 |---|---:|
 | 📌 Coûts connus | **2 847,88 $** |
 | 🍜 Nourriture | **700,00 $** |
 | 🏠 Hébergement final | **350,00 $** |
-| 🚄 Interurbain | **150,00 $** |
-| 🚇 Transport local | **125,00 $** |
+| 🚄 Transport interurbain | **150,00 $** |
+| 🚇 Transport local Corée | **125,00 $** |
 | 🚍🚇 Transport YUL | **30,00 $** |
 | 🎉 **Marge discrétionnaire** | **797,12 $** |
 | **TOTAL** | **5 000,00 $** |
 
-Le budget de **5 000 $ est maintenant entièrement ventilé**.
+# **Budget parfaitement réconcilié : 5 000,00 $**
 
 ---
 
-# 37. Comment gérer le budget à partir de maintenant
+# 38. 💵 Vue voyage vs foyer
 
-À chaque nouvel achat :
+Cette distinction devient importante.
 
-> **provision → coût réel → différence retournée à la marge**
+### 🇰🇷 Voyage
+
+> **5 000 $**
+
+Budget entièrement ventilé.
+
+### 🏠 Foyer
+
+Minimum déjà identifié :
+
+> **800 $ d'épicerie**
+
+Plus :
+
+> nourriture animaux + promeneuse
+
+Ces dépenses ne réduisent **pas** le budget de voyage, mais elles réduisent évidemment les liquidités générales disponibles autour du départ.
+
+---
+
+# 39. Méthode de suivi
+
+Pour chaque dépense future du voyage :
+
+> **Provision → achat réel → différence → marge discrétionnaire**
 
 Exemple :
 
-Si le KTX coûte finalement **61 $** plutôt que les **75 $ provisionnés** :
+KTX provisionné :
 
-> **+14 $ retournent à la marge discrétionnaire**
+> **75 $**
 
-Même logique pour :
+S'il coûte réellement 62 $ :
 
-- hébergement final;
+> **13 $ retournent aux 797,12 $**
+
+Même principe pour :
+
+- transport YUL;
 - nourriture;
-- transport local;
-- navette YUL.
+- hébergement final;
+- transport local.
 
-Cette méthode évite de gonfler progressivement le budget chaque fois qu'une nouvelle dépense apparaît.
+Le plafond de **5 000 $ ne bouge pas**.
 
 ---
 
-# 38. Tableau de progression
+# 40. Tableau de progression
 
 | Dossier | Statut |
 |---|---|
-| ✈️ Air Canada | ✅ |
+| ✈️ Vol | ✅ |
 | 🏠 Hongdae | ✅ |
 | 🏠 Nuit supplémentaire | ✅ |
-| 🏠 Busan | ✅ Réservé / solde restant |
-| 🏠 4–8 nov. | 💰 **350 $ provisionnés** |
+| 🏠 Busan | ✅ / solde restant |
+| 🏠 4–8 nov. | 💰 350 $ |
 | 🌙 Croisière | ✅ |
 | 🇰🇷 DMZ | ✅ |
 | 📱 eSIM | ✅ |
@@ -813,53 +835,53 @@ Cette méthode évite de gonfler progressivement le budget chaque fois qu'une no
 | 🚍 Navette YUL | 🟡 |
 | 🚄 KTX aller | 🔔 |
 | 🚄 Retour interurbain | 💰 |
-| 🚇 Transport local | 💰 **125 $** |
-| 🍜 Nourriture | 💰 **700 $** |
+| 🚇 Transport local | 💰 |
+| 🍜 Nourriture | 💰 |
 | 💳 Capital One | ✅ |
 | 🧾 Best Buy | ✅ |
 | 🧙 Scrubland | 🟢 |
 | 🧙 Sliver Queen | 🟢 |
 | 🎸 Concerts | 🔔 |
+| 🛒 Épicerie 15 oct. | 💰 **400 $** |
+| 🛒 Épicerie 29 oct. | 💰 **400 $ max** |
 | 🐕 Promeneuse | 🟡 |
-| 🛒 Enfants | 🟡 |
-| 🐕🐈 Animaux | 🟡 |
+| 🐕🐈 Nourriture animaux | 🟡 |
 | 🧳 Packing | ⏳ |
 
 ---
 
-# 39. Priorités actuelles
+# 41. Priorités actuelles
 
-1. **🚍 15 septembre — réserver la navette aller.**
-2. **🚍 30 septembre — réserver la navette retour.**
-3. **🚄 30 septembre à 18 h — réserver le KTX.**
-4. **🐕 Trouver la promeneuse et déterminer le coût.**
-5. **🧙 Continuer les ventes Scrubland / Sliver Queen.**
-6. **🎸 15 octobre — vérifier les concerts.**
-7. **🛒 15 octobre — épicerie enfants.**
-8. **🐕🐈 20 octobre maximum — nourriture animaux prête.**
-9. **🧳 22 octobre — packing final.**
-10. **💵 Conserver la cible de liquidités prévue au départ.**
+1. 🚍 **15 septembre — réserver la navette aller.**
+2. 🚍 **30 septembre — réserver la navette retour.**
+3. 🚄 **30 septembre à 18 h — réserver le KTX.**
+4. 🐕 **Trouver la promeneuse et déterminer le coût.**
+5. 🧙 **Continuer Scrubland + Sliver Queen.**
+6. 🛒 **15 octobre — épicerie 400 $ couvrant le 15–29 octobre.**
+7. 🎸 **15 octobre — vérifier les concerts.**
+8. 🐕🐈 **20 octobre maximum — nourriture animaux prête.**
+9. 🧳 **22 octobre — packing final.**
+10. 🛒 **29 octobre — jusqu'à 400 $ pour le 29 oct.–12 nov., selon les besoins réels des enfants.**
 
 ---
 
-# 40. Statut général
+# 42. Statut général
 
-Le budget du voyage est maintenant beaucoup plus mature qu'un simple plafond de **5 000 $**.
+Le budget voyage est maintenant **entièrement structuré**.
 
-Les dépenses essentielles sont soit **connues**, soit **provisionnées avec des hypothèses volontairement conservatrices**. Cela inclut maintenant le vol, les hébergements connus, les quatre dernières nuits, les deux déplacements interurbains, la nourriture, le transport local, la connectivité et le transport vers YUL.
+Sur les **5 000 $**, les coûts connus représentent **2 847,88 $** et les dépenses futures prévisibles sont provisionnées à hauteur de **1 355 $**. Il reste donc :
 
-Après tout cela :
+# 🎉 **797,12 $ réellement discrétionnaires**
 
-# 🎉 **797,12 $ demeurent réellement discrétionnaires.**
+Ce montant est disponible après avoir déjà prévu la nourriture, les quatre dernières nuits, les deux déplacements interurbains, les transports locaux en Corée et le transport Brossard ↔ YUL.
 
-Ce montant représente environ **47 $ par jour de latitude supplémentaire**, alors que la nourriture, les transports publics, les hébergements et les déplacements interurbains sont déjà budgétés séparément.
+Le budget foyer est désormais clairement séparé. Deux enveloppes de **400 $** couvrent successivement :
 
-Le plafond de **5 000 $ demeure donc tout à fait cohérent**. Il n'y a actuellement aucune raison de l'augmenter.
+> **15–29 octobre**  
+> **29 octobre–12 novembre**
 
-Le scénario de base continue par ailleurs de compter les deux cartes Magic restantes à **0 $**. Une éventuelle vente de Scrubland et Sliver Queen dans la fourchette espérée de **575–625 $** améliore donc la sécurité financière sans être nécessaire à la viabilité du voyage.
+soit **800 $ d'épicerie provisionnés**, auxquels s'ajouteront la nourriture des animaux et éventuellement la promeneuse.
 
-À partir de maintenant, la bonne mécanique est simplement :
+Enfin, le scénario financier continue de considérer **Scrubland et Sliver Queen à 0 $ tant qu'elles ne sont pas vendues**. Les **575–625 $ potentiels** demeurent donc un bonus et non une condition pour rendre le voyage viable.
 
-> **on achète → on remplace la provision par le coût réel → on retourne l'économie éventuelle aux 797,12 $.**
-
-Autrement dit, on a fini de deviner combien le voyage pourrait coûter. On a maintenant un véritable **budget opérationnel**.
+À ce stade, le **5 000 $ de budget Corée tient très bien**. L'enjeu à surveiller n'est plus vraiment le coût total du voyage : c'est surtout le **timing du cashflow entre le 12 et le 29 octobre**, puisqu'une bonne partie des dépenses foyer, des soldes d'hébergement et du paiement Air Canada arrivent dans cette fenêtre.

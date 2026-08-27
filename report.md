@@ -35,7 +35,7 @@
 | 🎉 Marge discrétionnaire | **797,12 $** |
 | 🛒 Budget foyer épicerie | **800 $ séparés** |
 | 💳 Réserve de crédit | **~1 500 $** |
-| 🧙 MTG restant | **Scrubland + Sliver Queen** |
+| 🧙 MTG restant | **Sliver Queen seulement** |
 
 ---
 
@@ -470,15 +470,17 @@ Filet de sécurité, pas extension du budget.
 
 # 25. 🧙 Magic
 
-Déjà encaissé :
+Total encaissé :
 
-> **3 300 $**
+> **3 650 $**
+
+La vente de **Scrubland à 350 $** est maintenant complétée.
 
 | Affectation | Montant |
 |---|---:|
 | Capital One | **985 $** |
 | Best Buy | **830 $** |
-| **Reste** | **1 485 $** |
+| **Reste non affecté** | **1 835 $** |
 
 Capital One :
 
@@ -494,19 +496,28 @@ Best Buy :
 
 ---
 
-# 26. 🧙 Cartes restantes
+# 26. 🧙 Cartes Magic
+
+## Vente complétée
+
+| Carte | Prix de vente | Statut |
+|---|---:|---|
+| Scrubland | **350 $** | ✅ Vendue |
+
+Le produit de **350 $** demeure non affecté et ne modifie pas la marge discrétionnaire officielle du voyage.
+
+## Carte encore en vente
 
 | Carte | Affiché | Espéré |
 |---|---:|---:|
-| Scrubland | **375 $** | **325–350 $** |
 | Sliver Queen | **300 $** | **250–275 $** |
-| **TOTAL** | **675 $** | **575–625 $** |
+| **TOTAL RESTANT** | **300 $** | **250–275 $** |
 
-Annonces actives sur Marketplace et groupes MTG.
+Annonce active sur Marketplace et groupes MTG.
 
-Budget officiel :
+Budget voyage additionnel provenant des ventes :
 
-> **0 $ tant que non vendues**
+> **0 $ tant qu'aucune affectation explicite n'est décidée**
 
 ---
 
@@ -602,7 +613,7 @@ Promeneuse :
 | 🚄 KTX | 🔔 |
 | 🚇 Transport local | 💰 125 $ |
 | 🍜 Nourriture | 💰 700 $ |
-| 🧙 Scrubland | 🟢 En vente |
+| 🧙 Scrubland | ✅ Vendue — 350 $ |
 | 🧙 Sliver Queen | 🟢 En vente |
 | 🛒 Épicerie foyer | 💰 800 $ |
 | 🐕 Promeneuse | 🟡 |

@@ -1,13 +1,20 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 26 août 2026**<br>
+**Dernier contrôle : 26 août 2026 à 22 h 20 HAE (UTC−4)**<br>
 **État : 🟢 horaires cohérents; aucune anomalie importante détectée**
 
-Sources consultées :
+## Sources et méthode de validation
 
-- [Grille Asie — AC63 et AC64](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-ASIA-Asia.pdf)
-- [Grille Canada Ouest — AC303 et AC314](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-CANADA-WesternCanada.pdf)
+Les PDF d'Air Canada constituent une bonne référence saisonnière, mais ils ne sont pas traités comme une source dynamique suffisante. Le contrôle suit désormais cette hiérarchie :
+
+1. **Source Air Canada dynamique** — [horaire interactif](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html), puis dossier de réservation lorsqu'il est accessible.
+2. **Validation dynamique croisée par numéro de vol** — [AC303](https://www.flight.info/AC303), [AC63](https://www.flight.info/AC63), [AC64](https://www.flight.info/AC64) et [AC314](https://www.flight.info/AC314).
+3. **Référence saisonnière Air Canada** — [grille Asie](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-ASIA-Asia.pdf) et [grille Canada Ouest](https://vacations.aircanada.com/en/travel-info/where-we-fly/files/EN-CANADA-WesternCanada.pdf).
+
+L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) fournit les renseignements opérationnels les plus récents, mais sa fenêtre utile est proche du départ. Il sera donc ajouté aux contrôles finaux à l'approche du voyage.
+
+Au contrôle du **26 août 2026 à 22 h 20 HAE**, les pages dynamiques par numéro de vol concordaient avec les horaires consignés ci-dessous. L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération; si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter le PDF comme une confirmation en temps réel.
 
 Les horaires demeurent sujets à changement. Chaque heure indique le fuseau local et l'équivalent à Montréal lorsqu'il diffère.
 
@@ -71,6 +78,8 @@ Avant chaque régénération du dossier, vérifier **AC303 → AC63 → AC64 →
 - fuseaux locaux et équivalents à Montréal;
 - durée des correspondances;
 - toute modification importante visible publiquement.
+
+À l'approche du départ, ajouter une vérification dans **État des vols Air Canada** et dans le dossier de réservation.
 
 Mettre ensuite à jour la date du dernier contrôle et les changements détectés.
 

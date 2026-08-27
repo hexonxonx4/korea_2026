@@ -31,11 +31,13 @@
 
 ## Tableau de progression
 
+**Légende :** ✅ terminé, payé ou confirmé · 🟢 suivi actif, sans action immédiate · 🟡 action ou confirmation requise · 🔔 réservation à effectuer à une date précise · 💰 montant provisionné · ⏳ à faire plus tard ou pas encore commencé
+
 | Dossier | Statut |
 |---|---|
 | AC303 / AC63 / AC64 / AC314 | 🟢 Contrôlés |
 | Hongdae | ✅ |
-| Nuit supplémentaire | ✅ |
+| Nuit supplémentaire — Hongdae | ✅ |
 | Busan | ✅ Réservé; solde restant |
 | Hébergement 4–8 novembre | 💰 350 $ provisionnés |
 | Croisière | ✅ |

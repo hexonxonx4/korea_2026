@@ -1,4 +1,4 @@
-# 🚄 Transports et logistique
+# 🚄 Transports
 
 ## KTX et transport interurbain
 
@@ -11,12 +11,22 @@ Provision totale : **150 $**.
 
 - Réserver le premier trajet le **30 septembre à 18 h**.
 - Départ visé le **1er novembre entre 11 h et 13 h**.
+- Vérifier et acheter les billets sur le site officiel [KORAIL — réservation internationale](https://korail.go.kr/global/eng/main).
 
 ## Transport local en Corée
 
 Provision : **125 $**, soit environ **7,35 $ par jour**.
 
 Cette enveloppe couvre métro, autobus et transports publics courants. Les taxis sont discrétionnaires.
+
+Liens officiels à consulter avant l'achat ou le chargement des titres :
+
+- [Transports publics de Séoul](https://english.seoul.go.kr/service/movement/public-transportation/) — cartes de transport, métro et autobus;
+- [Guide officiel du métro de Séoul](https://english.visitseoul.net/subway) — tarifs, fonctionnement et achat des titres;
+- [Busan — transports publics](https://www.busan.go.kr/eng/public-transportation) — autobus, métro et correspondances;
+- [Busan Transportation Corporation — tarifs du métro](https://www2.humetro.busan.kr/homepage/english/page/subLocation.do?menu_no=1001010501).
+
+À vérifier avant le départ : compatibilité et conditions d'achat de **T-money**, tarifs alors en vigueur, moyens de recharge acceptés et intérêt réel d'un laissez-passer par rapport au paiement à l'usage.
 
 ## Brossard ↔ YUL
 
@@ -30,30 +40,5 @@ Rappels Google Agenda :
 
 - **15 septembre à 9 h** — réserver la navette aller;
 - **30 septembre à 9 h** — réserver la navette retour.
-
-## eSIM
-
-| Élément | Situation |
-|---|---|
-| Prix | **39,11 $ CAD — payé** |
-| Revendeur | Trazy |
-| Réseau | SK Telecom |
-| Forfait | Unlimited 5G |
-| Durée | 20 jours / 480 h |
-| QR | Reçu |
-
-## Équipement
-
-| Équipement | Coût |
-|---|---:|
-| UA Hustle 6.0 — 29 L | **65,24 $** |
-| Adaptateur Anker + HDMI | **44,82 $** |
-| **TOTAL** | **110,06 $** |
-
-Économie par rapport à la provision initiale de 250 $ : **139,94 $**.
-
-## Assurance
-
-L'assurance collective est jugée suffisante. Assurance supplémentaire : **0 $**.
 
 [← Retour au sommaire](../README.md)

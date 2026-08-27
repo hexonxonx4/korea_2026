@@ -5,7 +5,7 @@
 | Hébergement | Coût | Situation |
 |---|---:|---|
 | Hongdae principal | **593,34 $** | Paiement le 12 octobre |
-| Nuit supplémentaire | **106,09 $** | ✅ Payée |
+| Nuit supplémentaire — Hongdae | **106,09 $** | ✅ Payée |
 | Busan | **295,98 $** | 147,99 $ payé; 147,99 $ restant |
 | **TOTAL CONNU** | **995,41 $** | |
 

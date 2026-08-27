@@ -20,7 +20,7 @@ La marge représente environ **46,89 $ par jour**, en plus des postes déjà pay
 | Vol Air Canada | **1 655,64 $** |
 | Hongdae | **593,34 $** |
 | Busan | **295,98 $** |
-| Nuit supplémentaire | **106,09 $** |
+| Nuit supplémentaire — Hongdae | **106,09 $** |
 | Croisière | **47,66 $** |
 | DMZ | **0 $** |
 | Sac | **65,24 $** |
@@ -68,13 +68,21 @@ Les trois paiements post-voyage représentent **827,82 $**.
 
 ## Fonds et crédit
 
-| Date | Fonds prévus |
-|---|---:|
-| 23 octobre | **~1 250 $** |
-| 29 octobre | **~1 000 $** |
-| **TOTAL** | **~2 250 $** |
+| Date | Fonds prévus | Provenance |
+|---|---:|---|
+| 23 octobre | **~1 250 $** | Cashflow |
+| 29 octobre | **~1 000 $** | Cashflow |
+| **TOTAL** | **~2 250 $** | |
 
-Réserve de crédit : **~1 500 $**, soit environ 1 000 $ déjà disponibles et 500 $ supplémentaires prévus. Cette réserve est un filet de sécurité, pas une extension du budget.
+Réserve de crédit : **~1 500 $**.
+
+| Source | Crédit disponible ou prévu |
+|---|---:|
+| Capital One **8551** | **~1 000 $** |
+| Capital One **9727** | **~500 $** |
+| **TOTAL** | **~1 500 $** |
+
+Cette réserve est un filet de sécurité, pas une extension du budget.
 
 ## Magic
 

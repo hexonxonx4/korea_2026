@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 26 août 2026**
+**Dernière mise à jour : 26 août 2026 à 22 h 20 HAE (UTC−4)**
 
 ## Sommaire exécutif
 
@@ -18,7 +18,6 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Marge discrétionnaire | **797,12 $** |
 | Hébergement à décider | **4–8 novembre — 350 $ provisionnés** |
 | Prochaine action | **Réserver la navette aller — 15 septembre** |
-| Magic | **Scrubland vendue 350 $; Sliver Queen restante** |
 
 ## Points d'attention
 
@@ -36,7 +35,8 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | [Itinéraire](docs/itineraire.md) | Rythme du voyage et programme quotidien |
 | [Budget](docs/budget.md) | Coûts, provisions, marge, trésorerie, crédit et Magic |
 | [Hébergements](docs/hebergements.md) | Réservations, soldes et bloc du 4–8 novembre |
-| [Transports et logistique](docs/transports.md) | KTX, transports locaux, YUL, eSIM, équipement et assurance |
+| [Transports](docs/transports.md) | KTX, transports locaux et déplacements vers YUL |
+| [Logistique](docs/logistique.md) | eSIM, équipement et assurance |
 | [Activités](docs/activites.md) | Croisière, DMZ, concerts et priorités |
 | [Foyer et animaux](docs/foyer-animaux.md) | Épicerie des enfants, gardiens et promeneuse |
 | [Échéancier](docs/echeancier.md) | Prochaines actions et tableau de progression |

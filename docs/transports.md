@@ -19,6 +19,16 @@ Provision : **125 $**, soit environ **7,35 $ par jour**.
 
 Cette enveloppe couvre métro, autobus et transports publics courants. Les taxis sont discrétionnaires.
 
+### WOWPASS
+
+| Élément | Situation |
+|---|---|
+| Achat | ✅ **Payé — 5,53 $ CAD** |
+| Récupération | À l'arrivée à **Incheon (ICN)** |
+| Activation | À effectuer lors de la récupération |
+
+Le coût d'achat de la carte est comptabilisé parmi les coûts connus. La provision de **125 $** demeure disponible pour les titres, recharges et déplacements locaux.
+
 Liens officiels à consulter avant l'achat ou le chargement des titres :
 
 - [Transports publics de Séoul](https://english.seoul.go.kr/service/movement/public-transportation/) — cartes de transport, métro et autobus;
@@ -26,7 +36,7 @@ Liens officiels à consulter avant l'achat ou le chargement des titres :
 - [Busan — transports publics](https://www.busan.go.kr/eng/public-transportation) — autobus, métro et correspondances;
 - [Busan Transportation Corporation — tarifs du métro](https://www2.humetro.busan.kr/homepage/english/page/subLocation.do?menu_no=1001010501).
 
-À vérifier avant le départ : compatibilité et conditions d'achat de **T-money**, tarifs alors en vigueur, moyens de recharge acceptés et intérêt réel d'un laissez-passer par rapport au paiement à l'usage.
+À vérifier avant le départ : fonctionnement de la composante transport de la WOWPASS, compatibilité avec le réseau **T-money**, tarifs alors en vigueur, moyens de recharge acceptés et intérêt réel d'un laissez-passer par rapport au paiement à l'usage.
 
 ## Brossard ↔ YUL
 

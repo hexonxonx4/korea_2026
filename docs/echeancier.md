@@ -17,6 +17,7 @@
 | **Au plus tard le 20 oct.** | Préparer la nourriture des animaux |
 | **22 oct.** | Faire les bagages |
 | **23 oct.** | AC303 + AC63 |
+| **24 oct.** | Récupérer et activer la WOWPASS à Incheon |
 | **26 oct.** | Croisière |
 | **27 oct.** | DMZ |
 | **29 oct.** | Fonds supplémentaires — **~1 000 $** |
@@ -48,6 +49,7 @@
 | Navettes | 🟡 À réserver |
 | KTX | 🔔 À réserver |
 | Transport local | 💰 125 $ provisionnés |
+| WOWPASS | ✅ Achetée — 5,53 $; 🟡 à récupérer et activer à ICN |
 | Nourriture | 💰 700 $ provisionnés |
 | Scrubland | ✅ Vendue — 350 $ |
 | Sliver Queen | 🟢 En vente |

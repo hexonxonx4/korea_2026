@@ -6,12 +6,12 @@ Le budget voyage est distinct du budget foyer.
 
 | Catégorie | Montant |
 |---|---:|
-| Coûts connus | **2 847,88 $** |
+| Coûts connus | **2 853,41 $** |
 | Provisions | **1 355,00 $** |
-| **Marge discrétionnaire** | **797,12 $** |
+| **Marge discrétionnaire** | **791,59 $** |
 | **TOTAL** | **5 000,00 $** |
 
-La marge représente environ **46,89 $ par jour**, en plus des postes déjà payés ou provisionnés.
+La marge représente environ **46,56 $ par jour**, en plus des postes déjà payés ou provisionnés.
 
 ## Coûts connus
 
@@ -26,8 +26,9 @@ La marge représente environ **46,89 $ par jour**, en plus des postes déjà pay
 | Sac | **65,24 $** |
 | Adaptateur + HDMI | **44,82 $** |
 | eSIM | **39,11 $** |
+| WOWPASS | **5,53 $** |
 | Assurance supplémentaire | **0 $** |
-| **TOTAL** | **2 847,88 $** |
+| **TOTAL** | **2 853,41 $** |
 
 ## Provisions
 

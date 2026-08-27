@@ -15,7 +15,7 @@ Provision totale : **150 $**.
 
 ## Transport local en Corée
 
-Provision initiale : **125 $**. Après l'achat de la WOWPASS, il reste **119,47 $**, soit environ **7,03 $ par jour**.
+Provision initiale : **125 $**. Après l'achat de la WOWPASS et l'arrondi conservateur au dollar supérieur, il reste **120 $**, soit environ **7,06 $ par jour**.
 
 Cette enveloppe couvre métro, autobus et transports publics courants. Les taxis sont discrétionnaires.
 
@@ -27,7 +27,7 @@ Cette enveloppe couvre métro, autobus et transports publics courants. Les taxis
 | Récupération | À l'arrivée à **Incheon (ICN)** |
 | Activation | À effectuer lors de la récupération |
 
-Le coût d'achat de la carte est comptabilisé parmi les coûts connus et déduit de la provision initiale de transport local. Il reste donc **119,47 $** pour les titres, recharges et déplacements locaux.
+Le coût d'achat de la carte est comptabilisé parmi les coûts connus et déduit de la provision initiale de transport local. Le solde mathématique de **119,47 $** est provisionné à **120 $** selon la règle d'arrondi conservateur.
 
 Liens officiels à consulter avant l'achat ou le chargement des titres :
 

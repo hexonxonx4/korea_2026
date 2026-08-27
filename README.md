@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 27 août 2026 à 14 h 00 HAE (UTC−4)**
+**Dernière mise à jour : 27 août 2026 à 14 h 02 HAE (UTC−4)**
 
 ## Sommaire exécutif
 
@@ -14,8 +14,8 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés le 26 août** |
 | Budget voyage | **5 000,00 $ CAD** |
 | Coûts connus | **2 853,41 $** |
-| Provisions | **1 349,47 $** |
-| Marge discrétionnaire | **797,12 $** |
+| Provisions | **1 350 $** |
+| Marge discrétionnaire | **796,59 $** |
 | Hébergement à décider | **4–8 novembre — 350 $ provisionnés** |
 | Prochaine action | **Réserver la navette aller — 15 septembre** |
 
@@ -48,6 +48,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 - Pour chaque heure de vol, indiquer le fuseau local et l'équivalent à Montréal lorsqu'il diffère.
 - Modifier le document thématique canonique; le README ne contient qu'un résumé.
 - Recalculer et valider les totaux après tout changement financier.
+- Arrondir chaque provision au dollar entier supérieur; conserver les cents pour les coûts connus et la marge discrétionnaire.
 
 ## Historique
 

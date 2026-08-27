@@ -7,11 +7,11 @@ Le budget voyage est distinct du budget foyer.
 | Catégorie | Montant |
 |---|---:|
 | Coûts connus | **2 853,41 $** |
-| Provisions | **1 355,00 $** |
-| **Marge discrétionnaire** | **791,59 $** |
+| Provisions | **1 349,47 $** |
+| **Marge discrétionnaire** | **797,12 $** |
 | **TOTAL** | **5 000,00 $** |
 
-La marge représente environ **46,56 $ par jour**, en plus des postes déjà payés ou provisionnés.
+La marge représente environ **46,89 $ par jour**, en plus des postes déjà payés ou provisionnés.
 
 ## Coûts connus
 
@@ -37,9 +37,9 @@ La marge représente environ **46,56 $ par jour**, en plus des postes déjà pay
 | Nourriture | **700 $** |
 | Hébergement du 4 au 8 novembre | **350 $** |
 | Transport interurbain | **150 $** |
-| Transport local | **125 $** |
+| Transport local restant après l'achat de la WOWPASS | **119,47 $** |
 | Brossard ↔ YUL | **30 $** |
-| **TOTAL** | **1 355 $** |
+| **TOTAL** | **1 349,47 $** |
 
 La nourriture représente environ **41 $ par jour** et couvre repas, cafés, collations et boissons courantes. Les bars et grosses soirées relèvent de la marge discrétionnaire.
 

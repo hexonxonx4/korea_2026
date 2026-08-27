@@ -48,7 +48,7 @@
 | Assurance | ✅ |
 | Navettes | 🟡 À réserver |
 | KTX | 🔔 À réserver |
-| Transport local | 💰 125 $ provisionnés |
+| Transport local | 💰 119,47 $ restant après la WOWPASS |
 | WOWPASS | ✅ Achetée — 5,53 $; 🟡 à récupérer et activer à ICN |
 | Nourriture | 💰 700 $ provisionnés |
 | Scrubland | ✅ Vendue — 350 $ |

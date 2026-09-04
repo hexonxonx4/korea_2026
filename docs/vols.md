@@ -1,8 +1,8 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 26 août 2026 à 22 h 20 HAE (UTC−4)**<br>
-**État : 🟢 horaires cohérents; aucune anomalie importante détectée**
+**Dernier contrôle : 4 septembre 2026 à 10 h 06 HAE (UTC−4)**<br>
+**État : 🟢 horaires recoupés dans les sources publiques; confirmation du dossier Air Canada à refaire**
 
 ## Sources et méthode de validation
 
@@ -16,6 +16,14 @@ L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco
 
 Au contrôle du **26 août 2026 à 22 h 20 HAE**, les pages dynamiques par numéro de vol concordaient avec les horaires consignés ci-dessous. L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération; si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter le PDF comme une confirmation en temps réel.
 
+### Contrôle du 4 septembre 2026
+
+Les grilles Flight.info consultées concordent avec les quatre horaires consignés : AC303 le 23 octobre (grille du vendredi du 18 septembre au 23 octobre), AC63 le 23 octobre (8 septembre–23 octobre), AC64 le 8 novembre (1er novembre–16 décembre) et AC314 le 9 novembre (2 novembre–3 décembre). Les appareils affichés concordent également.
+
+L'horaire interactif Air Canada a été consulté, mais n'a retourné aucun résultat exploitable. Le dossier de réservation n'a pas été consulté. Ce contrôle public ne constitue donc pas une confirmation directe par Air Canada; les PDF saisonniers n'ont pas servi de preuve dynamique. Les copies des pages Flight.info fournies par l'outil de consultation datent de un à six jours.
+
+Les calculs à partir des heures locales donnent toujours **1 h 38 à l'aller**, **11 h 30 au retour** et **3 h 55 pour AC314**. Pour ce dernier, Flight.info affiche une durée de 4 h 55 incohérente avec 00 h 15 à Vancouver et 07 h 10 à Montréal, séparés de trois heures : la durée calculée est conservée, et cette divergence devra être vérifiée auprès d'Air Canada.
+
 Les horaires demeurent sujets à changement. Chaque heure indique le fuseau local et l'équivalent à Montréal lorsqu'il diffère.
 
 ## Aller — vendredi 23 octobre
@@ -23,7 +31,7 @@ Les horaires demeurent sujets à changement. Chaque heure indique le fuseau loca
 ### AC303 — Montréal → Vancouver
 
 > 🛫 **YUL : 8 h 30 HAE (UTC−4)** — heure de Montréal<br>
-> 🛬 **YVR : 10 h 42 HAP (UTC−7)** — **13 h 42 à Montréal (HAE)**<br>
+> 🛬 **YVR : 10 h 42 HAP (UTC−7)** — **13 h 42 à Montréal (HAE, UTC−4)**<br>
 > ✈️ Boeing 787-9<br>
 > ⏱️ Environ 5 h 12
 
@@ -37,8 +45,8 @@ Cette correspondance est cohérente, mais constitue le segment à surveiller à 
 
 ### AC63 — Vancouver → Séoul
 
-> 🛫 **YVR : 12 h 20 HAP (UTC−7)** — **15 h 20 à Montréal (HAE)**<br>
-> 🛬 **ICN : 16 h 05 KST (UTC+9) le 24 octobre** — **3 h 05 à Montréal (HAE) le 24 octobre**<br>
+> 🛫 **YVR : 12 h 20 HAP (UTC−7)** — **15 h 20 à Montréal (HAE, UTC−4)**<br>
+> 🛬 **ICN : 16 h 05 KST (UTC+9) le 24 octobre** — **3 h 05 à Montréal (HAE, UTC−4) le 24 octobre**<br>
 > ✈️ Boeing 787-9<br>
 > ⏱️ Environ 11 h 45
 
@@ -48,8 +56,8 @@ Le 23 octobre est la dernière journée de la grille saisonnière actuelle **12 
 
 ### AC64 — Séoul → Vancouver
 
-> 🛫 **ICN : 18 h 55 KST (UTC+9) le 8 novembre** — **4 h 55 à Montréal (HNE)**<br>
-> 🛬 **YVR : 12 h 45 HNP (UTC−8) le 8 novembre** — **15 h 45 à Montréal (HNE)**<br>
+> 🛫 **ICN : 18 h 55 KST (UTC+9) le 8 novembre** — **4 h 55 à Montréal (HNE, UTC−5)**<br>
+> 🛬 **YVR : 12 h 45 HNP (UTC−8) le 8 novembre** — **15 h 45 à Montréal (HNE, UTC−5)**<br>
 > ✈️ Boeing 787-9<br>
 > ⏱️ Environ 9 h 50
 
@@ -61,7 +69,7 @@ L'escale dure environ **11 h 30**, de **12 h 45 HNP le 8 novembre** à **00 h 15
 
 ### AC314 — Vancouver → Montréal
 
-> 🛫 **YVR : 00 h 15 HNP (UTC−8) le 9 novembre** — **3 h 15 à Montréal (HNE)**<br>
+> 🛫 **YVR : 00 h 15 HNP (UTC−8) le 9 novembre** — **3 h 15 à Montréal (HNE, UTC−5)**<br>
 > 🛬 **YUL : 7 h 10 HNE (UTC−5) le 9 novembre** — heure de Montréal<br>
 > ✈️ Airbus A220-300<br>
 > ⏱️ Environ 3 h 55

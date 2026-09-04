@@ -24,7 +24,7 @@
 | **29 oct.** | Épicerie — **400 $ maximum** |
 | **1 nov.** | Départ pour Busan |
 | **8 nov.** | AC64 — ICN → YVR |
-| **9 nov. — 00 h 15 HNP**<br>**3 h 15 à Montréal (HNE)** | AC314 — YVR → YUL |
+| **9 nov. — 00 h 15 HNP (UTC−8)**<br>**3 h 15 à Montréal (HNE, UTC−5)** | AC314 — YVR → YUL |
 | **9 nov.** | Retour au Québec |
 | **20 nov.** | Air Canada — **275,94 $** |
 | **20 déc.** | Air Canada — **275,94 $** |
@@ -36,7 +36,7 @@
 
 | Dossier | Statut |
 |---|---|
-| AC303 / AC63 / AC64 / AC314 | 🟢 Contrôlés |
+| AC303 / AC63 / AC64 / AC314 | 🟢 Recoupés le 4 septembre; confirmation Air Canada à refaire |
 | Hongdae | ✅ |
 | Nuit supplémentaire — Hongdae | ✅ |
 | Busan | ✅ Réservé; solde restant |

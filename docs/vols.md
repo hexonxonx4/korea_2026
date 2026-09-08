@@ -1,8 +1,8 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 8 septembre 2026 à 13 h 25 HAE (UTC−4)**<br>
-**État : 🟢 horaires recoupés dans les sources publiques; confirmation du dossier Air Canada à refaire**
+**Dernier contrôle : 8 septembre 2026 à 14 h 03 HAE (UTC−4)**<br>
+**État : 🟡 contrôle dynamique non concluant; horaires saisonniers conservés et confirmation du dossier Air Canada à refaire**
 
 ## Sources et méthode de validation
 
@@ -14,13 +14,13 @@ Les PDF d'Air Canada constituent une bonne référence saisonnière, mais ils ne
 
 L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) fournit les renseignements opérationnels les plus récents, mais sa fenêtre utile est proche du départ. Il sera donc ajouté aux contrôles finaux à l'approche du voyage.
 
-Au contrôle du **26 août 2026 à 22 h 20 HAE**, les pages dynamiques par numéro de vol concordaient avec les horaires consignés ci-dessous. L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération; si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter le PDF comme une confirmation en temps réel.
+Au contrôle du **26 août 2026 à 22 h 20 HAE (UTC−4)**, les pages dynamiques par numéro de vol concordaient avec les horaires consignés ci-dessous. L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération; si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter le PDF comme une confirmation en temps réel.
 
-### Contrôle du 8 septembre 2026 à 13 h 25 HAE (UTC−4)
+### Contrôle du 8 septembre 2026 à 14 h 03 HAE (UTC−4)
 
-Les grilles Flight.info consultées concordent avec les quatre horaires consignés : AC303 le 23 octobre (grille du vendredi du 18 septembre au 23 octobre), AC63 le 23 octobre (8 septembre–23 octobre), AC64 le 8 novembre (1er novembre–16 décembre) et AC314 le 9 novembre (2 novembre–3 décembre). Les appareils affichés concordent également.
+Les vols ont été vérifiés dans l'ordre requis, **AC303 → AC63 → AC64 → AC314**. Les quatre pages dynamiques Flight.info ont refusé la consultation automatisée (HTTP 403). L'horaire interactif Air Canada était accessible, mais son interface n'a retourné aucun résultat de vol exploitable; le dossier de réservation n'a pas été consulté. Aucune source dynamique n'a donc permis de confirmer ou d'infirmer les horaires à ce contrôle.
 
-L'horaire interactif Air Canada a été consulté, mais n'a retourné aucun résultat exploitable. Le dossier de réservation n'a pas été consulté. Ce contrôle public ne constitue donc pas une confirmation directe par Air Canada; les PDF saisonniers n'ont pas servi de preuve dynamique. Les copies des pages Flight.info fournies par l'outil de consultation sont datées du jour pour AC303, de trois jours pour AC63 et AC64, et de la semaine précédente pour AC314.
+Les horaires ci-dessous sont conservés comme **références saisonnières**, et non comme données temps réel : AC303 le 23 octobre (grille du vendredi du 18 septembre au 23 octobre), AC63 le 23 octobre (8 septembre–23 octobre), AC64 le 8 novembre (1er novembre–16 décembre) et AC314 le 9 novembre (2 novembre–3 décembre). Ces références et les appareils consignés concordaient lors du dernier recoupement dynamique réussi, le **8 septembre 2026 à 13 h 25 HAE (UTC−4)**, mais doivent être confirmés directement dans le dossier Air Canada.
 
 Les calculs à partir des heures locales donnent toujours **1 h 38 à l'aller**, **11 h 30 au retour** et **3 h 55 pour AC314**. Pour ce dernier, Flight.info affiche une durée de 4 h 55 incohérente avec 00 h 15 à Vancouver et 07 h 10 à Montréal, séparés de trois heures : la durée calculée est conservée, et cette divergence devra être vérifiée auprès d'Air Canada.
 

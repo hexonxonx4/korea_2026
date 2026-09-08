@@ -38,7 +38,7 @@
 
 | Dossier | Statut |
 |---|---|
-| AC303 / AC63 / AC64 / AC314 | 🟢 Recoupés le 8 septembre; confirmation Air Canada à refaire |
+| AC303 / AC63 / AC64 / AC314 | 🟢 Recoupés le 8 septembre à 13 h 25 HAE (UTC−4); confirmation Air Canada à refaire |
 | Hongdae | ✅ |
 | Nuit supplémentaire — Hongdae | ✅ |
 | Busan — 1er au 5 novembre | 🟡 Nuit ajoutée; confirmation finale attendue; total **402,20 $** |

@@ -1,7 +1,7 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 8 septembre 2026 (heure de Montréal : HAE, UTC−4)**<br>
+**Dernier contrôle : 8 septembre 2026 à 13 h 25 HAE (UTC−4)**<br>
 **État : 🟢 horaires recoupés dans les sources publiques; confirmation du dossier Air Canada à refaire**
 
 ## Sources et méthode de validation
@@ -16,7 +16,7 @@ L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco
 
 Au contrôle du **26 août 2026 à 22 h 20 HAE**, les pages dynamiques par numéro de vol concordaient avec les horaires consignés ci-dessous. L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération; si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter le PDF comme une confirmation en temps réel.
 
-### Contrôle du 8 septembre 2026
+### Contrôle du 8 septembre 2026 à 13 h 25 HAE (UTC−4)
 
 Les grilles Flight.info consultées concordent avec les quatre horaires consignés : AC303 le 23 octobre (grille du vendredi du 18 septembre au 23 octobre), AC63 le 23 octobre (8 septembre–23 octobre), AC64 le 8 novembre (1er novembre–16 décembre) et AC314 le 9 novembre (2 novembre–3 décembre). Les appareils affichés concordent également.
 

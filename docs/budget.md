@@ -18,9 +18,9 @@ La marge représente environ **43,38 $ par jour**, en plus des postes déjà pay
 | Poste | Montant |
 |---|---:|
 | Vol Air Canada | **1 655,64 $** |
-| Hongdae | **593,34 $** |
-| Busan — 1er au 5 novembre | **402,20 $** |
-| Euljiro — 5 au 8 novembre | **302,88 $** |
+| [Hongdae](https://fr.airbnb.ca/rooms/1479499388321339986) | **593,34 $** |
+| [Busan — 1er au 5 novembre](https://fr.airbnb.ca/rooms/747276999137325483) | **402,20 $** |
+| [Euljiro — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** |
 | Nuit supplémentaire — Hongdae | **106,09 $** |
 | Croisière | **47,66 $** |
 | DMZ | **0 $** |

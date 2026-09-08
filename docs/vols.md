@@ -1,7 +1,7 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 4 septembre 2026 à 10 h 06 HAE (UTC−4)**<br>
+**Dernier contrôle : 8 septembre 2026 (heure de Montréal : HAE, UTC−4)**<br>
 **État : 🟢 horaires recoupés dans les sources publiques; confirmation du dossier Air Canada à refaire**
 
 ## Sources et méthode de validation
@@ -16,11 +16,11 @@ L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco
 
 Au contrôle du **26 août 2026 à 22 h 20 HAE**, les pages dynamiques par numéro de vol concordaient avec les horaires consignés ci-dessous. L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération; si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter le PDF comme une confirmation en temps réel.
 
-### Contrôle du 4 septembre 2026
+### Contrôle du 8 septembre 2026
 
 Les grilles Flight.info consultées concordent avec les quatre horaires consignés : AC303 le 23 octobre (grille du vendredi du 18 septembre au 23 octobre), AC63 le 23 octobre (8 septembre–23 octobre), AC64 le 8 novembre (1er novembre–16 décembre) et AC314 le 9 novembre (2 novembre–3 décembre). Les appareils affichés concordent également.
 
-L'horaire interactif Air Canada a été consulté, mais n'a retourné aucun résultat exploitable. Le dossier de réservation n'a pas été consulté. Ce contrôle public ne constitue donc pas une confirmation directe par Air Canada; les PDF saisonniers n'ont pas servi de preuve dynamique. Les copies des pages Flight.info fournies par l'outil de consultation datent de un à six jours.
+L'horaire interactif Air Canada a été consulté, mais n'a retourné aucun résultat exploitable. Le dossier de réservation n'a pas été consulté. Ce contrôle public ne constitue donc pas une confirmation directe par Air Canada; les PDF saisonniers n'ont pas servi de preuve dynamique. Les copies des pages Flight.info fournies par l'outil de consultation sont datées du jour pour AC303, de trois jours pour AC63 et AC64, et de la semaine précédente pour AC314.
 
 Les calculs à partir des heures locales donnent toujours **1 h 38 à l'aller**, **11 h 30 au retour** et **3 h 55 pour AC314**. Pour ce dernier, Flight.info affiche une durée de 4 h 55 incohérente avec 00 h 15 à Vancouver et 07 h 10 à Montréal, séparés de trois heures : la durée calculée est conservée, et cette divergence devra être vérifiée auprès d'Air Canada.
 

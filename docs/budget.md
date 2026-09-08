@@ -6,12 +6,12 @@ Le budget voyage est distinct du budget foyer.
 
 | Catégorie | Montant |
 |---|---:|
-| Coûts connus | **2 853,41 $** |
-| Provisions | **1 350 $** |
-| **Marge discrétionnaire** | **796,59 $** |
+| Coûts connus | **3 262,51 $** |
+| Provisions | **1 000 $** |
+| **Marge discrétionnaire** | **737,49 $** |
 | **TOTAL** | **5 000,00 $** |
 
-La marge représente environ **46,86 $ par jour**, en plus des postes déjà payés ou provisionnés.
+La marge représente environ **43,38 $ par jour**, en plus des postes déjà payés ou provisionnés.
 
 ## Coûts connus
 
@@ -19,7 +19,8 @@ La marge représente environ **46,86 $ par jour**, en plus des postes déjà pay
 |---|---:|
 | Vol Air Canada | **1 655,64 $** |
 | Hongdae | **593,34 $** |
-| Busan | **295,98 $** |
+| Busan — 1er au 5 novembre | **402,20 $** |
+| Euljiro — 5 au 8 novembre | **302,88 $** |
 | Nuit supplémentaire — Hongdae | **106,09 $** |
 | Croisière | **47,66 $** |
 | DMZ | **0 $** |
@@ -28,18 +29,17 @@ La marge représente environ **46,86 $ par jour**, en plus des postes déjà pay
 | eSIM | **39,11 $** |
 | WOWPASS | **5,53 $** |
 | Assurance supplémentaire | **0 $** |
-| **TOTAL** | **2 853,41 $** |
+| **TOTAL** | **3 262,51 $** |
 
 ## Provisions
 
 | Poste | Provision |
 |---|---:|
 | Nourriture | **700 $** |
-| Hébergement du 4 au 8 novembre | **350 $** |
 | Transport interurbain | **150 $** |
 | Transport local restant après l'achat de la WOWPASS | **120 $** |
 | Brossard ↔ YUL | **30 $** |
-| **TOTAL** | **1 350 $** |
+| **TOTAL** | **1 000 $** |
 
 Les provisions sont toujours arrondies au **dollar entier supérieur**. Les coûts connus et la marge discrétionnaire conservent les cents afin que la réconciliation demeure exacte.
 

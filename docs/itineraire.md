@@ -31,15 +31,16 @@ La K-pop fait donc pleinement partie de l'ambiance et des occasions à saisir, t
 | **1 nov.** | Séoul → Busan en KTX | 🟡 |
 | **2 nov.** | Busan | 🟢 |
 | **3 nov.** | Busan; Gwangalli en soirée | 🟢 |
-| **4 nov.** | Début du bloc flexible | 🟢 |
-| **5–7 nov.** | Libre | 🟢 |
+| **4 nov.** | Busan | ✅ |
+| **5 nov.** | Busan → Euljiro | ✅ |
+| **6–7 nov.** | Euljiro; Séoul libre | ✅ |
 | **8 nov.** | ICN → YVR — AC64 | 🟢 |
 | **9 nov.** | YVR → YUL — AC314; retour au Québec | 🟢 |
 
 ## Bases géographiques
 
 - **Séoul / Hongdae : 24 octobre au 1er novembre**
-- **Busan : 1er au 4 novembre**
-- **4 au 8 novembre : bloc ouvert**, avec retour à Séoul comme option de référence
+- **Busan : 1er au 5 novembre**
+- **Euljiro : 5 au 8 novembre**
 
 [← Retour au sommaire](../README.md)

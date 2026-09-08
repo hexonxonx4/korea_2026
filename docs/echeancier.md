@@ -6,12 +6,14 @@
 |---|---|
 | **15 sept.** | Réserver la navette aller |
 | **20 sept.** | Air Canada — **275,94 $** |
+| **28 sept.** | Euljiro — **302,88 $** |
 | **30 sept.** | Réserver la navette retour |
 | **30 sept. — 18 h** | Réserver le KTX |
 | **12 oct.** | Hongdae — **593,34 $** |
 | **15 oct.** | Épicerie — **400 $** |
 | **15 oct.** | Vérifier les concerts à Hongdae |
-| **17 oct.** | Busan — **147,99 $** |
+| **À la confirmation finale** | Busan — nuit ajoutée — **53,14 $** |
+| **17 oct.** | Busan — **201,07 $**, incluant l'ajout de **53,13 $** |
 | **18 oct.** | Checklist de départ |
 | **20 oct.** | Air Canada — **275,94 $** |
 | **Au plus tard le 20 oct.** | Préparer la nourriture des animaux |
@@ -39,8 +41,8 @@
 | AC303 / AC63 / AC64 / AC314 | 🟢 Recoupés le 8 septembre; confirmation Air Canada à refaire |
 | Hongdae | ✅ |
 | Nuit supplémentaire — Hongdae | ✅ |
-| Busan | ✅ Réservé; solde restant |
-| Hébergement 4–8 novembre | 💰 350 $ provisionnés |
+| Busan — 1er au 5 novembre | 🟡 Nuit ajoutée; confirmation finale attendue; total **402,20 $** |
+| Euljiro — 5 au 8 novembre | ✅ Réservé; **302,88 $** payables le 28 septembre |
 | Croisière | ✅ |
 | DMZ | ✅ |
 | eSIM | ✅ |

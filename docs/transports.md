@@ -7,7 +7,7 @@ Provision totale : **150 $**.
 | Trajet | Provision |
 |---|---:|
 | Séoul → Busan | **75 $** |
-| Retour vers Séoul / autre interurbain | **75 $** |
+| Retour vers Séoul / autre interurbain — à réserver le **4 octobre à 18 h** au besoin | **75 $** |
 
 - Réserver le premier trajet le **30 septembre à 18 h**.
 - Départ visé le **1er novembre entre 11 h et 13 h**.

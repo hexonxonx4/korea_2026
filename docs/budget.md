@@ -30,8 +30,6 @@ La marge représente environ **43,38 $ par jour**, en plus des postes déjà pay
 | Assurance supplémentaire | **0 $** |
 | **TOTAL** | **3 262,51 $** |
 
-Le total de Busan est de **402,20 $**, dont **201,07 $ payés** et une balance de **201,13 $** payable le **17 octobre**. Le regroupement du séjour de Hongdae dans un seul poste ne change pas le total des coûts connus.
-
 ## Provisions
 
 | Poste | Provision |
@@ -87,28 +85,5 @@ Réserve de crédit : **~1 500 $**.
 | **TOTAL** | **~1 500 $** |
 
 Cette réserve est un filet de sécurité, pas une extension du budget.
-
-## Magic
-
-Total encaissé : **3 650 $**.
-
-| Affectation | Montant |
-|---|---:|
-| Capital One | **985 $** |
-| Best Buy | **830 $** |
-| **Reste non affecté** | **1 835 $** |
-
-- Capital One : **0 $**
-- Best Buy : **Cleared**
-- Économie potentielle d'intérêts : **~400–500 $**
-
-### Cartes
-
-| Carte | Situation |
-|---|---|
-| Scrubland | ✅ **Vendue — 350 $** |
-| Sliver Queen | En vente à **300 $**; objectif **250–275 $** |
-
-Le produit de Scrubland demeure non affecté. Le budget voyage additionnel provenant des ventes reste donc à **0 $** tant qu'aucune affectation explicite n'est décidée.
 
 [← Retour au sommaire](../README.md)

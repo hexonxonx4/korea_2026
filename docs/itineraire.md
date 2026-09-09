@@ -8,13 +8,13 @@ Le séjour demeure volontairement lent et flexible :
 
 Les réservations servent de points d'ancrage sans transformer les vacances en horaire rigide.
 
-Et la K-pop, bordel? Elle ne sera pas une petite note de bas de page coincée entre deux stations de métro : elle sera la bande-son lumineuse du voyage. Hongdae doit vibrer de refrains beaucoup trop accrocheurs, de chorégraphies aperçues au détour d'une place, de boutiques de disques, de photobooths, de cafés thématiques, de pop-ups et de cette énergie de comeback qui donne envie de vérifier trois fois si un showcase surprise n'est pas apparu pendant la nuit. L'idée n'est pas de transformer chaque journée en pèlerinage chronométré, mais de laisser assez d'espace pour qu'un MV, un album, une affiche ou une foule de fans fasse dévier joyeusement le programme.
+La K-pop restera à une distance de sécurité confortable. Si un refrain trop brillant approche, l'itinéraire prévoit une manœuvre d'évitement vers le premier bar punk, hardcore, metal, rock alternatif ou indie. Aucun pèlerinage d'idoles, aucune chasse au comeback et zéro chorégraphie synchronisée : Séoul est assez grande pour que la K-pop et moi passions d'excellentes vacances chacun de notre côté.
 
 Priorités musicales complémentaires pour les soirées :
 
 > **punk → hardcore → metal → rock alternatif → indie**
 
-La K-pop fait donc pleinement partie de l'ambiance et des occasions à saisir, tandis que le punk, le hardcore, le metal, le rock alternatif et l'indie restent les terrains privilégiés pour les concerts et les bars.
+Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock alternatif et l'indie. La K-pop pourra continuer sa tournée sans moi; je serai probablement dans un sous-sol où une guitare maltraitée couvre toute possibilité de l'entendre.
 
 ## Programme quotidien
 
@@ -32,15 +32,15 @@ La K-pop fait donc pleinement partie de l'ambiance et des occasions à saisir, t
 | **2 nov.** | Busan | 🟢 |
 | **3 nov.** | Busan; Gwangalli en soirée | 🟢 |
 | **4 nov.** | Busan | ✅ |
-| **5 nov.** | Busan → Euljiro | ✅ |
-| **6–7 nov.** | Euljiro; Séoul libre | ✅ |
+| **5 nov.** | Busan → Séoul en KTX | 🟡 |
+| **6–7 nov.** | Séoul libre | ✅ |
 | **8 nov.** | ICN → YVR — AC64 | 🟢 |
 | **9 nov.** | YVR → YUL — AC314; retour au Québec | 🟢 |
 
 ## Bases géographiques
 
-- **Séoul / Hongdae : 24 octobre au 1er novembre**
+- **Séoul (Hongdae) : 24 octobre au 1er novembre**
 - **Busan : 1er au 5 novembre**
-- **Euljiro : 5 au 8 novembre**
+- **Séoul (Euljiro) : 5 au 8 novembre**
 
 [← Retour au sommaire](../README.md)

@@ -22,6 +22,6 @@ La vérification des spectacles à Hongdae est prévue le **15 octobre**. Les co
 
 ## Pistes libres
 
-Le séjour conserve volontairement de l'espace pour les découvertes spontanées à Séoul, Busan et Euljiro.
+Le séjour conserve volontairement de l'espace pour les découvertes spontanées à Séoul et Busan.
 
 [← Retour au sommaire](../README.md)

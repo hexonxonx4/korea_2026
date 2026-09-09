@@ -14,11 +14,7 @@
 | Hébergement | Échéance | Montant |
 |---|---|---:|
 | Euljiro | 28 septembre | **302,88 $** |
-| Hongdae principal | 12 octobre | **593,34 $** |
+| Hongdae | 12 octobre | **593,34 $** |
 | Busan | 17 octobre | **201,13 $** |
-
-Le total de Busan est de **402,20 $** pour **4 nuits, du 1er au 5 novembre**. Un montant de **201,07 $** a été payé et la balance de **201,13 $** est payable le **17 octobre**. Réconciliation : **201,07 $ + 201,13 $ = 402,20 $**.
-
-Les liens Airbnb de Hongdae, Busan et Euljiro sont conservés comme références fournies par le voyageur; leur contenu public n'était pas accessible lors de la régénération du **9 septembre 2026 à 11 h 08 HAE (UTC−4)**.
 
 [← Retour au sommaire](../README.md)

@@ -17,8 +17,8 @@ Ce document regroupe les éléments pratiques qui ne sont pas des moyens de tran
 
 | Équipement | Coût |
 |---|---:|
-| UA Hustle 6.0 — 29 L | **65,24 $** |
-| Adaptateur Anker + HDMI | **44,82 $** |
+| UA Hustle 6.0 — 29 L | **65,24 $ — payé** |
+| Adaptateur Anker + HDMI | **44,82 $ — payé** |
 | **TOTAL** | **110,06 $** |
 
 Économie par rapport à la provision initiale de 250 $ : **139,94 $**.

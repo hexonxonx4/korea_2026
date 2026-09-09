@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 9 septembre 2026 à 11 h 08 HAE (UTC−4)**
+**Dernière mise à jour : 9 septembre 2026 à 11 h 53 HAE (UTC−4)**
 
 ## Sommaire exécutif
 
@@ -10,23 +10,23 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 |---|---|
 | Séjour | **23 octobre → 8 novembre 2026** |
 | Retour au Québec | **9 novembre 2026** |
-| Parcours | **Séoul → Busan → Euljiro → retour** |
+| Parcours | **Hongdae (Séoul) → Busan → Euljiro (Séoul) → retour** |
 | Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 9 septembre à 0 h 12 HAE (UTC−4); aucun changement détecté dans les horaires publiés** |
 | Budget voyage | **5 000,00 $ CAD** |
 | Coûts connus | **3 262,51 $** |
 | Provisions | **1 000 $** |
 | Marge discrétionnaire | **737,49 $** |
-| Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre (4 nuits) · Euljiro : 5–8 novembre** |
+| Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre · Euljiro : 5–8 novembre** |
 | Prochaine action | **Réserver la navette aller — 15 septembre** |
 
 ## Points d'attention
 
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
-- Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre (4 nuits)** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
+- Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
 - Le séjour à Euljiro est réservé du **5 au 8 novembre**; **302,88 $** sont payables le **28 septembre**.
 - Le KTX Séoul–Busan doit être réservé le **30 septembre à 18 h**.
+- Le KTX Busan–Séoul doit être réservé le **4 octobre à 18 h**.
 - La promeneuse doit encore être confirmée, avec coût à déterminer.
-- Les **350 $** de la vente de Scrubland restent non affectés au budget voyage.
 
 ## Table des matières
 
@@ -34,7 +34,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 |---|---|
 | [Vols](docs/vols.md) | Horaires, fuseaux, correspondances et procédure de contrôle |
 | [Itinéraire](docs/itineraire.md) | Rythme du voyage et programme quotidien |
-| [Budget](docs/budget.md) | Coûts, provisions, marge, trésorerie, crédit et Magic |
+| [Budget](docs/budget.md) | Coûts, provisions, marge, trésorerie et crédit |
 | [Hébergements](docs/hebergements.md) | Réservations et échéances de paiement |
 | [Transports](docs/transports.md) | KTX, transports locaux et déplacements vers YUL |
 | [Logistique](docs/logistique.md) | eSIM, équipement et assurance |

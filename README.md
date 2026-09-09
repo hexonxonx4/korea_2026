@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 9 septembre 2026 à 0 h 12 HAE (UTC−4)**
+**Dernière mise à jour : 9 septembre 2026 à 10 h 54 HAE (UTC−4)**
 
 ## Sommaire exécutif
 

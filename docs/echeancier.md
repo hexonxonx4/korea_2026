@@ -4,7 +4,7 @@
 
 | Date | Action |
 |---|---|
-| **9 sept.** | Busan — nuit ajoutée — ✅ **confirmée; 53,14 $ payés** |
+| **9 sept.** | Busan — réservation révisée — ✅ **confirmée; total de 402,20 $** |
 | **15 sept.** | Réserver la navette aller |
 | **20 sept.** | Air Canada — **275,94 $** |
 | **28 sept.** | Euljiro — **302,88 $** |
@@ -13,7 +13,7 @@
 | **12 oct.** | Hongdae — **593,34 $** |
 | **15 oct.** | Épicerie — **400 $** |
 | **15 oct.** | Vérifier les concerts à Hongdae |
-| **17 oct.** | Busan — **201,07 $**, incluant l'ajout de **53,13 $** |
+| **17 oct.** | Busan — balance de **201,13 $** |
 | **18 oct.** | Checklist de départ |
 | **20 oct.** | Air Canada — **275,94 $** |
 | **Au plus tard le 20 oct.** | Préparer la nourriture des animaux |
@@ -39,9 +39,8 @@
 | Dossier | Statut |
 |---|---|
 | AC303 / AC63 / AC64 / AC314 | 🟢 Contrôle dynamique effectué dans cet ordre le 9 septembre à 0 h 12 HAE (UTC−4); aucun changement détecté dans les horaires publiés; confirmation du dossier Air Canada à refaire à l'approche du départ |
-| Hongdae | ✅ |
-| Nuit supplémentaire — Hongdae | ✅ |
-| Busan — 1er au 5 novembre | ✅ Modification confirmée; **4 nuits**; total **402,20 $**, dont **53,14 $ payés à la confirmation** |
+| Hongdae — 24 octobre au 1er novembre | ✅ Réservé; total **699,43 $**, dont **106,09 $ payés**; balance de **593,34 $** le 12 octobre |
+| Busan — 1er au 5 novembre | ✅ Réservé; **4 nuits**; total **402,20 $**, dont **201,07 $ payés**; balance de **201,13 $** le 17 octobre |
 | Euljiro — 5 au 8 novembre | ✅ Réservé; **302,88 $** payables le 28 septembre |
 | Croisière | ✅ |
 | DMZ | ✅ |

@@ -18,10 +18,9 @@ La marge représente environ **43,38 $ par jour**, en plus des postes déjà pay
 | Poste | Montant |
 |---|---:|
 | Vol Air Canada | **1 655,64 $** |
-| [Hongdae](https://fr.airbnb.ca/rooms/1479499388321339986) | **593,34 $** |
+| [Hongdae — 24 octobre au 1er novembre](https://fr.airbnb.ca/rooms/1479499388321339986) | **699,43 $** |
 | [Busan — 1er au 5 novembre](https://fr.airbnb.ca/rooms/747276999137325483) | **402,20 $** |
 | [Euljiro — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** |
-| Nuit supplémentaire — Hongdae | **106,09 $** |
 | Croisière | **47,66 $** |
 | DMZ | **0 $** |
 | Sac | **65,24 $** |
@@ -31,7 +30,7 @@ La marge représente environ **43,38 $ par jour**, en plus des postes déjà pay
 | Assurance supplémentaire | **0 $** |
 | **TOTAL** | **3 262,51 $** |
 
-Le total de Busan inclut la nuit ajoutée, confirmée le **9 septembre**, ainsi que le paiement de **53,14 $** effectué à la confirmation. Cette confirmation ne change pas le total des coûts connus, qui incluait déjà la modification en attente.
+Le total de Busan est de **402,20 $**, dont **201,07 $ payés** et une balance de **201,13 $** payable le **17 octobre**. Le regroupement du séjour de Hongdae dans un seul poste ne change pas le total des coûts connus.
 
 ## Provisions
 

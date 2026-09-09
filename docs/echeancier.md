@@ -40,7 +40,7 @@
 
 | Dossier | Statut |
 |---|---|
-| AC303 / AC63 / AC64 / AC314 | 🟢 Contrôle dynamique effectué dans cet ordre le 9 septembre à 0 h 12 HAE (UTC−4); aucun changement détecté dans les horaires publiés; confirmation du dossier Air Canada à refaire à l'approche du départ |
+| AC303 / AC63 / AC64 / AC314 | 🟢 Contrôle dynamique effectué dans cet ordre le 9 septembre à 12 h 05 HAE (UTC−4); aucun changement détecté dans les horaires publiés; confirmation du dossier Air Canada à refaire à l'approche du départ |
 | Hongdae — 24 octobre au 1er novembre | ✅ Réservé; total **699,43 $**, dont **106,09 $ payés**; balance de **593,34 $** le 12 octobre |
 | Busan — 1er au 5 novembre | ✅ Réservé; total **402,20 $**, dont **201,07 $ payés**; balance de **201,13 $** le 17 octobre |
 | Euljiro — 5 au 8 novembre | ✅ Réservé; **302,88 $** payables le 28 septembre |

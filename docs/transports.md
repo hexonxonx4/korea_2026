@@ -7,9 +7,10 @@ Provision totale : **150 $**.
 | Trajet | Provision |
 |---|---:|
 | Séoul → Busan | **75 $** |
-| Retour vers Séoul / autre interurbain — à réserver le **4 octobre à 18 h** au besoin | **75 $** |
+| Retour vers Séoul | **75 $** |
 
 - Réserver le premier trajet le **30 septembre à 18 h**.
+- Réserver le retour le **4 octobre à 18 h** au besoin.
 - Départ visé le **1er novembre entre 11 h et 13 h**.
 - Vérifier et acheter les billets sur le site officiel [KORAIL — réservation internationale](https://korail.go.kr/global/eng/main).
 

@@ -1,12 +1,12 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 8 septembre 2026 à 14 h 03 HAE (UTC−4)**<br>
-**État : 🟡 contrôle dynamique non concluant; horaires saisonniers conservés et confirmation du dossier Air Canada à refaire**
+**Dernier contrôle : 9 septembre 2026 à 0 h 12 HAE (UTC−4)**<br>
+**État : 🟢 aucun changement détecté dans les horaires publiés; recoupement dynamique réussi et confirmation du dossier Air Canada à refaire à l'approche du départ**
 
 ## Sources et méthode de validation
 
-Les PDF d'Air Canada constituent une bonne référence saisonnière, mais ils ne sont pas traités comme une source dynamique suffisante. Le contrôle suit désormais cette hiérarchie :
+Les PDF d'Air Canada constituent une bonne référence saisonnière, mais ils ne sont pas traités comme une source dynamique suffisante. Le contrôle suit cette hiérarchie :
 
 1. **Source Air Canada dynamique** — [horaire interactif](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html), puis dossier de réservation lorsqu'il est accessible.
 2. **Validation dynamique croisée par numéro de vol** — [AC303](https://www.flight.info/AC303), [AC63](https://www.flight.info/AC63), [AC64](https://www.flight.info/AC64) et [AC314](https://www.flight.info/AC314).
@@ -14,15 +14,22 @@ Les PDF d'Air Canada constituent une bonne référence saisonnière, mais ils ne
 
 L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) fournit les renseignements opérationnels les plus récents, mais sa fenêtre utile est proche du départ. Il sera donc ajouté aux contrôles finaux à l'approche du voyage.
 
-Au contrôle du **26 août 2026 à 22 h 20 HAE (UTC−4)**, les pages dynamiques par numéro de vol concordaient avec les horaires consignés ci-dessous. L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération; si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter le PDF comme une confirmation en temps réel.
+L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération. Si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter un PDF saisonnier comme une confirmation en temps réel.
 
-### Contrôle du 8 septembre 2026 à 14 h 03 HAE (UTC−4)
+### Contrôle du 9 septembre 2026 à 0 h 12 HAE (UTC−4)
 
-Les vols ont été vérifiés dans l'ordre requis, **AC303 → AC63 → AC64 → AC314**. Les quatre pages dynamiques Flight.info ont refusé la consultation automatisée (HTTP 403). L'horaire interactif Air Canada était accessible, mais son interface n'a retourné aucun résultat de vol exploitable; le dossier de réservation n'a pas été consulté. Aucune source dynamique n'a donc permis de confirmer ou d'infirmer les horaires à ce contrôle.
+Les vols ont été vérifiés dans l'ordre requis, **AC303 → AC63 → AC64 → AC314**. L'horaire interactif d'Air Canada était accessible, mais son interface n'a pas retourné de résultat directement exploitable et le dossier de réservation n'a pas été consulté. Les quatre pages dynamiques Flight.info étaient toutefois accessibles et concordaient avec les horaires consignés :
 
-Les horaires ci-dessous sont conservés comme **références saisonnières**, et non comme données temps réel : AC303 le 23 octobre (grille du vendredi du 18 septembre au 23 octobre), AC63 le 23 octobre (8 septembre–23 octobre), AC64 le 8 novembre (1er novembre–16 décembre) et AC314 le 9 novembre (2 novembre–3 décembre). Ces références et les appareils consignés concordaient lors du dernier recoupement dynamique réussi, le **8 septembre 2026 à 13 h 25 HAE (UTC−4)**, mais doivent être confirmés directement dans le dossier Air Canada.
+| Vol | Date | Horaire publié | Appareil | Résultat |
+|---|---|---|---|---|
+| AC303 | 23 octobre | YUL **8 h 30** → YVR **10 h 42** | Boeing 787-9 | ✅ Inchangé |
+| AC63 | 23–24 octobre | YVR **12 h 20** → ICN **16 h 05 le lendemain** | Boeing 787-9 | ✅ Inchangé |
+| AC64 | 8 novembre | ICN **18 h 55** → YVR **12 h 45 le même jour civil local** | Boeing 787-9 | ✅ Inchangé |
+| AC314 | 9 novembre | YVR **0 h 15** → YUL **7 h 10** | Airbus A220-300 | ✅ Inchangé |
 
-Les calculs à partir des heures locales donnent toujours **1 h 38 à l'aller**, **11 h 30 au retour** et **3 h 55 pour AC314**. Pour ce dernier, Flight.info affiche une durée de 4 h 55 incohérente avec 00 h 15 à Vancouver et 07 h 10 à Montréal, séparés de trois heures : la durée calculée est conservée, et cette divergence devra être vérifiée auprès d'Air Canada.
+Les références saisonnières applicables demeurent les mêmes : AC303 le 23 octobre, AC63 le 23 octobre, AC64 le 8 novembre et AC314 le 9 novembre. Aucun changement d'heure, de date, d'appareil ou de correspondance n'a été détecté.
+
+Les calculs à partir des heures locales donnent toujours **1 h 38 à l'aller**, **11 h 30 au retour** et **3 h 55 pour AC314**. Pour ce dernier, Flight.info affiche une durée de 4 h 55 incohérente avec 0 h 15 à Vancouver et 7 h 10 à Montréal, séparés de trois heures : la durée calculée est conservée, et cette divergence devra être vérifiée auprès d'Air Canada.
 
 Les horaires demeurent sujets à changement. Chaque heure indique le fuseau local et l'équivalent à Montréal lorsqu'il diffère.
 

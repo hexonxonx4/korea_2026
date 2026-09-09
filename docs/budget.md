@@ -31,6 +31,8 @@ La marge représente environ **43,38 $ par jour**, en plus des postes déjà pay
 | Assurance supplémentaire | **0 $** |
 | **TOTAL** | **3 262,51 $** |
 
+Le total de Busan inclut la nuit ajoutée, confirmée le **9 septembre**, ainsi que le paiement de **53,14 $** effectué à la confirmation. Cette confirmation ne change pas le total des coûts connus, qui incluait déjà la modification en attente.
+
 ## Provisions
 
 | Poste | Provision |

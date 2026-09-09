@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 8 septembre 2026 à 14 h 03 HAE (UTC−4)**
+**Dernière mise à jour : 9 septembre 2026 à 0 h 12 HAE (UTC−4)**
 
 ## Sommaire exécutif
 
@@ -11,18 +11,18 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Séjour | **23 octobre → 8 novembre 2026** |
 | Retour au Québec | **9 novembre 2026** |
 | Parcours | **Séoul → Busan → Euljiro → retour** |
-| Vols | 🟡 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 8 septembre à 14 h 03 HAE (UTC−4); sources dynamiques non concluantes, horaires saisonniers conservés** |
+| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 9 septembre à 0 h 12 HAE (UTC−4); aucun changement détecté dans les horaires publiés** |
 | Budget voyage | **5 000,00 $ CAD** |
 | Coûts connus | **3 262,51 $** |
 | Provisions | **1 000 $** |
 | Marge discrétionnaire | **737,49 $** |
-| Hébergements | **Busan : 1–5 novembre · Euljiro : 5–8 novembre** |
+| Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre (4 nuits) · Euljiro : 5–8 novembre** |
 | Prochaine action | **Réserver la navette aller — 15 septembre** |
 
 ## Points d'attention
 
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
-- La nuit supplémentaire à Busan attend sa confirmation finale; **53,14 $** seront payés à la confirmation.
+- La nuit supplémentaire à Busan est ✅ **confirmée**; le séjour est fixé du **1er au 5 novembre (4 nuits)** pour un total de **402,20 $**, dont **53,14 $ payés à la confirmation**.
 - Le séjour à Euljiro est réservé du **5 au 8 novembre**; **302,88 $** sont payables le **28 septembre**.
 - Le KTX Séoul–Busan doit être réservé le **30 septembre à 18 h**.
 - La promeneuse doit encore être confirmée, avec coût à déterminer.

@@ -1,7 +1,7 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 1er octobre 2026 à 15 h 33 HAE (UTC−4)**<br>
+**Dernier contrôle : 1er octobre 2026 à 15 h 40 HAE (UTC−4)**<br>
 **État : 🟢 aucun changement d’horaire détecté; recoupement dynamique réussi. Fuseaux du retour corrigés pour le Pacific Time permanent (UTC−7) de la Colombie-Britannique. Confirmation du dossier Air Canada à refaire à l'approche du départ.**
 
 ## Sources et méthode de validation
@@ -16,7 +16,7 @@ L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco
 
 L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération. Si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter un PDF saisonnier comme une confirmation en temps réel.
 
-### Contrôle du 1er octobre 2026 à 15 h 33 HAE (UTC−4)
+### Contrôle du 1er octobre 2026 à 15 h 40 HAE (UTC−4)
 
 Les vols ont été vérifiés dans l'ordre requis, **AC303 → AC63 → AC64 → AC314**. L'horaire interactif d'Air Canada était accessible, mais son interface n'a pas retourné de résultat directement exploitable et le dossier de réservation n'a pas été consulté. Les quatre pages dynamiques Flight.info étaient toutefois accessibles et concordaient avec les horaires consignés :
 
@@ -48,7 +48,7 @@ AC303 arrive à **10 h 42 HAP** et AC63 part à **12 h 20 HAP**.
 
 > **1 h 38 de correspondance**
 
-Cette correspondance est cohérente, mais constitue le segment à surveiller à l'approche du départ.
+Cette correspondance est cohérente, mais constitue le segment à surveiller à l'approche du départ. Le risque logistique avant AC303 est réduit : la nuit du 22 octobre est prévue dans un hôtel près de YUL et le transport vers l'aéroport le 23 est assuré par Julie.
 
 ### AC63 — Vancouver → Séoul
 

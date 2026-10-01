@@ -5,12 +5,14 @@
 - Journée libre exploratoire.
 - Croisière en soirée : ✅ réservée.
 - Coût : **47,66 $ payé**.
+- Point de rencontre et cartes : voir [Lieux et cartes](lieux.md).
 
 ## 27 octobre — DMZ
 
 - Statut : ✅ réservée.
 - Coût déboursé : **0 $**.
 - L'activité a été couverte par un crédit Airbnb.
+- Point de rencontre et cartes : voir [Lieux et cartes](lieux.md).
 
 ## 7 novembre — Bukhansan National Park: The Summit Course
 
@@ -18,7 +20,7 @@
 - Horaire : **7 h → 12 h KST**.
 - Voyageur : **1 personne**.
 - Coût : **90,60 $ CAD payé**.
-- Point de rendez-vous : **gare de Bukhansan Ui**.
+- Point de rendez-vous : **gare de Bukhansan Ui** — liens Naver/Google dans [Lieux et cartes](lieux.md).
 - Parcours : randonnée jusqu'à **White Cloud Peak**, avec environ **600 m de dénivelé**.
 - Déjeuner facultatif après la randonnée : environ **15 000 KRW**; ce repas demeure dans l'enveloppe nourriture.
 - À apporter : chaussures avec bonne adhérence, au moins **500 ml d'eau**, carte **T-money**; bâtons de randonnée disponibles au besoin.

@@ -9,6 +9,8 @@
 | [Euljiro — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** | ✅ Réservé; paiement le 28 septembre |
 | **TOTAL CONNU** | **1 404,51 $** | |
 
+Les adresses et liens cartographiques des hébergements sont centralisés dans [Lieux et cartes](lieux.md); les adresses exactes restent à compléter à partir des informations de réservation.
+
 ## Paiements à venir
 
 | Hébergement | Échéance | Montant |

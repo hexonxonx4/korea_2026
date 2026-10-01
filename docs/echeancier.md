@@ -28,6 +28,7 @@
 | **29 oct.** | Épicerie — **400 $ maximum** |
 | **1 nov.** | KTX Séoul → Busan — ✅ **53 700 KRW / 56,51 $ CAD** |
 | **5 nov.** | KTX Busan → Séoul — ✅ **53 600 KRW / 56,40 $ CAD** |
+| **7 nov. — 7 h à 12 h KST** | Bukhansan National Park — Summit Course — ✅ **réservé et payé, 90,60 $ CAD** |
 | **8 nov.** | AC64 — ICN → YVR |
 | **9 nov. — 00 h 15 PCT (UTC−7)**<br>**2 h 15 à Montréal (HNE, UTC−5)** | AC314 — YVR → YUL |
 | **9 nov.** | Retour au Québec |
@@ -43,12 +44,13 @@ Les échéances passées des navettes et des paiements restent consignées; leur
 
 | Dossier | Statut |
 |---|---|
-| AC303 / AC63 / AC64 / AC314 | 🟢 Contrôle dynamique effectué dans cet ordre le 1er octobre à 15 h 22 HAE (UTC−4); aucun changement d’horaire détecté; fuseaux du retour corrigés pour le Pacific Time permanent (UTC−7) en C.-B.; confirmation du dossier Air Canada à refaire à l'approche du départ |
+| AC303 / AC63 / AC64 / AC314 | 🟢 Contrôle dynamique effectué dans cet ordre le 1er octobre à 15 h 33 HAE (UTC−4); aucun changement d’horaire détecté; fuseaux du retour corrigés pour le Pacific Time permanent (UTC−7) en C.-B.; confirmation du dossier Air Canada à refaire à l'approche du départ |
 | Hongdae — 24 octobre au 1er novembre | ✅ Réservé; total **699,43 $**, dont **106,09 $ payés**; balance de **593,34 $** le 12 octobre |
 | Busan — 1er au 5 novembre | ✅ Réservé; total **402,20 $**, dont **201,07 $ payés**; balance de **201,13 $** le 17 octobre |
 | Euljiro — 5 au 8 novembre | ✅ Réservé; **302,88 $** payables le 28 septembre |
 | Croisière | ✅ |
 | DMZ | ✅ |
+| Bukhansan — 7 novembre | ✅ Réservé et payé — **90,60 $ CAD** |
 | eSIM | ✅ |
 | Équipement | ✅ |
 | Assurance | ✅ |

@@ -15,7 +15,6 @@
 | **17 oct.** | Busan — paiement de **201,13 $** |
 | **18 oct.** | Checklist de départ |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6) |
-| **Au plus tard le 20 oct.** | Préparer la nourriture des animaux |
 | **22 oct.** | Faire les bagages; nuit à l'hôtel près de YUL avec Julie — hôtel offert, hors budget voyage |
 | **23 oct.** | Fonds — **~1 250 $** |
 | **23 oct.** | Julie assure le transport vers YUL; AC303 (YUL → YVR) + AC63 (YVR → ICN) |
@@ -24,8 +23,8 @@
 | **27 oct.** | DMZ |
 | **29 oct.** | Fonds supplémentaires — **~1 000 $** |
 | **29 oct.** | Épicerie — **400 $ maximum** |
-| **1 nov.** | KTX Séoul → Busan — ✅ **53 700 KRW / 56,51 $ CAD** |
-| **5 nov.** | KTX Busan → Séoul — ✅ **53 600 KRW / 56,40 $ CAD** |
+| **1 nov.** | KTX 033 Séoul **12 h 16** → Busan **14 h 58** — voiture 18, siège 4D, face à la marche — ✅ **53 700 KRW / 56,51 $ CAD** |
+| **5 nov.** | KTX 034 Busan **12 h 00** → Séoul **14 h 51** — voiture 9, siège 4D, dos à la marche — ✅ **53 600 KRW / 56,40 $ CAD** |
 | **7 nov. — 7 h à 12 h KST** | Bukhansan National Park — Summit Course — ✅ **réservé et payé, 90,60 $ CAD** |
 | **8 nov.** | AC64 — ICN → YVR |
 | **9 nov. — 00 h 15 PCT (UTC−7)**<br>**2 h 15 à Montréal (HNE, UTC−5)** | AC314 — YVR → YUL |
@@ -53,13 +52,12 @@ Les anciennes tâches de réservation des navettes sont retirées : le transport
 | Équipement | ✅ |
 | Assurance | ✅ |
 | Transport YUL aller/retour | ✅ Assuré par Julie; nuit du 22 octobre près de YUL offerte par Julie; aucun coût au budget voyage |
-| KTX | ✅ Aller le **1er novembre**, retour le **5 novembre**; total **107 300 KRW / 112,91 $ CAD** |
+| KTX | ✅ **KTX 033** le 1er nov. et **KTX 034** le 5 nov.; horaires, voitures et sièges consignés dans `transports.md`; total **107 300 KRW / 112,91 $ CAD** |
 | Transport local | 💰 120 $ provisionnés après la WOWPASS |
 | WOWPASS | ✅ Achetée — 5,53 $; 🟡 à récupérer et activer à ICN |
 | Nourriture | 💰 700 $ provisionnés |
 | Épicerie foyer | 💰 800 $ provisionnés |
-| Promeneuse | 🟡 À confirmer |
-| Nourriture des animaux | 🟡 À préparer |
+| Animaux | ✅ Gaïa + Noah responsables; Geneviève + Karine en relève; promeneuse retirée; nourriture lyophilisée chiens et chats réglée |
 | Bagages | ⏳ |
 
 [← Retour au sommaire](../README.md)

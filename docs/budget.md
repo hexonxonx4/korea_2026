@@ -7,11 +7,11 @@ Le budget voyage est distinct du budget foyer.
 | Catégorie | Montant |
 |---|---:|
 | Coûts connus | **3 466,02 $** |
-| Provisions | **850 $** |
-| **Marge discrétionnaire** | **683,98 $** |
+| Provisions | **820 $** |
+| **Marge discrétionnaire** | **713,98 $** |
 | **TOTAL** | **5 000,00 $** |
 
-La marge représente environ **40,23 $ par jour**, en plus des postes déjà payés ou provisionnés.
+La marge représente environ **42,00 $ par jour**, en plus des postes déjà payés ou provisionnés.
 
 ## Coûts connus
 
@@ -35,7 +35,7 @@ La marge représente environ **40,23 $ par jour**, en plus des postes déjà pay
 
 Les réservations KTX confirmées totalisent **107 300 KRW**, soit **112,91 $ CAD** selon les montants CAD fournis par le voyageur le 1er octobre 2026. Ces coûts réels remplacent les anciennes provisions de **75 $ par trajet / 150 $ au total**; aucun taux de change estimatif n’est appliqué. La différence de **37,09 $** augmente la marge discrétionnaire. L'activité Bukhansan du **7 novembre** est payée et ajoute **90,60 $** aux coûts connus. Son déjeuner facultatif d'environ **15 000 KRW** demeure couvert par l'enveloppe nourriture.
 
-Réconciliation : **3 466,02 $ + 850 $ + 683,98 $ = 5 000,00 $**.
+Réconciliation : **3 466,02 $ + 820 $ + 713,98 $ = 5 000,00 $**.
 
 ## Provisions
 
@@ -43,8 +43,7 @@ Réconciliation : **3 466,02 $ + 850 $ + 683,98 $ = 5 000,00 $**.
 |---|---:|
 | Nourriture | **700 $** |
 | Transport local restant après l'achat de la WOWPASS | **120 $** |
-| Brossard ↔ YUL | **30 $** |
-| **TOTAL** | **850 $** |
+| **TOTAL** | **820 $** |
 
 Les provisions sont toujours arrondies au **dollar entier supérieur**. Les coûts connus et la marge discrétionnaire conservent les cents afin que la réconciliation demeure exacte.
 

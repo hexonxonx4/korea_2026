@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 1er octobre 2026 à 15 h 22 HAE (UTC−4)**
+**Dernière mise à jour : 1er octobre 2026 à 15 h 33 HAE (UTC−4)**
 
 ## Sommaire exécutif
 
@@ -13,9 +13,9 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Parcours | **Hongdae (Séoul) → Busan → Euljiro (Séoul) → retour** |
 | Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 1er octobre à 15 h 22 HAE (UTC−4); aucun changement d’horaire détecté; correction des fuseaux de Vancouver au retour selon le nouveau Pacific Time permanent (UTC−7)** |
 | Budget voyage | **5 000,00 $ CAD** |
-| Coûts connus | **3 375,42 $** |
+| Coûts connus | **3 466,02 $** |
 | Provisions | **850 $** |
-| Marge discrétionnaire | **774,58 $** |
+| Marge discrétionnaire | **683,98 $** |
 | Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre · Euljiro : 5–8 novembre** |
 | Prochaine action | **Vérifier le statut des navettes et du paiement Euljiro, dont les échéances sont passées** |
 
@@ -27,6 +27,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 - Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
 - Le séjour à Euljiro est réservé du **5 au 8 novembre**; **302,88 $** sont payables le **28 septembre**.
 - Les deux KTX sont ✅ **réservés** : **Séoul → Busan le 1er novembre — 53 700 KRW / 56,51 $ CAD**; **Busan → Séoul le 5 novembre — 53 600 KRW / 56,40 $ CAD**. Total : **107 300 KRW / 112,91 $ CAD**.
+- Bukhansan National Park: The Summit Course est réservé et payé pour le **7 novembre, 7 h–12 h KST**, au coût de **90,60 $ CAD**.
 - La promeneuse doit encore être confirmée, avec coût à déterminer.
 
 ## Table des matières

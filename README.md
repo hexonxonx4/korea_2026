@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 1er octobre 2026 à 13 h 54 HAE (UTC−4)**
+**Dernière mise à jour : 1er octobre 2026 à 15 h 22 HAE (UTC−4)**
 
 ## Sommaire exécutif
 
@@ -11,7 +11,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Séjour | **23 octobre → 8 novembre 2026** |
 | Retour au Québec | **9 novembre 2026** |
 | Parcours | **Hongdae (Séoul) → Busan → Euljiro (Séoul) → retour** |
-| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 1er octobre à 13 h 54 HAE (UTC−4); aucun changement détecté dans les horaires publiés** |
+| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 1er octobre à 15 h 22 HAE (UTC−4); aucun changement d’horaire détecté; correction des fuseaux de Vancouver au retour selon le nouveau Pacific Time permanent (UTC−7)** |
 | Budget voyage | **5 000,00 $ CAD** |
 | Coûts connus | **3 375,42 $** |
 | Provisions | **850 $** |
@@ -22,6 +22,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 ## Points d'attention
 
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
+- À compter du 1er novembre 2026, la Colombie-Britannique ne recule plus l’heure : Vancouver reste à **Pacific Time (PCT), UTC−7** toute l’année. Les heures du retour ont été corrigées en conséquence; cela explique l’écart d’une heure observé précédemment.
 - Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
 - Le séjour à Euljiro est réservé du **5 au 8 novembre**; **302,88 $** sont payables le **28 septembre**.
 - Les deux KTX sont ✅ **réservés** : **Séoul → Busan le 1er novembre — 53 700 KRW / 56,51 $ CAD**; **Busan → Séoul le 5 novembre — 53 600 KRW / 56,40 $ CAD**. Total : **107 300 KRW / 112,91 $ CAD**.

@@ -28,11 +28,11 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **26 oct.** | Libre → croisière en soirée | ✅ |
 | **27 oct.** | DMZ | ✅ |
 | **28–31 oct.** | Séoul libre | 🟢 |
-| **1 nov.** | Séoul → Busan en KTX | 🟡 |
+| **1 nov.** | Séoul → Busan en KTX — réservé | ✅ |
 | **2 nov.** | Busan | 🟢 |
 | **3 nov.** | Busan; Gwangalli en soirée | 🟢 |
 | **4 nov.** | Busan | ✅ |
-| **5 nov.** | Busan → Séoul en KTX | 🟡 |
+| **5 nov.** | Busan → Séoul en KTX — réservé | ✅ |
 | **6–7 nov.** | Séoul libre | ✅ |
 | **8 nov.** | ICN → YVR — AC64 | 🟢 |
 | **9 nov.** | YVR → YUL — AC314; retour au Québec | 🟢 |

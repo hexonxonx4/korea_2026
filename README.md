@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 9 septembre 2026 à 12 h 05 HAE (UTC−4)**
+**Dernière mise à jour : 1er octobre 2026 à 13 h 54 HAE (UTC−4)**
 
 ## Sommaire exécutif
 
@@ -11,21 +11,20 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Séjour | **23 octobre → 8 novembre 2026** |
 | Retour au Québec | **9 novembre 2026** |
 | Parcours | **Hongdae (Séoul) → Busan → Euljiro (Séoul) → retour** |
-| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 9 septembre à 12 h 05 HAE (UTC−4); aucun changement détecté dans les horaires publiés** |
+| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 1er octobre à 13 h 54 HAE (UTC−4); aucun changement détecté dans les horaires publiés** |
 | Budget voyage | **5 000,00 $ CAD** |
-| Coûts connus | **3 262,51 $** |
-| Provisions | **1 000 $** |
-| Marge discrétionnaire | **737,49 $** |
+| Coûts connus | **3 375,42 $** |
+| Provisions | **850 $** |
+| Marge discrétionnaire | **774,58 $** |
 | Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre · Euljiro : 5–8 novembre** |
-| Prochaine action | **Réserver la navette aller — 15 septembre** |
+| Prochaine action | **Vérifier le statut des navettes et du paiement Euljiro, dont les échéances sont passées** |
 
 ## Points d'attention
 
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
 - Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
 - Le séjour à Euljiro est réservé du **5 au 8 novembre**; **302,88 $** sont payables le **28 septembre**.
-- Le KTX Séoul–Busan doit être réservé le **30 septembre à 18 h**.
-- Le KTX Busan–Séoul doit être réservé le **4 octobre à 18 h**.
+- Les deux KTX sont ✅ **réservés** : **Séoul → Busan le 1er novembre — 53 700 KRW / 56,51 $ CAD**; **Busan → Séoul le 5 novembre — 53 600 KRW / 56,40 $ CAD**. Total : **107 300 KRW / 112,91 $ CAD**.
 - La promeneuse doit encore être confirmée, avec coût à déterminer.
 
 ## Table des matières

@@ -6,12 +6,12 @@ Le budget voyage est distinct du budget foyer.
 
 | Catégorie | Montant |
 |---|---:|
-| Coûts connus | **3 262,51 $** |
-| Provisions | **1 000 $** |
-| **Marge discrétionnaire** | **737,49 $** |
+| Coûts connus | **3 375,42 $** |
+| Provisions | **850 $** |
+| **Marge discrétionnaire** | **774,58 $** |
 | **TOTAL** | **5 000,00 $** |
 
-La marge représente environ **43,38 $ par jour**, en plus des postes déjà payés ou provisionnés.
+La marge représente environ **45,56 $ par jour**, en plus des postes déjà payés ou provisionnés.
 
 ## Coûts connus
 
@@ -28,17 +28,22 @@ La marge représente environ **43,38 $ par jour**, en plus des postes déjà pay
 | eSIM | **39,11 $** |
 | WOWPASS | **5,53 $** |
 | Assurance supplémentaire | **0 $** |
-| **TOTAL** | **3 262,51 $** |
+| KTX Séoul → Busan — 1er novembre (53 700 KRW) | **56,51 $** |
+| KTX Busan → Séoul — 5 novembre (53 600 KRW) | **56,40 $** |
+| **TOTAL** | **3 375,42 $** |
+
+Les réservations KTX confirmées totalisent **107 300 KRW**, soit **112,91 $ CAD** selon les montants CAD fournis par le voyageur le 1er octobre 2026. Ces coûts réels remplacent les anciennes provisions de **75 $ par trajet / 150 $ au total**; aucun taux de change estimatif n’est appliqué. La différence de **37,09 $** augmente la marge discrétionnaire.
+
+Réconciliation : **3 375,42 $ + 850 $ + 774,58 $ = 5 000,00 $**.
 
 ## Provisions
 
 | Poste | Provision |
 |---|---:|
 | Nourriture | **700 $** |
-| Transport interurbain | **150 $** |
 | Transport local restant après l'achat de la WOWPASS | **120 $** |
 | Brossard ↔ YUL | **30 $** |
-| **TOTAL** | **1 000 $** |
+| **TOTAL** | **850 $** |
 
 Les provisions sont toujours arrondies au **dollar entier supérieur**. Les coûts connus et la marge discrétionnaire conservent les cents afin que la réconciliation demeure exacte.
 

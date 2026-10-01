@@ -4,16 +4,16 @@
 
 Les deux réservations sont ✅ **confirmées**.
 
-| Trajet | Date | Coût réel en KRW | Coût réel en CAD |
-|---|---|---:|---:|
-| Séoul → Busan | **1er novembre 2026** | **53 700 KRW** | **56,51 $** |
-| Busan → Séoul | **5 novembre 2026** | **53 600 KRW** | **56,40 $** |
-| **TOTAL** | | **107 300 KRW** | **112,91 $** |
+| Trajet | Date | Train | Horaire | Voiture / siège | Orientation | KRW | CAD |
+|---|---|---|---|---|---|---:|---:|
+| Séoul → Busan | **1er nov. 2026** | **KTX 033** | **12 h 16 → 14 h 58** | **Voiture 18 · siège 4D** | **Face à la marche** | **53 700** | **56,51 $** |
+| Busan → Séoul | **5 nov. 2026** | **KTX 034** | **12 h 00 → 14 h 51** | **Voiture 9 · siège 4D** | **Dos à la marche** | **53 600** | **56,40 $** |
+| **TOTAL** | | | | | | **107 300** | **112,91 $** |
 
 Les montants CAD ont été fournis par le voyageur le **1er octobre 2026**; les montants KRW restent la référence des réservations. Les coûts réels remplacent les anciennes provisions de **75 $ par trajet / 150 $ au total**, libérant **37,09 $** dans la marge discrétionnaire.
 
 - Le séjour à Busan est confirmé du **1er au 5 novembre**; le retour KTX est bien le **5 novembre**.
-- Préférence antérieure pour le départ aller : **entre 11 h et 13 h**. Les heures exactes, numéros de train et places ne sont pas fournis dans cette mise à jour.
+- Les gares et liens cartographiques sont centralisés dans [Lieux et cartes](lieux.md).
 - Site officiel pour consulter les billets : [KORAIL — réservation internationale](https://korail.go.kr/global/eng/main).
 
 ## Transport local en Corée

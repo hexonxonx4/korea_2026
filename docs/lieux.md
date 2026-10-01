@@ -61,14 +61,14 @@ Ces endroits sont des **pistes identifiées**, pas des réservations. Les liens 
 
 ## Attractions — Busan
 
-Ces lieux sont des **pistes libres** et ne constituent pas un programme fixe.
+Ces lieux sont des **pistes libres** et ne constituent pas un programme fixe. Les indications de proximité servent à choisir spontanément; **Naver Map reste la référence pour le temps de trajet réel au moment du départ**.
 
-| Lieu | Type / intérêt | Naver Map | Google Maps | Statut |
-|---|---|---|---|---|
-| Shinsegae Centum City | 🛍️ Grand magasin | [Naver Map](https://map.naver.com/p/search/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90%20%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0) | [Google Maps](https://maps.app.goo.gl/NWKz17ofYCkRv5jb9) | 💡 À considérer |
-| Gwangan Bridge (Gwangandaegyo) | 🌉 Pont / vue nocturne | [Naver Map](https://map.naver.com/p/search/%EA%B4%91%EC%95%88%EB%8C%80%EA%B5%90) | [Google Maps](https://maps.app.goo.gl/isb9v48WP6uJJccC8) | 💡 À considérer |
-| Haedong Yonggungsa Temple | 🛕 Temple côtier | [Naver Map](https://map.naver.com/p/search/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC) | [Google Maps](https://maps.app.goo.gl/bR132FNEhS7FJtHq6) | 💡 À considérer |
-| Igidae Coastal Trail | 🥾 Sentier côtier | [Naver Map](https://map.naver.com/p/search/%EC%9D%B4%EA%B8%B0%EB%8C%80%20%ED%95%B4%EC%95%88%EC%82%B0%EC%B1%85%EB%A1%9C) | [Google Maps](https://maps.app.goo.gl/Hn2uWzjv8UWcbbUH6) | 💡 À considérer |
-| Gamcheon Culture Village | 🏘️ Village culturel | [Naver Map](https://map.naver.com/p/search/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84) | [Google Maps](https://maps.app.goo.gl/4b7Tdwd3i32F1z7E7) | 💡 À considérer |
+| Lieu | Type / intérêt | Depuis le Airbnb Gwangalli / repère pratique | Naver Map | Google Maps | Statut |
+|---|---|---|---|---|---|
+| Shinsegae Centum City | 🛍️ Grand magasin | **Facile** : ligne 2 jusqu'à Centum City; magasin directement relié à la station | [Naver Map](https://map.naver.com/p/search/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90%20%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0) | [Google Maps](https://maps.app.goo.gl/NWKz17ofYCkRv5jb9) | 💡 À considérer |
+| Gwangan Bridge (Gwangandaegyo) | 🌉 Pont / vue nocturne | **Sur place** : vue depuis Gwangalli; pas besoin d'en faire une excursion séparée | [Naver Map](https://map.naver.com/p/search/%EA%B4%91%EC%95%88%EB%8C%80%EA%B5%90) | [Google Maps](https://maps.app.goo.gl/isb9v48WP6uJJccC8) | 💡 À considérer |
+| Haedong Yonggungsa Temple | 🛕 Temple côtier | **Excursion est de Busan** : secteur Gijang/Osiria; à combiner idéalement avec Centum/Haeundae | [Naver Map](https://map.naver.com/p/search/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC) | [Google Maps](https://maps.app.goo.gl/bR132FNEhS7FJtHq6) | 💡 À considérer |
+| Igidae Coastal Trail | 🥾 Sentier côtier | **Relativement proche au sud de Gwangalli**; parcours côtier de référence ~3,95 km / ~2 h | [Naver Map](https://map.naver.com/p/search/%EC%9D%B4%EA%B8%B0%EB%8C%80%20%ED%95%B4%EC%95%88%EC%82%B0%EC%B1%85%EB%A1%9C) | [Google Maps](https://maps.app.goo.gl/Hn2uWzjv8UWcbbUH6) | 💡 À considérer |
+| Gamcheon Culture Village | 🏘️ Village culturel | **Excursion ouest de Busan** : plus loin de Gwangalli; mieux comme bloc dédié d'une demi-journée | [Naver Map](https://map.naver.com/p/search/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84) | [Google Maps](https://maps.app.goo.gl/4b7Tdwd3i32F1z7E7) | 💡 À considérer |
 
 [← Retour au sommaire](../README.md)

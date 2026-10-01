@@ -21,8 +21,8 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 | Lieu | Type | Adresse / repère | Naver Map | Google Maps | Utilité / statut |
 |---|---|---|---|---|---|
 | Airbnb Hongdae | 🏠 Hébergement | **18-9 Yeonnam-ro 3-gil, Mapo-gu, Seoul 03988** | [Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%97%B0%EB%82%A8%EB%A1%9C3%EA%B8%B8%2018-9) | [Google Maps](https://maps.app.goo.gl/2EGZqiXxExJ8ukYj9) | 24 oct. → 1 nov. |
-| Hongik University Station — sortie 3 | 🚇 Métro / point de rencontre | **183 Yanghwa-ro, Mapo-gu, Seoul** · 홍대입구역 3번출구 | [Naver Map](https://map.naver.com/p/search/%ED%99%8D%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%203%EB%B2%88%EC%B6%9C%EA%B5%AC) | [Google Maps](https://maps.app.goo.gl/qAF7Q4of5aHvH6tb7) | **Point de rencontre DMZ — 27 oct.** |
-| Myeongdong Station — sortie 2 | 🚇 Métro / point de rencontre | **Myeongdong Station, Line 4** · 명동역 2번출구 | [Naver Map](https://map.naver.com/p/search/%EB%AA%85%EB%8F%99%EC%97%AD%202%EB%B2%88%EC%B6%9C%EA%B5%AC) | [Google Maps](https://maps.app.goo.gl/coahKwvWe9e69s2P8) | **Point de rencontre croisière — 26 oct.** |
+| Hongik University Station — sortie 3 | 🚇 Métro / point de rencontre | **183 Yanghwa-ro, Mapo-gu, Seoul** · 홍대입구역 3번출구 | [Naver Map](https://map.naver.com/p/search/%ED%99%8D%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%203%EB%B2%88%EC%B6%9C%EA%B5%AC) | [Google Maps](https://maps.app.goo.gl/qAF7Q4of5aHvH6tb7) | **Point de rencontre DMZ — 27 oct. · être sur place avant 9 h 30** |
+| Myeongdong Station — sortie 2 | 🚇 Métro / point de rencontre | **Myeongdong Station, Line 4** · 명동역 2번출구 | [Naver Map](https://map.naver.com/p/search/%EB%AA%85%EB%8F%99%EC%97%AD%202%EB%B2%88%EC%B6%9C%EA%B5%AC) | [Google Maps](https://maps.app.goo.gl/coahKwvWe9e69s2P8) | **Point de rencontre croisière — 26 oct. · être sur place avant 16 h 40** |
 
 ## Busan
 

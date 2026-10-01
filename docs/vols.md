@@ -1,8 +1,8 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 1er octobre 2026 à 13 h 54 HAE (UTC−4)**<br>
-**État : 🟢 aucun changement détecté dans les horaires publiés; recoupement dynamique réussi et confirmation du dossier Air Canada à refaire à l'approche du départ**
+**Dernier contrôle : 1er octobre 2026 à 15 h 22 HAE (UTC−4)**<br>
+**État : 🟢 aucun changement d’horaire détecté; recoupement dynamique réussi. Fuseaux du retour corrigés pour le Pacific Time permanent (UTC−7) de la Colombie-Britannique. Confirmation du dossier Air Canada à refaire à l'approche du départ.**
 
 ## Sources et méthode de validation
 
@@ -16,7 +16,7 @@ L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco
 
 L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération. Si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter un PDF saisonnier comme une confirmation en temps réel.
 
-### Contrôle du 1er octobre 2026 à 13 h 54 HAE (UTC−4)
+### Contrôle du 1er octobre 2026 à 15 h 22 HAE (UTC−4)
 
 Les vols ont été vérifiés dans l'ordre requis, **AC303 → AC63 → AC64 → AC314**. L'horaire interactif d'Air Canada était accessible, mais son interface n'a pas retourné de résultat directement exploitable et le dossier de réservation n'a pas été consulté. Les quatre pages dynamiques Flight.info étaient toutefois accessibles et concordaient avec les horaires consignés :
 
@@ -29,7 +29,7 @@ Les vols ont été vérifiés dans l'ordre requis, **AC303 → AC63 → AC64 →
 
 Les plages de validité publiées sur Flight.info couvrent les dates prévues : AC303 et AC63 jusqu’au 23 octobre, AC64 du 1er novembre au 16 décembre et AC314 du 2 novembre au 3 décembre. Les PDF saisonniers restent des références complémentaires et n’ont pas été revalidés lors de ce contrôle. Aucun changement d'heure, de date, d'appareil ou de correspondance n'a été détecté.
 
-Les calculs à partir des heures locales donnent toujours **1 h 38 à l'aller**, **11 h 30 au retour** et **3 h 55 pour AC314**. Pour ce dernier, Flight.info affiche une durée de 4 h 55 incohérente avec 0 h 15 à Vancouver et 7 h 10 à Montréal, séparés de trois heures : la durée calculée est conservée, et cette divergence devra être vérifiée auprès d'Air Canada.
+La Colombie-Britannique a adopté en 2026 un **Pacific Time permanent à UTC−7** : le 1er novembre, Vancouver ne recule donc pas à UTC−8. Cette règle explique l’écart d’une heure observé auparavant dans les calculs du retour. Avec le bon fuseau, **AC64 dure environ 9 h 50**, la correspondance à Vancouver demeure **11 h 30**, et **AC314 dure environ 4 h 55**. Les heures publiées n’ont pas changé; c’est leur interprétation en fuseaux horaires qui est corrigée.
 
 Les horaires demeurent sujets à changement. Chaque heure indique le fuseau local et l'équivalent à Montréal lorsqu'il diffère.
 
@@ -64,7 +64,7 @@ Le 23 octobre est la dernière journée de la grille saisonnière actuelle **12 
 ### AC64 — Séoul → Vancouver
 
 > 🛫 **ICN : 18 h 55 KST (UTC+9) le 8 novembre** — **4 h 55 à Montréal (HNE, UTC−5)**<br>
-> 🛬 **YVR : 12 h 45 HNP (UTC−8) le 8 novembre** — **15 h 45 à Montréal (HNE, UTC−5)**<br>
+> 🛬 **YVR : 12 h 45 PCT (UTC−7) le 8 novembre** — **14 h 45 à Montréal (HNE, UTC−5)**<br>
 > ✈️ Boeing 787-9<br>
 > ⏱️ Environ 9 h 50
 
@@ -72,16 +72,18 @@ La traversée de la ligne de changement de date explique l'arrivée à Vancouver
 
 ### Correspondance à Vancouver
 
-L'escale dure environ **11 h 30**, de **12 h 45 HNP le 8 novembre** à **00 h 15 HNP le 9 novembre**. Il n'y a aucun risque de correspondance serrée; le principal enjeu est le confort pendant l'attente.
+L'escale dure environ **11 h 30**, de **12 h 45 PCT le 8 novembre** à **00 h 15 PCT le 9 novembre**. Il n'y a aucun risque de correspondance serrée; le principal enjeu est le confort pendant l'attente.
 
 ### AC314 — Vancouver → Montréal
 
-> 🛫 **YVR : 00 h 15 HNP (UTC−8) le 9 novembre** — **3 h 15 à Montréal (HNE, UTC−5)**<br>
+> 🛫 **YVR : 00 h 15 PCT (UTC−7) le 9 novembre** — **2 h 15 à Montréal (HNE, UTC−5)**<br>
 > 🛬 **YUL : 7 h 10 HNE (UTC−5) le 9 novembre** — heure de Montréal<br>
 > ✈️ Airbus A220-300<br>
-> ⏱️ Environ 3 h 55
+> ⏱️ Environ 4 h 55
 
 La grille applicable est valide du **2 novembre au 3 décembre 2026**.
+
+> **Note fuseau 2026 :** la Colombie-Britannique a effectué son dernier changement d’heure le 8 mars 2026. À compter du 1er novembre, Vancouver demeure à **UTC−7** sous l’appellation **Pacific Time (PCT)**, tandis que Montréal revient à **HNE (UTC−5)**. L’écart Vancouver–Montréal n’est donc plus que de **2 heures** pendant cette période.
 
 ## Procédure de contrôle
 

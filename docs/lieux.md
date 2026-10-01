@@ -46,17 +46,17 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 
 Ces endroits sont des **pistes identifiées**, pas des réservations. Les liens Naver utilisent le nom du lieu pour ouvrir directement une recherche dans Naver Map; les adresses pourront être précisées au besoin.
 
-| Lieu | Zone | Type / intérêt | Naver Map | Google Maps | Statut |
-|---|---|---|---|---|---|
-| Channel 1969 | Séoul | 🎵 Bar / live music | [Naver Map](https://map.naver.com/p/search/Channel%201969) | [Google Maps](https://maps.app.goo.gl/ptvj7MDftekUQysq6) | 💡 À considérer |
-| Club Steel Face | Séoul | 🤘 Club / rock-metal | [Naver Map](https://map.naver.com/p/search/Club%20Steel%20Face) | [Google Maps](https://maps.app.goo.gl/WQW2MgRyBtUsySXC6) | 💡 À considérer |
-| Strange Fruit | Séoul | 🎵 Live music / indie | [Naver Map](https://map.naver.com/p/search/Strange%20Fruit%20Seoul) | [Google Maps](https://maps.app.goo.gl/My8zHPqrTRXWnrUf7) | 💡 À considérer |
-| BBang | Séoul | 🎵 Live music / indie | [Naver Map](https://map.naver.com/p/search/BBang%20Seoul) | [Google Maps](https://maps.app.goo.gl/9h6KV23mM8vrwYZT6) | 💡 À considérer |
-| Club FF | Séoul | 🎸 Live club / rock | [Naver Map](https://map.naver.com/p/search/Club%20FF%20Seoul) | [Google Maps](https://maps.app.goo.gl/pE8fgqaQuRPjcQJS9) | 💡 À considérer |
+| Lieu | Zone | Type / intérêt | Proximité / repère pratique | Naver Map | Google Maps | Statut |
+|---|---|---|---|---|---|---|
+| Channel 1969 | Séoul / Yeonnam | 🎵 Bar / live music | **Très proche du Airbnb Hongdae**; ~0,6 km de Hongik Univ. | [Naver Map](https://map.naver.com/p/search/Channel%201969) | [Google Maps](https://maps.app.goo.gl/ptvj7MDftekUQysq6) | 💡 À considérer |
+| Club Steel Face | Séoul / Hongdae | 🤘 Club / rock-metal | **Hongdae central**; ~5 min à pied de Hongik Univ. sortie 8 selon la fiche du lieu | [Naver Map](https://map.naver.com/p/search/Club%20Steel%20Face) | [Google Maps](https://maps.app.goo.gl/WQW2MgRyBtUsySXC6) | 💡 À considérer |
+| Strange Fruit | Séoul / Hongdae | 🎵 Live music / indie | **Hongdae central**; Wausan-ro 29-gil, même secteur que BBang | [Naver Map](https://map.naver.com/p/search/Strange%20Fruit%20Seoul) | [Google Maps](https://maps.app.goo.gl/My8zHPqrTRXWnrUf7) | 💡 À considérer |
+| BBang | Séoul / Hongdae | 🎵 Live music / indie | **Hongdae central**; Wausan-ro 29-gil, même secteur que Strange Fruit | [Naver Map](https://map.naver.com/p/search/BBang%20Seoul) | [Google Maps](https://maps.app.goo.gl/9h6KV23mM8vrwYZT6) | 💡 À considérer |
+| Club FF | Séoul / Hongdae | 🎸 Live club / rock | **Hongdae / Sangsu**; accessible à pied depuis le secteur Hongdae | [Naver Map](https://map.naver.com/p/search/Club%20FF%20Seoul) | [Google Maps](https://maps.app.goo.gl/pE8fgqaQuRPjcQJS9) | 💡 À considérer |
 | Basement | Busan | 🎵 Bar / music venue | [Naver Map](https://map.naver.com/p/search/Basement%20Busan) | [Google Maps](https://maps.app.goo.gl/jr4ShjXEf6VYtuf17) | 💡 À considérer |
 | The Vinyl Underground Live Club | Busan | 🎸 Live music | [Naver Map](https://map.naver.com/p/search/The%20Vinyl%20Underground%20Busan) | [Google Maps](https://maps.app.goo.gl/F96MwqHU2f5wwRKm9) | 💡 À considérer |
-| Hard and Heavy Metal Pub | Busan | 🤘 Metal pub | [Naver Map](https://map.naver.com/p/search/Hard%20and%20Heavy%20Metal%20Pub%20Busan) | [Google Maps](https://maps.app.goo.gl/bvR2jnnzNfdz1aCz9) | 💡 À considérer |
-| HQ Gwangan | Busan / Gwangalli | 🍺 Bar / live events | [Naver Map](https://map.naver.com/p/search/HQ%20Gwangan) | [Google Maps](https://maps.app.goo.gl/FVCWYeCVDUuMrEM58) | 💡 À considérer |
+| Hard and Heavy Metal Pub | Busan / Seomyeon | 🤘 Metal pub | **Seomyeon**; prévoir métro ou taxi depuis Gwangalli | [Naver Map](https://map.naver.com/p/search/Hard%20and%20Heavy%20Metal%20Pub%20Busan) | [Google Maps](https://maps.app.goo.gl/bvR2jnnzNfdz1aCz9) | 💡 À considérer |
+| HQ Gwangan | Busan / Gwangalli | 🍺 Bar / live events | **Tout près du Airbnb / front de mer**; 237 Gwanganhaebyeon-ro | [Naver Map](https://map.naver.com/p/search/HQ%20Gwangan) | [Google Maps](https://maps.app.goo.gl/FVCWYeCVDUuMrEM58) | 💡 À considérer |
 | Sunset Record Bar | Busan | 🎶 Record bar | [Naver Map](https://map.naver.com/p/search/Sunset%20Record%20Bar%20Busan) | [Google Maps](https://maps.app.goo.gl/nSnsXLMJqJ9VQiF7A) | 💡 À considérer |
 
 ## Attractions — Busan

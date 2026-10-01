@@ -1,6 +1,6 @@
 # Rapport maître déplacé
 
-**Dernière mise à jour : 1er octobre 2026 à 15 h 33 HAE (UTC−4)**
+**Dernière mise à jour : 1er octobre 2026 à 15 h 40 HAE (UTC−4)**
 
 Le rapport est maintenant organisé en documents thématiques.
 
@@ -13,3 +13,6 @@ Mise à jour : KTX aller le **1er novembre 2026** et retour le **5 novembre 2026
 
 
 Activité ajoutée : **Bukhansan National Park: The Summit Course**, le **7 novembre de 7 h à 12 h KST**, réservée et payée **90,60 $ CAD**. Le budget et l'itinéraire canoniques ont été réconciliés.
+
+
+Logistique YUL mise à jour : nuit du **22 octobre** près de l'aéroport avec Julie, offerte par Julie; transport vers YUL le **23 octobre** et récupération à YUL le **9 novembre** assurés par Julie. Les navettes et la provision associée sont supprimées; la marge discrétionnaire passe à **713,98 $ CAD**.

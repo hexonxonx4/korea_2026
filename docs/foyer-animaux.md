@@ -18,7 +18,9 @@ Le deuxième 400 $ peut être modulé selon les besoins réels des enfants.
 |---|---|
 | Gardiens principaux | **Gaïa + Noah** |
 | Personnes de relève | **Geneviève + Karine** |
-| Nourriture | À préparer pour tout le voyage avant le **20 octobre** |
-| Promeneuse | **2–3 fois par semaine**; coût et disponibilité à déterminer |
+| Nourriture — chiens | ✅ **Nourriture lyophilisée déjà mise en place et bien tolérée** |
+| Nourriture — chats | ✅ **Réserve de nourriture lyophilisée disponible** |
+| Promeneuse / gardienne | **Retirée du plan — non requise** |
+| État du volet animaux | ✅ **Prêt pour le voyage** |
 
 [← Retour au sommaire](../README.md)

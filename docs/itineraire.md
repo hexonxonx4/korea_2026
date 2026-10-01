@@ -33,7 +33,8 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **3 nov.** | Busan; Gwangalli en soirée | 🟢 |
 | **4 nov.** | Busan | ✅ |
 | **5 nov.** | Busan → Séoul en KTX — réservé | ✅ |
-| **6–7 nov.** | Séoul libre | ✅ |
+| **6 nov.** | Séoul libre | 🟢 |
+| **7 nov.** | **Bukhansan National Park — Summit Course, 7 h à 12 h KST** | ✅ |
 | **8 nov.** | ICN → YVR — AC64 | 🟢 |
 | **9 nov.** | YVR → YUL — AC314; retour au Québec | 🟢 |
 

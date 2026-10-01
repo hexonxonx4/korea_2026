@@ -6,12 +6,12 @@ Le budget voyage est distinct du budget foyer.
 
 | Catégorie | Montant |
 |---|---:|
-| Coûts connus | **3 375,42 $** |
+| Coûts connus | **3 466,02 $** |
 | Provisions | **850 $** |
-| **Marge discrétionnaire** | **774,58 $** |
+| **Marge discrétionnaire** | **683,98 $** |
 | **TOTAL** | **5 000,00 $** |
 
-La marge représente environ **45,56 $ par jour**, en plus des postes déjà payés ou provisionnés.
+La marge représente environ **40,23 $ par jour**, en plus des postes déjà payés ou provisionnés.
 
 ## Coûts connus
 
@@ -23,6 +23,7 @@ La marge représente environ **45,56 $ par jour**, en plus des postes déjà pay
 | [Euljiro — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** |
 | Croisière | **47,66 $** |
 | DMZ | **0 $** |
+| Bukhansan Summit Course — 7 novembre | **90,60 $** |
 | Sac | **65,24 $** |
 | Adaptateur + HDMI | **44,82 $** |
 | eSIM | **39,11 $** |
@@ -30,11 +31,11 @@ La marge représente environ **45,56 $ par jour**, en plus des postes déjà pay
 | Assurance supplémentaire | **0 $** |
 | KTX Séoul → Busan — 1er novembre (53 700 KRW) | **56,51 $** |
 | KTX Busan → Séoul — 5 novembre (53 600 KRW) | **56,40 $** |
-| **TOTAL** | **3 375,42 $** |
+| **TOTAL** | **3 466,02 $** |
 
-Les réservations KTX confirmées totalisent **107 300 KRW**, soit **112,91 $ CAD** selon les montants CAD fournis par le voyageur le 1er octobre 2026. Ces coûts réels remplacent les anciennes provisions de **75 $ par trajet / 150 $ au total**; aucun taux de change estimatif n’est appliqué. La différence de **37,09 $** augmente la marge discrétionnaire.
+Les réservations KTX confirmées totalisent **107 300 KRW**, soit **112,91 $ CAD** selon les montants CAD fournis par le voyageur le 1er octobre 2026. Ces coûts réels remplacent les anciennes provisions de **75 $ par trajet / 150 $ au total**; aucun taux de change estimatif n’est appliqué. La différence de **37,09 $** augmente la marge discrétionnaire. L'activité Bukhansan du **7 novembre** est payée et ajoute **90,60 $** aux coûts connus. Son déjeuner facultatif d'environ **15 000 KRW** demeure couvert par l'enveloppe nourriture.
 
-Réconciliation : **3 375,42 $ + 850 $ + 774,58 $ = 5 000,00 $**.
+Réconciliation : **3 466,02 $ + 850 $ + 683,98 $ = 5 000,00 $**.
 
 ## Provisions
 

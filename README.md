@@ -22,6 +22,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 ## Points d'attention
 
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
+- Depuis 2026, la Colombie-Britannique conserve **Pacific Time (PCT), UTC−7** toute l’année. Vancouver ne recule donc pas l’heure le 1er novembre; les équivalents Montréal et la durée d’AC314 ont été corrigés en conséquence.
 - À compter du 1er novembre 2026, la Colombie-Britannique ne recule plus l’heure : Vancouver reste à **Pacific Time (PCT), UTC−7** toute l’année. Les heures du retour ont été corrigées en conséquence; cela explique l’écart d’une heure observé précédemment.
 - Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
 - Le séjour à Euljiro est réservé du **5 au 8 novembre**; **302,88 $** sont payables le **28 septembre**.

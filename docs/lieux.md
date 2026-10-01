@@ -42,12 +42,33 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 | Dongdaemun History & Culture Park Station | 🚇 Métro — près du Airbnb | **Lignes 2, 4 et 5** · 동대문역사문화공원역 | [Naver Map](https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EB%AC%B8%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EA%B3%B5%EC%9B%90%EC%97%AD) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dongdaemun+History+Culture+Park+Station+Seoul) | Station principale la plus proche du Airbnb; excellent échangeur lignes 2/4/5 |
 | Bukhansan Ui Station | 🚇 Métro / point de rencontre | **16-20 Ui-dong, Gangbuk-gu, Seoul** · Ui-Sinseol Line · 북한산우이역 | [Naver Map](https://map.naver.com/p/search/%EB%B6%81%ED%95%9C%EC%82%B0%EC%9A%B0%EC%9D%B4%EC%97%AD) | [Google Maps](https://maps.app.goo.gl/KtzUDZwvyuRoTvyG7) | **Point de rencontre randonnée — 7 nov., avant 7 h** |
 
-## Bars, salles et autres endroits
+## Bars et salles de spectacles
 
-Cette section accueillera les bars, salles de spectacles, restaurants et autres endroits repérés avant ou pendant le voyage.
+Ces endroits sont des **pistes identifiées**, pas des réservations. Les liens Naver utilisent le nom du lieu pour ouvrir directement une recherche dans Naver Map; les adresses pourront être précisées au besoin.
 
-| Lieu | Type | Adresse / repère | Naver Map | Google Maps | Utilité / statut |
+| Lieu | Zone | Type / intérêt | Naver Map | Google Maps | Statut |
 |---|---|---|---|---|---|
-| _À alimenter_ | — | — | — | — | Les endroits identifiés seront ajoutés au fur et à mesure. |
+| Channel 1969 | Séoul | 🎵 Bar / live music | [Naver Map](https://map.naver.com/p/search/Channel%201969) | [Google Maps](https://maps.app.goo.gl/ptvj7MDftekUQysq6) | 💡 À considérer |
+| Club Steel Face | Séoul | 🤘 Club / rock-metal | [Naver Map](https://map.naver.com/p/search/Club%20Steel%20Face) | [Google Maps](https://maps.app.goo.gl/WQW2MgRyBtUsySXC6) | 💡 À considérer |
+| Strange Fruit | Séoul | 🎵 Live music / indie | [Naver Map](https://map.naver.com/p/search/Strange%20Fruit%20Seoul) | [Google Maps](https://maps.app.goo.gl/My8zHPqrTRXWnrUf7) | 💡 À considérer |
+| BBang | Séoul | 🎵 Live music / indie | [Naver Map](https://map.naver.com/p/search/BBang%20Seoul) | [Google Maps](https://maps.app.goo.gl/9h6KV23mM8vrwYZT6) | 💡 À considérer |
+| Club FF | Séoul | 🎸 Live club / rock | [Naver Map](https://map.naver.com/p/search/Club%20FF%20Seoul) | [Google Maps](https://maps.app.goo.gl/pE8fgqaQuRPjcQJS9) | 💡 À considérer |
+| Basement | Busan | 🎵 Bar / music venue | [Naver Map](https://map.naver.com/p/search/Basement%20Busan) | [Google Maps](https://maps.app.goo.gl/jr4ShjXEf6VYtuf17) | 💡 À considérer |
+| The Vinyl Underground Live Club | Busan | 🎸 Live music | [Naver Map](https://map.naver.com/p/search/The%20Vinyl%20Underground%20Busan) | [Google Maps](https://maps.app.goo.gl/F96MwqHU2f5wwRKm9) | 💡 À considérer |
+| Hard and Heavy Metal Pub | Busan | 🤘 Metal pub | [Naver Map](https://map.naver.com/p/search/Hard%20and%20Heavy%20Metal%20Pub%20Busan) | [Google Maps](https://maps.app.goo.gl/bvR2jnnzNfdz1aCz9) | 💡 À considérer |
+| HQ Gwangan | Busan / Gwangalli | 🍺 Bar / live events | [Naver Map](https://map.naver.com/p/search/HQ%20Gwangan) | [Google Maps](https://maps.app.goo.gl/FVCWYeCVDUuMrEM58) | 💡 À considérer |
+| Sunset Record Bar | Busan | 🎶 Record bar | [Naver Map](https://map.naver.com/p/search/Sunset%20Record%20Bar%20Busan) | [Google Maps](https://maps.app.goo.gl/nSnsXLMJqJ9VQiF7A) | 💡 À considérer |
+
+## Attractions — Busan
+
+Ces lieux sont des **pistes libres** et ne constituent pas un programme fixe.
+
+| Lieu | Type / intérêt | Naver Map | Google Maps | Statut |
+|---|---|---|---|---|
+| Shinsegae Centum City | 🛍️ Grand magasin | [Naver Map](https://map.naver.com/p/search/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90%20%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0) | [Google Maps](https://maps.app.goo.gl/NWKz17ofYCkRv5jb9) | 💡 À considérer |
+| Gwangan Bridge (Gwangandaegyo) | 🌉 Pont / vue nocturne | [Naver Map](https://map.naver.com/p/search/%EA%B4%91%EC%95%88%EB%8C%80%EA%B5%90) | [Google Maps](https://maps.app.goo.gl/isb9v48WP6uJJccC8) | 💡 À considérer |
+| Haedong Yonggungsa Temple | 🛕 Temple côtier | [Naver Map](https://map.naver.com/p/search/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC) | [Google Maps](https://maps.app.goo.gl/bR132FNEhS7FJtHq6) | 💡 À considérer |
+| Igidae Coastal Trail | 🥾 Sentier côtier | [Naver Map](https://map.naver.com/p/search/%EC%9D%B4%EA%B8%B0%EB%8C%80%20%ED%95%B4%EC%95%88%EC%82%B0%EC%B1%85%EB%A1%9C) | [Google Maps](https://maps.app.goo.gl/Hn2uWzjv8UWcbbUH6) | 💡 À considérer |
+| Gamcheon Culture Village | 🏘️ Village culturel | [Naver Map](https://map.naver.com/p/search/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84) | [Google Maps](https://maps.app.goo.gl/4b7Tdwd3i32F1z7E7) | 💡 À considérer |
 
 [← Retour au sommaire](../README.md)

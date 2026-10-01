@@ -1,6 +1,6 @@
 # Rapport maître déplacé
 
-**Dernière mise à jour : 1er octobre 2026 à 15 h 40 HAE (UTC−4)**
+**Dernière mise à jour : 1er octobre 2026 — régénération KTX, animaux et lieux**
 
 Le rapport est maintenant organisé en documents thématiques.
 
@@ -16,3 +16,8 @@ Activité ajoutée : **Bukhansan National Park: The Summit Course**, le **7 nove
 
 
 Logistique YUL mise à jour : nuit du **22 octobre** près de l'aéroport avec Julie, offerte par Julie; transport vers YUL le **23 octobre** et récupération à YUL le **9 novembre** assurés par Julie. Les navettes et la provision associée sont supprimées; la marge discrétionnaire passe à **713,98 $ CAD**.
+
+
+Mise à jour opérationnelle : les détails complets des billets **KTX 033** et **KTX 034** sont maintenant consignés dans [Transports](docs/transports.md). Le volet animaux est désormais **prêt** : promeneuse retirée, responsables et relève confirmés, nourriture lyophilisée réglée pour chiens et chats.
+
+Nouveau document canonique : [Lieux et cartes](docs/lieux.md), destiné aux Airbnb, gares, stations, aéroports, points de rencontre, bars et autres endroits pertinents, avec **Naver Map prioritaire** en Corée et Google Maps en référence secondaire. Les adresses encore inconnues sont explicitement marquées à compléter plutôt que devinées.

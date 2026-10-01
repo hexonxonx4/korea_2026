@@ -53,11 +53,11 @@ Ces endroits sont des **pistes identifiées**, pas des réservations. Les liens 
 | Strange Fruit | Séoul / Hongdae | 🎵 Live music / indie | **Hongdae central**; Wausan-ro 29-gil, même secteur que BBang | [Naver Map](https://map.naver.com/p/search/Strange%20Fruit%20Seoul) | [Google Maps](https://maps.app.goo.gl/My8zHPqrTRXWnrUf7) | 💡 À considérer |
 | BBang | Séoul / Hongdae | 🎵 Live music / indie | **Hongdae central**; Wausan-ro 29-gil, même secteur que Strange Fruit | [Naver Map](https://map.naver.com/p/search/BBang%20Seoul) | [Google Maps](https://maps.app.goo.gl/9h6KV23mM8vrwYZT6) | 💡 À considérer |
 | Club FF | Séoul / Hongdae | 🎸 Live club / rock | **Hongdae / Sangsu**; accessible à pied depuis le secteur Hongdae | [Naver Map](https://map.naver.com/p/search/Club%20FF%20Seoul) | [Google Maps](https://maps.app.goo.gl/pE8fgqaQuRPjcQJS9) | 💡 À considérer |
-| Basement | Busan | 🎵 Bar / music venue | [Naver Map](https://map.naver.com/p/search/Basement%20Busan) | [Google Maps](https://maps.app.goo.gl/jr4ShjXEf6VYtuf17) | 💡 À considérer |
-| The Vinyl Underground Live Club | Busan | 🎸 Live music | [Naver Map](https://map.naver.com/p/search/The%20Vinyl%20Underground%20Busan) | [Google Maps](https://maps.app.goo.gl/F96MwqHU2f5wwRKm9) | 💡 À considérer |
+| Basement | Busan | 🎵 Bar / music venue | **À préciser** — utiliser le lien Google fourni comme repère jusqu'à validation du lieu exact | [Naver Map](https://map.naver.com/p/search/Basement%20Busan) | [Google Maps](https://maps.app.goo.gl/jr4ShjXEf6VYtuf17) | 💡 À considérer |
+| The Vinyl Underground Live Club | Busan | 🎸 Live music | **À préciser** — vérifier le trajet Naver depuis Gwangalli le soir choisi | [Naver Map](https://map.naver.com/p/search/The%20Vinyl%20Underground%20Busan) | [Google Maps](https://maps.app.goo.gl/F96MwqHU2f5wwRKm9) | 💡 À considérer |
 | Hard and Heavy Metal Pub | Busan / Seomyeon | 🤘 Metal pub | **Seomyeon**; prévoir métro ou taxi depuis Gwangalli | [Naver Map](https://map.naver.com/p/search/Hard%20and%20Heavy%20Metal%20Pub%20Busan) | [Google Maps](https://maps.app.goo.gl/bvR2jnnzNfdz1aCz9) | 💡 À considérer |
 | HQ Gwangan | Busan / Gwangalli | 🍺 Bar / live events | **Tout près du Airbnb / front de mer**; 237 Gwanganhaebyeon-ro | [Naver Map](https://map.naver.com/p/search/HQ%20Gwangan) | [Google Maps](https://maps.app.goo.gl/FVCWYeCVDUuMrEM58) | 💡 À considérer |
-| Sunset Record Bar | Busan | 🎶 Record bar | [Naver Map](https://map.naver.com/p/search/Sunset%20Record%20Bar%20Busan) | [Google Maps](https://maps.app.goo.gl/nSnsXLMJqJ9VQiF7A) | 💡 À considérer |
+| Sunset Record Bar | Busan | 🎶 Record bar | **À préciser** — utiliser le lien Google fourni comme repère jusqu'à validation | [Naver Map](https://map.naver.com/p/search/Sunset%20Record%20Bar%20Busan) | [Google Maps](https://maps.app.goo.gl/nSnsXLMJqJ9VQiF7A) | 💡 À considérer |
 
 ## Attractions — Busan
 

@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 1er octobre 2026 à 15 h 40 HAE (UTC−4)**
+**Dernière mise à jour : 1er octobre 2026 — régénération après mise à jour KTX, animaux et lieux**
 
 ## Sommaire exécutif
 
@@ -11,7 +11,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Séjour | **23 octobre → 8 novembre 2026** |
 | Retour au Québec | **9 novembre 2026** |
 | Parcours | **Hongdae (Séoul) → Busan → Euljiro (Séoul) → retour** |
-| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 contrôlés dans cet ordre le 1er octobre à 15 h 22 HAE (UTC−4); aucun changement d’horaire détecté; correction des fuseaux de Vancouver au retour selon le nouveau Pacific Time permanent (UTC−7)** |
+| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 recontrôlés dans cet ordre le 1er octobre 2026; aucun changement d’horaire détecté; correction des fuseaux de Vancouver au retour selon le nouveau Pacific Time permanent (UTC−7)** |
 | Budget voyage | **5 000,00 $ CAD** |
 | Coûts connus | **3 466,02 $** |
 | Provisions | **820 $** |
@@ -26,9 +26,10 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 - Depuis 2026, la Colombie-Britannique conserve **Pacific Time (PCT), UTC−7** toute l’année. Vancouver ne recule donc pas l’heure le 1er novembre; les équivalents Montréal et la durée d’AC314 ont été corrigés en conséquence.
 - Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
 - Le séjour à Euljiro est réservé du **5 au 8 novembre**; **302,88 $** sont payables le **28 septembre**.
-- Les deux KTX sont ✅ **réservés** : **Séoul → Busan le 1er novembre — 53 700 KRW / 56,51 $ CAD**; **Busan → Séoul le 5 novembre — 53 600 KRW / 56,40 $ CAD**. Total : **107 300 KRW / 112,91 $ CAD**.
+- Les deux KTX sont ✅ **réservés** avec détails complets consignés : **KTX 033, 1er nov., 12 h 16 → 14 h 58, voiture 18, siège 4D**; **KTX 034, 5 nov., 12 h 00 → 14 h 51, voiture 9, siège 4D**. Total : **107 300 KRW / 112,91 $ CAD**.
 - Bukhansan National Park: The Summit Course est réservé et payé pour le **7 novembre, 7 h–12 h KST**, au coût de **90,60 $ CAD**.
-- La promeneuse doit encore être confirmée, avec coût à déterminer.
+- Volet animaux : ✅ **prêt** — Gaïa + Noah responsables, Geneviève + Karine en relève, promeneuse retirée; nourriture lyophilisée réglée pour chiens et chats.
+- Nouveau répertoire [Lieux et cartes](docs/lieux.md) : Naver Map prioritaire en Corée, Google Maps en référence secondaire; les adresses précises manquantes seront complétées au fur et à mesure.
 
 ## Table des matières
 
@@ -41,7 +42,8 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | [Transports](docs/transports.md) | KTX, transports locaux et déplacements vers YUL |
 | [Logistique](docs/logistique.md) | eSIM, équipement et assurance |
 | [Activités](docs/activites.md) | Croisière, DMZ, concerts et priorités |
-| [Foyer et animaux](docs/foyer-animaux.md) | Épicerie des enfants, gardiens et promeneuse |
+| [Foyer et animaux](docs/foyer-animaux.md) | Épicerie des enfants et plan de garde des animaux |
+| [Lieux et cartes](docs/lieux.md) | Répertoire opérationnel des hébergements, gares, aéroports, activités, bars et liens Naver/Google |
 | [Échéancier](docs/echeancier.md) | Prochaines actions et tableau de progression |
 
 ## Règles de maintenance

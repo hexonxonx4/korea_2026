@@ -41,17 +41,14 @@ Liens officiels à consulter avant l'achat ou le chargement des titres :
 
 À vérifier avant le départ : fonctionnement de la composante transport de la WOWPASS, compatibilité avec le réseau **T-money**, tarifs alors en vigueur, moyens de recharge acceptés et intérêt réel d'un laissez-passer par rapport au paiement à l'usage.
 
-## Brossard ↔ YUL
+## Transport vers et depuis YUL
 
-Trajet prévu :
+Le transport est maintenant ✅ **réglé par Julie**, sans coût pour le budget voyage.
 
-> **Brossard → REM → métro → Palais des congrès → navette Air Canada → YUL**
-
-Retour inverse le 9 novembre. Provision aller-retour : **30 $**.
-
-Rappels Google Agenda :
-
-- **15 septembre à 9 h** — réserver la navette aller;
-- **30 septembre à 9 h** — réserver la navette retour.
+- **22 octobre** : nuit à l'hôtel près de YUL avec Julie; hôtel offert par Julie et **hors budget voyage**.
+- **23 octobre** : Julie assure le transport vers l'aéroport. Comme la nuit précédente est déjà passée près de YUL, le départ d'AC303 à 8 h 30 ne nécessite plus de déplacement matinal depuis la maison.
+- **9 novembre** : Julie vient chercher le voyageur à YUL au retour.
+- Les anciennes navettes Air Canada, le REM, le métro et le trajet via le Palais des congrès sont **annulés / non requis**.
+- L'ancienne provision de **30 $** pour Brossard ↔ YUL est supprimée du budget.
 
 [← Retour au sommaire](../README.md)

@@ -21,6 +21,16 @@ Base : Airbnb Yeonnam. Sorties musicales prévues : **Rolling Hall le 25**, **Cl
 
 **Plan de soirée :** souper avant les shows, surtout le 25 et le 31; après le show, Chicken In The Kitchen ou un comptoir de poulet, selon les heures réelles. Le 30, manger dans le secteur de Hongdae avant **ROCKERS ON FRIDAY** au Club Victim.
 
+### Courses et déjeuners — Yeonnam
+
+| Commerce | Quoi acheter / intérêt | Repère et carte |
+|---|---|---|
+| **GS25, CU, 7-Eleven** | Lait, yogourts, bananes, œufs cuits, petits pains, boissons et snacks. **Dépanneurs**, pratiques mais pas toujours les moins chers | [GS25 Yeonnam](https://map.naver.com/p/search/GS25%20%EC%97%B0%EB%82%A8%EB%8F%99) · [CU Yeonnam](https://map.naver.com/p/search/CU%20%EC%97%B0%EB%82%A8%EB%8F%99) · [7-Eleven Yeonnam](https://map.naver.com/p/search/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90%20%EC%97%B0%EB%82%A8%EB%8F%99) |
+| **Petits marts / supermarchés de quartier** | Fruits, pain, produits laitiers et provisions pour 3–4 jours; comparer avec les dépanneurs | [Marts Yeonnam](https://map.naver.com/p/search/%EC%97%B0%EB%82%A8%EB%8F%99%20%EB%A7%88%ED%8A%B8) |
+
+**Pratique :** choisir le commerce le plus proche du Airbnb Yeonnam-ro 3-gil après avoir regardé le trajet dans Naver; aucune succursale précise n'est encore validée à distance de marche.
+
+
 ## Busan — Gwangalli / Millak (1er → 5 nov.)
 
 Base : Airbnb près de Gwangalli. Pour les soirées **Basement** ou **HQ Gwangan**, choisir un resto autour de Millak ou du front de mer; [Lieux et cartes](lieux.md#bars-et-salles-de-spectacles).
@@ -34,6 +44,17 @@ Base : Airbnb près de Gwangalli. Pour les soirées **Basement** ou **HQ Gwangan
 
 **Plan de quartier :** gukbap pour un dîner solide et économique; BBQ pour un soir; chimaek avec vue sur Gwangalli une autre soirée. Réserver une journée de découvertes spontanées.
 
+### Courses et déjeuners — Gwangalli / Millak
+
+| Commerce | Quoi acheter / intérêt | Repère et carte |
+|---|---|---|
+| **Millak Golmok Market (민락골목시장)** | **Marché traditionnel** de quartier : fruits, légumes, accompagnements et collations; intéressant à visiter même sans faire de grosses courses | **190-2 Millak-dong, Suyeong-gu** · [Naver](https://map.naver.com/p/search/%EB%AF%BC%EB%9D%BD%EA%B3%A8%EB%AA%A9%EC%8B%9C%EC%9E%A5) |
+| **Homeplus Express Gwangan (홈플러스익스프레스 광안점)** | **Petit supermarché** pour lait, yogourts, pain, fruits, boissons et snacks; davantage de choix qu'un dépanneur | **625 Suyeong-ro, Suyeong-gu** · côté métro Suyeong/Gwangan, donc pas forcément à côté du Airbnb à Millak · [Naver](https://map.naver.com/p/search/%ED%99%88%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4%20%EA%B4%91%EC%95%88%EC%A0%90) · [Magasins officiels](https://pr.homeplus-express.co.kr/store) |
+| **GS25 / CU du secteur Millak** | Dépannage rapide pour déjeuner et grignoter, sans détour jusqu'au métro | [GS25 Millak](https://map.naver.com/p/search/GS25%20%EB%AF%BC%EB%9D%BD%EB%8F%99) · [CU Millak](https://map.naver.com/p/search/CU%20%EB%AF%BC%EB%9D%BD%EB%8F%99) |
+
+**À distinguer :** Millak Golmok est un marché alimentaire de quartier, pas le grand marché de poissons *Millak Raw Fish Center*. Le magasin Homeplus Express Gwangan est identifié dans l'annuaire officiel; vérifier jours de fermeture et horaires avant le déplacement.
+
+
 ## Séoul — Euljiro (5 → 8 nov.)
 
 Base : Airbnb Euljiro. **OFFAL GRIND FEST le 7 novembre** à Sinchon : prévoir un repas tôt avant de partir; la randonnée Bukhansan est aussi prévue le matin du 7.
@@ -43,6 +64,16 @@ Base : Airbnb Euljiro. **OFFAL GRIND FEST le 7 novembre** à Sinchon : prévoir 
 | **Sancheong Sootbul Garden (산청숯불가든 을지로)** | Porc noir au charbon; BBQ de qualité pour se gâter | ₩25k–40k, **estimation** | 114-6 Eulji-ro; populaire, file possible, minimum à vérifier | [Naver](https://map.naver.com/p/search/%EC%82%B0%EC%B2%AD%EC%88%AF%EB%B6%88%EA%B0%80%EB%93%A0%20%EC%9D%84%EC%A7%80%EB%A1%9C) |
 | **Dalmaji Gwangjang Barbecue (달맞이광장바베큐)** | Poulet grillé au charbon + bière, ambiance de ruelle | ₩20k–30k | Euljiro; confirmer l'adresse exacte dans Naver avant de partir | [Naver](https://map.naver.com/p/search/%EB%8B%AC%EB%A7%9E%EC%9D%B4%EA%B4%91%EC%9E%A5%EB%B0%94%EB%B2%A0%ED%81%90) |
 | **Euljiro Nogari Alley (을지로 노가리골목)** | Bière, snacks et poisson séché; ambiance populaire, pas un BBQ | ₩10k–20k | Choisir l'établissement sur place; à combiner avec Sunset Record Bar | [Naver](https://map.naver.com/p/search/%EC%9D%84%EC%A7%80%EB%A1%9C%20%EB%85%B8%EA%B0%80%EB%A6%AC%EA%B3%A8%EB%AA%A9) |
+
+### Courses et déjeuners — Euljiro / Myeongdong
+
+| Commerce | Quoi acheter / intérêt | Repère et carte |
+|---|---|---|
+| **Lemon Mart (레몬마트)** | **Supermarché** pour provisions de quelques jours, fruits et produits frais; option si tu passes par Myeongdong | **45 Myeongdong 9-gil, Jung-gu** · [Naver](https://map.naver.com/p/search/%EB%A0%88%EB%AA%AC%EB%A7%88%ED%8A%B8%20%EB%AA%85%EB%8F%99) · [Fiche Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=148439) |
+| **CU, GS25, Emart24 autour d'Euljiro 3-ga** | **Dépanneurs** pour petits déjeuners rapides, café, yogourts et collations; privilégier celui sur ton trajet | [CU Euljiro 3-ga](https://map.naver.com/p/search/CU%20%EC%9D%84%EC%A7%80%EB%A1%9C3%EA%B0%80) · [GS25](https://map.naver.com/p/search/GS25%20%EC%9D%84%EC%A7%80%EB%A1%9C3%EA%B0%80) · [Emart24](https://map.naver.com/p/search/%EC%9D%B4%EB%A7%88%ED%8A%B824%20%EC%9D%84%EC%A7%80%EB%A1%9C3%EA%B0%80) |
+
+**Pratique :** pour trois nuits, inutile de faire une grosse épicerie. Lemon Mart est un détour possible, pas nécessairement l'option la plus proche du Airbnb.
+
 
 ## Budget pratique
 
@@ -54,6 +85,20 @@ Base : Airbnb Euljiro. **OFFAL GRIND FEST le 7 novembre** à Sinchon : prévoir 
 | BBQ spécial, une ou deux fois | ₩30k–40k+ |
 
 **Règle simple :** un bon souper de viande est compatible avec le budget si le midi reste abordable. Prévoir une marge pour la bière et les minimums de commande. L'enveloppe **700 $ CAD ne change pas**; ces suggestions ne constituent ni des réservations ni des dépenses engagées.
+
+### Panier économique — 3 à 4 déjeuners + collations
+
+| Produit | Budget estimé |
+|---|---:|
+| Yogourts ou lait | ₩3 000–5 000 |
+| Bananes ou autres fruits | ₩3 000–5 000 |
+| Pain ou petits pains | ₩3 000–5 000 |
+| Œufs cuits ou fromage | ₩3 000–5 000 |
+| Noix, chips ou snacks coréens | ₩4 000–6 000 |
+| **Total indicatif** | **₩16 000–26 000** |
+
+Montants de planification, **non relevés en magasin**. Les courses font partie du budget nourriture global de **700 $ CAD**, pas d'une enveloppe additionnelle.
+
 
 ## À vérifier sur place
 

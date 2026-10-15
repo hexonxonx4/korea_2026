@@ -28,7 +28,7 @@
 - [ ] Vérifier la trésorerie disponible et la réserve d'urgence, séparément des **700 $ CAD de budget nourriture**.
 - [ ] Vérifier WOWPASS, T-money et les wons disponibles; préciser quoi recharger à l'arrivée.
 - [x] **eSIM Corée :** déjà installée sur le Pixel 9; inactive pour le moment, elle s'activera en Corée (confirmation du voyageur le 15 octobre). À l'arrivée, choisir cette eSIM pour les données mobiles et vérifier la connexion; conserver les instructions d'activation hors ligne.
-- [ ] Tester Naver Map, traduction coréen ↔ français/anglais et accès hors ligne aux documents.
+- [x] **Applications essentielles installées (confirmé le 15 octobre) :** Naver Map, Papago, k.ride, WOWPASS, Google Translate et outil de conversion des liens Google Maps vers Naver Map. **Reste à tester sur place :** navigation, traduction et connexion aux services; les documents essentiels sont déjà accessibles hors ligne.
 
 ### Santé, maison et sécurité
 - [ ] Médicaments personnels : quantité pour toute la durée + marge, emballages d'origine, ordonnance / documents pertinents; vérifier les règles d'importation si nécessaire.

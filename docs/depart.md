@@ -87,7 +87,7 @@
 | Airbnb Busan | Adresse, liens Naver/Google Maps et métro déjà documentés dans [Lieux](lieux.md); instructions finales d'accès attendues le jour d'arrivée. | 🟡 Accès à recevoir |
 | Airbnb Euljiro | Adresse coréenne, hôte, check-in, trajet depuis Seoul Station | ⬜ À compléter |
 | Paiement de secours | Carte EQ Bank **physique** disponible même sans téléphone; plafonds déjà vérifiés. Autre solution de dernier recours prévue par le voyageur pour gérer ses virements à distance, sous réserve d'accès et d'authentification. Ne pas publier les détails d'accès. | ✅ Carte physique confirmée |
-| Téléphone perdu ou brisé | Accès au coffre Bitwarden **testé et fonctionnel** dans le navigateur SteamOS, sans Pixel 9. Carte EQ Bank physique disponible. Accès à d'autres services susceptible de demander une authentification additionnelle; conserver des moyens de récupération indépendants du téléphone. | 🟡 Accès au coffre vérifié; authentification de secours à confirmer |
+| Téléphone perdu ou brisé | Accès au coffre Bitwarden testé depuis SteamOS sans Pixel 9; le voyageur confirme aussi l'accès aux codes 2FA sans son téléphone. Carte EQ Bank physique disponible; Steam Deck comme appareil de secours. | ✅ Solutions de secours confirmées |
 
 ## Points déjà documentés — à ne pas confondre avec une revérification
 

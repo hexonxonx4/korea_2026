@@ -1,6 +1,6 @@
 # Rapport maître déplacé
 
-**Dernière mise à jour : 15 octobre 2026 — ajout ciblé des recommandations de concerts**
+**Dernière mise à jour : 15 octobre 2026 — concerts et paiements Airbnb confirmés**
 
 Le rapport est maintenant organisé en documents thématiques.
 
@@ -23,3 +23,5 @@ Mise à jour opérationnelle : les détails complets des billets **KTX 033** et 
 Nouveau document canonique : [Lieux et cartes](docs/lieux.md), destiné aux Airbnb, gares, stations, aéroports, points de rencontre, bars et autres endroits pertinents, avec **Naver Map prioritaire** en Corée et Google Maps en référence secondaire. Les adresses encore inconnues sont explicitement marquées à compléter plutôt que devinées.
 
 Concerts du **24 au 31 octobre 2026** : [sélection, prix, liens et niveaux de vérification](docs/activites.md#concerts-et-vie-nocturne). Sept pistes documentées : METHOD, BrokenTeeth + Gnaw, The Bowls, Harakiri for the Sky (Mokdong, hors Hongdae), EVIL KARMA, WE 2026 et SUPER SONIC Halloween. Priorité punk à SUPER SONIC sous réserve de confirmation directe; WE 2026 et EVIL KARMA sont des alternatives le 31 octobre. Aucun billet acheté; budget inchangé. Cette mise à jour concerne les concerts; le dernier contrôle des vols reste celui du 1er octobre.
+
+Paiements Airbnb confirmés par le voyageur le **15 octobre 2026** : **Euljiro 302,88 $ payé** et **solde Hongdae 593,34 $ payé**. Les deux séjours sont entièrement réglés. [Hébergements](docs/hebergements.md), [échéancier](docs/echeancier.md) et [suivi budgétaire](docs/budget.md) sont actualisés; ces montants étaient déjà inclus dans les coûts connus, donc le total et la marge ne changent pas.

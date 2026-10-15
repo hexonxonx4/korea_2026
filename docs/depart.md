@@ -27,7 +27,7 @@
 - [ ] Confirmer deux moyens de paiement indépendants, plafonds et frais internationaux.
 - [ ] Vérifier la trésorerie disponible et la réserve d'urgence, séparément des **700 $ CAD de budget nourriture**.
 - [ ] Vérifier WOWPASS, T-money et les wons disponibles; préciser quoi recharger à l'arrivée.
-- [ ] Vérifier activation de l'eSIM et procédure de bascule des données sur le Pixel 9; conserver le QR code / instructions hors ligne.
+- [x] **eSIM Corée :** déjà installée sur le Pixel 9; inactive pour le moment, elle s'activera en Corée (confirmation du voyageur le 15 octobre). À l'arrivée, choisir cette eSIM pour les données mobiles et vérifier la connexion; conserver les instructions d'activation hors ligne.
 - [ ] Tester Naver Map, traduction coréen ↔ français/anglais et accès hors ligne aux documents.
 
 ### Santé, maison et sécurité

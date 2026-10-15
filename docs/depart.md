@@ -31,7 +31,7 @@
 - [x] **Applications essentielles installées (confirmé le 15 octobre) :** Naver Map, Papago, k.ride, WOWPASS, Google Translate et outil de conversion des liens Google Maps vers Naver Map. **Reste à tester sur place :** navigation, traduction et connexion aux services; les documents essentiels sont déjà accessibles hors ligne.
 
 ### Santé, maison et sécurité
-- [ ] Médicaments personnels : quantité pour toute la durée + marge, emballages d'origine, ordonnance / documents pertinents; vérifier les règles d'importation si nécessaire.
+- [ ] **Médicaments personnels :** quantités suffisantes pour 21 jours et contenants d'origine avec étiquettes de pharmacie confirmés. **À faire :** obtenir une copie des ordonnances ou un profil pharmacologique, puis vérifier les règles d'importation applicables en Corée avant le départ. Les noms et doses des médicaments sont volontairement exclus du dépôt GitHub.
 - [ ] Préparer contacts d'urgence, numéro d'assistance d'assurance et coordonnées des hébergements.
 - [ ] Confirmer le relais maison / animaux (Gaïa et Noah; Geneviève et Karine en relève), nourriture et consignes pratiques.
 - [x] **Itinéraire et hébergements partagés :** informations disponibles dans le dépôt GitHub du voyage; lien transmis à Julie, Noah et Karine (confirmé le 15 octobre 2026). **À confirmer séparément au besoin :** moyen de contact en cas d'urgence.

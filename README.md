@@ -47,6 +47,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | [Transports](docs/transports.md) | KTX, transports locaux et déplacements vers YUL |
 | [Logistique](docs/logistique.md) | eSIM, équipement et assurance |
 | [Activités](docs/activites.md) | Croisière, DMZ, concerts et priorités |
+| [Bouffe](docs/bouffe.md) | BBQ porc, chimaek, gukbap, restaurants par Airbnb et sorties, budget et conseils solo |
 | [Foyer et animaux](docs/foyer-animaux.md) | Épicerie des enfants et plan de garde des animaux |
 | [Lieux et cartes](docs/lieux.md) | Répertoire opérationnel des hébergements, gares, aéroports, activités, bars et liens Naver/Google |
 | [Échéancier](docs/echeancier.md) | Prochaines actions et tableau de progression |

@@ -12,7 +12,7 @@
 | **12 oct.** | Hongdae — solde de **593,34 $** — ✅ **payé à la date prévue** |
 | **15 oct.** | Épicerie — **400 $** |
 | **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; METHOD avec KILLKAISER choisi pour le 25, ROCKERS ON FRIDAY pour le 30 et SUPER SONIC pour le 31, billets ou entrées à obtenir; autres choix encore ouverts |
-| **17 oct.** | Busan — paiement de **201,13 $** |
+| **15 oct.** | Busan — solde de **201,13 $** — ✅ **payé** (échéance initiale du 17 octobre) |
 | **18 oct.** | Checklist de départ; vérifier les quatre segments dans le dossier Air Canada, particulièrement AC64 le dimanche 8 novembre |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6) |
 | **22 oct.** | Faire les bagages; nuit à l'hôtel près de YUL — hors budget voyage |
@@ -47,9 +47,9 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 
 | Dossier | Statut |
 |---|---|
-| AC303 / AC63 / AC64 / AC314 | 🟡 Horaires publiés concordants au 15 octobre 2026; confirmation Air Canada non obtenue et desserte dominicale d’AC64 le 8 novembre à confirmer; voir [Vols](vols.md) |
+| AC303 / AC63 / AC64 / AC314 | ✅ Quatre segments confirmés dans la réservation Air Canada consultée le 15 octobre; 🟡 état opérationnel à revérifier avant les départs; voir [Vols](vols.md) |
 | Hongdae — 24 octobre au 1er novembre | ✅ Réservé et entièrement payé : **699,43 $** (**106,09 $ + 593,34 $**); solde **0 $** |
-| Busan — 1er au 5 novembre | ✅ Réservé; total **402,20 $**, dont **201,07 $ payés**; balance de **201,13 $** le 17 octobre |
+| Busan — 1er au 5 novembre | ✅ Réservé et entièrement payé : **402,20 $**; solde **0 $** |
 | Euljiro — 5 au 8 novembre | ✅ Réservé et entièrement payé : **302,88 $**; solde **0 $** |
 | METHOD avec KILLKAISER — 25 octobre | 🟡 Soirée choisie; billet non confirmé acheté, réservation à confirmer; tarifs annoncés 55 000 ₩ en prévente / 66 000 ₩ à la porte |
 | ROCKERS ON FRIDAY vol.107 — 30 octobre | 🟡 Soirée choisie; entrée à acheter sur place, **30 000 ₩ avec une consommation**; portes 19 h, début 19 h 30 KST |

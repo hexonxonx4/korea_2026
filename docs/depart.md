@@ -50,6 +50,7 @@
 - [ ] Préparer le trajet vers la gare de Séoul pour le KTX du **1er novembre à 12 h 16**; vérifier aussi le retour Busan du **5 novembre à 12 h**.
 - [ ] **Vêtements et météo :** imperméable déjà en possession du voyageur (confirmé); consulter la météo à Séoul et Busan avant le départ et plusieurs hoodies / polars déjà disponibles, choix final à faire lors de la préparation de la valise; prévoir une couche chaude adaptée.
 - [ ] **Articles de toilette :** achat de formats voyage prévu chez Jean Coutu ou Walmart avant le départ. Pour le bagage cabine, contenants de liquides et gels de 100 ml maximum, regroupés dans un sac transparent refermable de 1 L; vérifier les achats et préparer la trousse.
+- [ ] **Petite trousse de premiers soins :** achat prévu en même temps que les articles de toilette (pansements, antiseptique, antidouleur usuel adapté); à confirmer après magasinage.
 - [x] **Lessive durant le séjour :** accès à une laveuse et à une sécheuse confirmé dans les trois Airbnb (Séoul / Busan / Séoul). Prévoir environ 5 à 7 jours de vêtements et laver sur place pour voyager léger en cabine.
 - [x] **Chaussures :** deux paires prévues : espadrilles confortables et bottes The North Face DryVent examinées sur photos, avec semelle à crampons visiblement marqués. Bottes déjà portées par le voyageur et retenues comme choix privilégié pour Bukhansan; confort sur longue marche et adhérence sur roche humide à surveiller.
 

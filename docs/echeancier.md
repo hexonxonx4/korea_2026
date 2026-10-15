@@ -7,9 +7,9 @@
 | **9 sept.** | Busan — réservation révisée — ✅ **confirmée; total de 402,20 $** |
 | **9 sept.** | Réservation Euljiro (5 au 8 nov.) — ✅ **confirmée; total de 302,88 $** |
 | **20 sept.** | Air Canada — **275,94 $** (2e de 6) |
-| **28 sept.** | Euljiro — **302,88 $** — ✅ **payé**, confirmé le 15 octobre (échéance initiale) |
+| **28 sept.** | Euljiro — **302,88 $** — ✅ **payé à la date prévue** |
 | **1er oct. — mise à jour** | KTX aller et retour — ✅ **réservés; 107 300 KRW / 112,91 $ CAD** |
-| **12 oct.** | Hongdae — solde de **593,34 $** — ✅ **payé**, confirmé le 15 octobre (échéance initiale) |
+| **12 oct.** | Hongdae — solde de **593,34 $** — ✅ **payé à la date prévue** |
 | **15 oct.** | Épicerie — **400 $** |
 | **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; choix et achats encore à faire |
 | **17 oct.** | Busan — paiement de **201,13 $** |
@@ -33,7 +33,7 @@
 | **20 déc.** | Air Canada — **275,94 $** (5e de 6) |
 | **20 janv. 2027** | Air Canada — **275,94 $** (6e de 6) |
 
-Les paiements Euljiro et Hongdae sont confirmés par le voyageur le **15 octobre 2026**; les dates de débit effectives ne sont pas précisées. Les dates des lignes correspondantes conservent les échéances initiales.
+Les paiements ont été effectués aux dates planifiées : **Euljiro le 28 septembre 2026** et **Hongdae le 12 octobre 2026**, selon la confirmation du voyageur reçue le **15 octobre 2026**.
 
 Les anciennes tâches de réservation des navettes sont retirées : les transports vers YUL et depuis YUL sont prévus, hors budget voyage.
 

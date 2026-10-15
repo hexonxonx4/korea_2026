@@ -11,7 +11,7 @@
 
 Les adresses et liens cartographiques des hébergements sont centralisés dans [Lieux et cartes](lieux.md); les adresses exactes restent à compléter à partir des informations de réservation.
 
-Paiements de **302,88 $ pour Euljiro** et de **593,34 $ pour Hongdae** confirmés par le voyageur le **15 octobre 2026**. Les dates de débit effectives ne sont pas précisées; les anciennes échéances étaient respectivement le 28 septembre et le 12 octobre.
+Paiements de **302,88 $ pour Euljiro** et de **593,34 $ pour Hongdae** confirmés par le voyageur le **15 octobre 2026**. Les débits ont été effectués aux dates planifiées : **Euljiro le 28 septembre 2026** et **Hongdae le 12 octobre 2026**.
 
 ## Paiements à venir
 

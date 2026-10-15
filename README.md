@@ -48,6 +48,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | [Logistique](docs/logistique.md) | eSIM, équipement et assurance |
 | [Activités](docs/activites.md) | Croisière, DMZ, concerts et priorités |
 | [Bouffe](docs/bouffe.md) | BBQ porc, chimaek, gukbap, restaurants par Airbnb et sorties, budget et conseils solo |
+| [Checklist de départ](docs/depart.md) | Vérifications J-7, J-2 et jour J, urgences et points à valider ensemble |
 | [Foyer et animaux](docs/foyer-animaux.md) | Épicerie des enfants et plan de garde des animaux |
 | [Lieux et cartes](docs/lieux.md) | Répertoire opérationnel des hébergements, gares, aéroports, activités, bars et liens Naver/Google |
 | [Échéancier](docs/echeancier.md) | Prochaines actions et tableau de progression |

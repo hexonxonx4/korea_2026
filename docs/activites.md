@@ -63,6 +63,19 @@ Priorités :
 - Pour **Harakiri for the Sky**, retenir **67 000 ₩ en prévente**, selon NOL, malgré un tarif divergent dans un agrégateur.
 - Les échecs d'ouverture de Melon, Bandsintown, NOL World et Sonicboom ne prouvent ni une annulation ni la validité de ces liens. Les sources de remplacement et les limites sont indiquées dans chaque ligne.
 
+## 7 novembre — OFFAL GRIND FEST
+
+- **Choix arrêté par le voyageur pour la dernière soirée du séjour.**
+- **Samedi 7 novembre 2026, 17 h KST (UTC+9)** — heure de fin et ouverture des portes non précisées.
+- **Infinity Club, Sinchon** — **34-3 Yonsei-ro 7an-gil, Seodaemun-gu, Seoul, sous-sol B1**, près de **Sinchon, ligne 2, sortie 1**. Cartes : [Lieux et cartes](lieux.md#bars-et-salles-de-spectacles).
+- Programmation annoncée : **NAHU, DISSEKTIST, Naiite, Hwa, STURMANGRIFF, Chihaek, CONFORM/ASSIMILATE et Human Extinction Project**.
+- **20 000 ₩ — vente uniquement à la porte** (tarif mineur annoncé : 10 000 ₩). **🟡 Entrée à acheter sur place, sous réserve de capacité; aucun billet acheté.** Moyens de paiement non précisés : ni comptant ni WOWPASS garantis par l'annonce.
+- Source consultée le **15 octobre 2026** : [annonce OFFAL GRIND FEST sur lmml](https://lmml.kr/en/concerts/100).
+- Depuis l'Airbnb d'Euljiro : rejoindre **Dongdaemun History & Culture Park**, puis **ligne 2 vers Euljiro 4-ga / City Hall jusqu'à Sinchon**, sans correspondance, et marcher depuis la sortie 1. Environ **19 min entre stations** selon [Rome2Rio](https://www.rome2rio.com/s/Dongdaemun-History-and-Culture-Park-Station/Sinchon-Station); **35–45 min porte à porte estimées**, à recalculer dans Naver Map le jour même.
+- Après **Bukhansan, 7 h–12 h**, garder l'après-midi pour le retour au logement, le repas et le repos; départ indicatif vers **16 h**. Vérifier le dernier métro si la soirée se prolonge; heure de fin inconnue.
+- Vol retour **AC64 prévu le 8 novembre à 18 h 55 KST**; conserver la limite du [contrôle public des vols](vols.md), encore partiel.
+- Dépense prévue dans la **marge discrétionnaire**; aucun ajout aux coûts connus avant achat.
+
 ## Pistes libres
 
 Le séjour conserve volontairement de l'espace pour les découvertes spontanées à Séoul et Busan.

@@ -28,6 +28,7 @@
 | **1 nov.** | KTX 033 Séoul **12 h 16** → Busan **14 h 58** — voiture 18, siège 4D, face à la marche — ✅ **53 700 KRW / 56,51 $ CAD** |
 | **5 nov.** | KTX 034 Busan **12 h 00** → Séoul **14 h 51** — voiture 9, siège 4D, dos à la marche — ✅ **53 600 KRW / 56,40 $ CAD** |
 | **7 nov. — 7 h à 12 h KST** | Bukhansan National Park — Summit Course — ✅ **réservé et payé, 90,60 $ CAD** |
+| **7 nov. — 17 h KST** | **[OFFAL GRIND FEST](activites.md#7-novembre--offal-grind-fest), Infinity Club (Sinchon)** — soirée choisie; 🟡 entrée **20 000 ₩ à acheter uniquement à la porte**, sous réserve de capacité; repos après Bukhansan |
 | **8 nov.** | AC64 — ICN → YVR |
 | **9 nov. — 00 h 15 PCT (UTC−7)**<br>**2 h 15 à Montréal (HNE, UTC−5)** | AC314 — YVR → YUL |
 | **9 nov.** | Retour au Québec; transport depuis YUL prévu |
@@ -54,6 +55,7 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 | Croisière | ✅ |
 | DMZ | ✅ |
 | Bukhansan — 7 novembre | ✅ Réservé et payé — **90,60 $ CAD** |
+| OFFAL GRIND FEST — 7 novembre | 🟡 Soirée choisie; entrée à acheter uniquement à la porte, **20 000 ₩**; moyens de paiement et heure de fin à confirmer |
 | eSIM | ✅ |
 | Équipement | ✅ |
 | Assurance | ✅ |

@@ -36,7 +36,8 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **4 nov.** | Busan | ✅ |
 | **5 nov.** | Busan → Séoul en KTX — réservé | ✅ |
 | **6 nov.** | Séoul libre | 🟢 |
-| **7 nov.** | **Bukhansan National Park — Summit Course, 7 h à 12 h KST** | ✅ |
+| **7 nov. — matin** | **Bukhansan National Park — Summit Course, 7 h à 12 h KST** | ✅ |
+| **7 nov. — après-midi et soirée** | Retour au logement et repos → **[OFFAL GRIND FEST](activites.md#7-novembre--offal-grind-fest), Infinity Club (Sinchon), 17 h KST**; soirée choisie, entrée à acheter à la porte (**20 000 ₩**) | 🟡 |
 | **8 nov.** | ICN → YVR — AC64 | 🟢 |
 | **9 nov.** | YVR → YUL — AC314; retour au Québec | 🟢 |
 

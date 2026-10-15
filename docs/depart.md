@@ -21,7 +21,7 @@
 - [x] **Documents hors ligne :** réservations Airbnb, billets KTX, passeport et carte d'assurance accessibles hors ligne; consultation Airbnb testée en mode avion. **À faire plus tard :** télécharger les instructions d'accès finales et les cartes d'embarquement dès réception.
 - [x] **Adresses et liens cartographiques des trois Airbnb** déjà centralisés dans [Lieux](lieux.md). Les instructions d'accès finales et certaines heures restent à recevoir aux dates prévues.
 - [x] **Points de rencontre** de la croisière (26 oct.), de la DMZ (27 oct.) et de Bukhansan (7 nov.) déjà consignés dans [Lieux](lieux.md).
-- [ ] Vérifier les conditions d'accès / achat des entrées des concerts retenus (**25, 30, 31 oct.; 7 nov.**) sans considérer les billets comme déjà achetés.
+- [ ] **Concerts :** billet METHOD + KILLKAISER du **25 octobre acheté et payé** (63 000 ₩ / 67,21 $ CAD, frais inclus). Conserver le billet hors ligne et vérifier les consignes d'entrée. Entrées du **30 octobre** et du **7 novembre** prévues à la porte; **SUPER SONIC du 31 octobre** : prévente par virement bancaire coréen, alternative de paiement à demander à l'organisateur, sinon billet à la porte sous réserve de capacité.
 
 ### Argent et connectivité
 - [x] **Moyens de paiement de secours vérifiés :** WOWPASS sera le moyen de paiement principal (confirmé le 15 octobre). **Carte de secours confirmée :** carte EQ Bank utilisée au quotidien, donc active et familière au voyageur; déjà utilisée sans problème aux États-Unis. **Plafonds de paiement et retrait vérifiés et jugés adéquats par le voyageur (15 octobre).** Acceptation en Corée du Sud et frais éventuels à confirmer; conserver des wons en espèces pour les dépenses non acceptées par WOWPASS.

@@ -6,9 +6,9 @@ Le budget voyage est distinct du budget foyer.
 
 | Catégorie | Montant |
 |---|---:|
-| Coûts connus | **3 466,02 $** |
+| Coûts connus | **3 533,23 $** |
 | Provisions | **820 $** |
-| **Marge discrétionnaire** | **713,98 $** |
+| **Marge discrétionnaire** | **646,77 $** |
 | **TOTAL** | **5 000,00 $** |
 
 La marge représente environ **42,00 $ par jour**, en plus des postes déjà payés ou provisionnés.
@@ -24,6 +24,7 @@ La marge représente environ **42,00 $ par jour**, en plus des postes déjà pay
 | Croisière | **47,66 $** |
 | DMZ | **0 $** |
 | Bukhansan Summit Course — 7 novembre | **90,60 $** |
+| METHOD + KILLKAISER — 25 octobre (billet 55 000 KRW + frais 8 000 KRW) | **67,21 $** |
 | Sac | **65,24 $** |
 | Adaptateur + HDMI | **44,82 $** |
 | eSIM | **39,11 $** |
@@ -31,11 +32,11 @@ La marge représente environ **42,00 $ par jour**, en plus des postes déjà pay
 | Assurance supplémentaire | **0 $** |
 | KTX Séoul → Busan — 1er novembre (53 700 KRW) | **56,51 $** |
 | KTX Busan → Séoul — 5 novembre (53 600 KRW) | **56,40 $** |
-| **TOTAL** | **3 466,02 $** |
+| **TOTAL** | **3 533,23 $** |
 
-Les réservations KTX confirmées totalisent **107 300 KRW**, soit **112,91 $ CAD** selon les montants CAD fournis par le voyageur le 1er octobre 2026. Ces coûts réels remplacent les anciennes provisions de **75 $ par trajet / 150 $ au total**; aucun taux de change estimatif n’est appliqué. La différence de **37,09 $** augmente la marge discrétionnaire. L'activité Bukhansan du **7 novembre** est payée et ajoute **90,60 $** aux coûts connus. Son déjeuner facultatif d'environ **15 000 KRW** demeure couvert par l'enveloppe nourriture.
+Les réservations KTX confirmées totalisent **107 300 KRW**, soit **112,91 $ CAD** selon les montants CAD fournis par le voyageur le 1er octobre 2026. Ces coûts réels remplacent les anciennes provisions de **75 $ par trajet / 150 $ au total**; aucun taux de change estimatif n’est appliqué. La différence de **37,09 $** augmente la marge discrétionnaire. L'activité Bukhansan du **7 novembre** est payée et ajoute **90,60 $** aux coûts connus. Le billet **METHOD + KILLKAISER** du 25 octobre est acheté et payé avec la carte EQ Bank : **63 000 KRW**, soit **67,21 $ CAD réellement débités**, frais de 8 000 KRW inclus; cette dépense est transférée de la marge discrétionnaire aux coûts connus. Son déjeuner facultatif d'environ **15 000 KRW** demeure couvert par l'enveloppe nourriture.
 
-Réconciliation : **3 466,02 $ + 820 $ + 713,98 $ = 5 000,00 $**.
+Réconciliation : **3 533,23 $ + 820 $ + 646,77 $ = 5 000,00 $**.
 
 ## Suivi des paiements Airbnb
 

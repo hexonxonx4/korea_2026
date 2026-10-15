@@ -31,7 +31,7 @@
 - [x] **Applications essentielles installées (confirmé le 15 octobre) :** Naver Map, Papago, k.ride, WOWPASS, Google Translate et outil de conversion des liens Google Maps vers Naver Map. **Reste à tester sur place :** navigation, traduction et connexion aux services; les documents essentiels sont déjà accessibles hors ligne.
 
 ### Santé, maison et sécurité
-- [ ] **Médicaments de voyage :** quantités et emballages d’origine confirmés. Aucun profil de pharmacie ou copie de prescription ne sera obtenu (choix du voyageur). Vérifier les règles d’entrée applicables.
+- [x] **Médicaments de voyage :** quantités suffisantes et emballages d’origine confirmés; le voyageur indique que les formalités d’importation ont été vérifiées et sont en ordre. Aucun relevé de pharmacie ni copie d’ordonnance supplémentaire prévu.
 - [ ] Préparer contacts d'urgence, numéro d'assistance d'assurance et coordonnées des hébergements.
 - [ ] **Joignabilité en Corée :** Messenger sera le canal principal. Julie est déjà informée; **avertir Karine et Noah** avant le départ. La ligne Fizz devrait rester active pour les SMS, notamment MFA, mais **réception en itinérance en Corée à confirmer**. Garder les données mobiles sur l'eSIM coréenne et éviter l'itinérance des données Fizz. **MFA :** comptes importants dotés de passkeys stockées dans Vaultwarden, accessibles via Bitwarden sur le Pixel 9 et le PC à la maison (confirmé). Méthode indépendante des SMS Fizz; conserver l'accès au coffre sur le téléphone.
 - [ ] Confirmer le relais maison / animaux (Gaïa et Noah; Geneviève et Karine en relève), nourriture et consignes pratiques.

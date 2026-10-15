@@ -25,7 +25,7 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **22 oct.** | Nuit à l'hôtel près de YUL — hors budget voyage | ✅ |
 | **23 oct.** | Transport vers YUL → AC303 YUL → YVR → AC63 YVR → ICN | ✅ |
 | **24 oct.** | Arrivée → Hongdae → installation → repérage → relaxation | 🟢 |
-| **25 oct.** | Jetlag → concert facultatif : [METHOD ou BrokenTeeth + Gnaw, 18 h](activites.md#concerts-et-vie-nocturne) | 🟢 |
+| **25 oct.** | **[BrokenTeeth + Gnaw](activites.md#concerts-et-vie-nocturne), Gongsangondo, 18 h KST** — soirée choisie; portes à 17 h 30; billet non confirmé acheté, réservation à confirmer | 🟡 |
 | **26 oct.** | Libre → croisière en soirée | ✅ |
 | **27 oct.** | DMZ | ✅ |
 | **28–30 oct.** | Séoul libre → [concerts facultatifs](activites.md#concerts-et-vie-nocturne) : The Bowls le 28 (à confirmer), Harakiri for the Sky à Mokdong le 29 | 🟢 |

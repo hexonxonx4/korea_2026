@@ -1,8 +1,19 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 15 octobre 2026 — recoupement public partiel**<br>
-**État : 🟡 Horaires publiés concordants au 15 octobre 2026; confirmation Air Canada non obtenue et desserte dominicale d’AC64 le 8 novembre à confirmer.**
+**Dernier contrôle : 15 octobre 2026 — capture de la réservation Air Canada fournie par le voyageur**<br>
+**État : ✅ Les quatre segments sont indiqués « Confirmés » dans la réservation Air Canada consultée par le voyageur le 15 octobre 2026. Horaires opérationnels à recontrôler avant les départs.**
+
+## Confirmation du dossier — 15 octobre 2026
+
+Capture d'écran de la réservation Air Canada fournie par le voyageur :
+
+| Trajet | Segments | Départ | Arrivée | Escale | Statut |
+|---|---|---|---|---|---|
+| Aller, ven. 23 oct. | AC303 + AC63 | YUL **8 h 30**, 23 oct. | ICN **16 h 05**, sam. 24 oct. | YVR **1 h 38** | **Confirmés — Économique Standard** |
+| Retour, dim. 8 nov. | AC64 + AC314 | ICN **18 h 55**, 8 nov. | YUL **7 h 10**, lun. 9 nov. | YVR **11 h 30** | **Confirmés — Économique Standard** |
+
+La confirmation du dossier règle l'incertitude antérieure sur la présence d'**AC64 le dimanche 8 novembre** dans la réservation. Les horaires et portes peuvent encore changer; contrôler l'état des vols 24–48 h avant chaque départ. Les tableaux de recoupement public ci-dessous restent comme historique du contrôle antérieur, **et non comme statut actuel**.
 
 ## Sources et méthode de validation
 

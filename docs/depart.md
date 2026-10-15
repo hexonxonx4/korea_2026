@@ -52,7 +52,7 @@
 - [x] **Chaussures :** deux paires prévues : espadrilles confortables et bottes The North Face DryVent examinées sur photos, avec semelle à crampons visiblement marqués. Bottes déjà portées par le voyageur et retenues comme choix privilégié pour Bukhansan; confort sur longue marche et adhérence sur roche humide à surveiller.
 
 ### Sac et technologie
-- [ ] Passeport, cartes, wons, téléphone, chargeur, batterie externe et adaptateur en bagage cabine.
+- [ ] Passeport, cartes, wons, téléphone, chargeur, batterie externe et adaptateur en bagage cabine. **Adaptateur de voyage : déjà acheté et en possession** (référence Amazon B0DHVNW1CN); vérifier sa compatibilité avec les prises coréennes et l'alimentation des appareils avant départ.
 - [x] **Batterie externe :** 10 000 mAh confirmés (environ 37 Wh si tension nominale 3,7 V), sous le seuil habituel de 100 Wh pour le transport en cabine. Garder dans le sac à dos, jamais dans la valise si elle est enregistrée; vérifier la valeur Wh indiquée sur l'appareil et les règles du transporteur.
 - [ ] **Test en mode avion :** ouvrir les confirmations Airbnb / activités, adresses d’arrivée et carte Canada Vie; si elles ne s’affichent pas, conserver captures ou PDF hors ligne. Billets KTX déjà confirmés hors ligne.
 - [ ] Tester charge, sauvegarde, authentification à deux facteurs et récupération d'accès aux comptes importants.

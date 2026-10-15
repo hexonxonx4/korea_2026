@@ -50,7 +50,7 @@
 
 ### Sac et technologie
 - [ ] Passeport, cartes, wons, téléphone, chargeur, batterie externe et adaptateur en bagage cabine.
-- [ ] Vérifier les règles de transport des batteries externes en avion et garder celles-ci en cabine.
+- [ ] **Batterie externe :** déjà en possession du voyageur (confirmé). La garder en bagage cabine, jamais en soute; vérifier sa capacité en Wh et les règles applicables d'Air Canada avant le départ.
 - [ ] **Test en mode avion :** ouvrir les confirmations Airbnb / activités, adresses d’arrivée et carte Canada Vie; si elles ne s’affichent pas, conserver captures ou PDF hors ligne. Billets KTX déjà confirmés hors ligne.
 - [ ] Tester charge, sauvegarde, authentification à deux facteurs et récupération d'accès aux comptes importants.
 - [ ] Préparer une **fiche papier d'urgence** : hébergements, itinéraire, vols, contacts, assurance, premier trajet.

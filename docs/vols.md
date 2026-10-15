@@ -1,8 +1,19 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 15 octobre 2026 — recoupement public partiel**<br>
-**État : 🟡 Horaires publiés concordants au 15 octobre 2026; confirmation Air Canada non obtenue et desserte dominicale d’AC64 le 8 novembre à confirmer.**
+**Dernier contrôle : 15 octobre 2026 — capture de la réservation Air Canada fournie par le voyageur**<br>
+**État : ✅ Les quatre segments sont indiqués « Confirmés » dans la réservation Air Canada consultée par le voyageur le 15 octobre 2026. Horaires opérationnels à recontrôler avant les départs.**
+
+## Confirmation du dossier — 15 octobre 2026
+
+Capture d'écran de la réservation Air Canada fournie par le voyageur :
+
+| Trajet | Segments | Départ | Arrivée | Escale | Statut |
+|---|---|---|---|---|---|
+| Aller, ven. 23 oct. | AC303 + AC63 | YUL **8 h 30**, 23 oct. | ICN **16 h 05**, sam. 24 oct. | YVR **1 h 38** | **Confirmés — Économique Standard** |
+| Retour, dim. 8 nov. | AC64 + AC314 | ICN **18 h 55**, 8 nov. | YUL **7 h 10**, lun. 9 nov. | YVR **11 h 30** | **Confirmés — Économique Standard** |
+
+La confirmation du dossier règle l'incertitude antérieure sur la présence d'**AC64 le dimanche 8 novembre** dans la réservation. Les horaires et portes peuvent encore changer; contrôler l'état des vols 24–48 h avant chaque départ. Les tableaux de recoupement public ci-dessous restent comme historique du contrôle antérieur, **et non comme statut actuel**.
 
 ## Sources et méthode de validation
 
@@ -16,9 +27,9 @@ L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco
 
 L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération. Si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter un PDF saisonnier comme une confirmation en temps réel.
 
-### Contrôle du 15 octobre 2026 — vérification courante
+### Recoupement public du 15 octobre 2026 — historique, antérieur à la confirmation du dossier
 
-Les sources ont été examinées dans l'ordre **AC303 → AC63 → AC64 → AC314**. L'[horaire Air Canada](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html) ne restitue pas de résultat de vol exploitable dans l'outil; la page [État des vols](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) n'a pas pu être consultée. Le dossier de réservation n'a pas été consulté. Les pages Flight.info ont été relues : il s'agit d'un **recoupement des horaires publiés**, pas d'une confirmation opérationnelle par la compagnie.
+Les sources ont été examinées dans l'ordre **AC303 → AC63 → AC64 → AC314**. L'[horaire Air Canada](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html) ne restitue pas de résultat de vol exploitable dans l'outil; la page [État des vols](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) n'a pas pu être consultée. Le dossier de réservation n'avait pas encore été consulté **lors de ce recoupement public**; il a été confirmé séparément par le voyageur le même jour (voir la section « Confirmation du dossier » ci-dessus). Les pages Flight.info ont été relues : il s'agit d'un **recoupement des horaires publiés**, pas d'une confirmation opérationnelle par la compagnie.
 
 | Vol et date prévue | Horaire local publié et équivalent Montréal | Appareil publié | Résultat du contrôle |
 |---|---|---|---|
@@ -27,7 +38,7 @@ Les sources ont été examinées dans l'ordre **AC303 → AC63 → AC64 → AC31
 | [AC64](https://www.flight.info/AC64) — dim. 8 nov. | ICN **18 h 55 KST (UTC+9)**, soit **4 h 55 HNE (UTC−5) à Montréal** → YVR **12 h 45 PCT (UTC−7)** le même jour, soit **14 h 45 HNE (UTC−5) à Montréal** | Boeing 787-9 | Horaire concordant dans la plage du 1er novembre au 16 décembre; **jour d'exploitation à confirmer** : le texte extrait indique « Every weekday », ce qui ne confirme pas le dimanche 8 novembre. |
 | [AC314](https://www.flight.info/AC314) — lun. 9 nov. | YVR **0 h 15 PCT (UTC−7)**, soit **2 h 15 HNE (UTC−5) à Montréal** → YUL **7 h 10 HNE (UTC−5)** | Airbus A220-300 | Concordant; plage du 2 novembre au 3 décembre, libellé « Every weekday », compatible avec le lundi. |
 
-**Conclusion : aucun écart dans les heures ou appareils publiés par rapport au rapport, mais vérification partielle pour les dates exactes.** L'ambiguïté du dimanche pour AC64 ne prouve pas une annulation : conserver l'itinéraire réservé et vérifier ce segment dans le dossier Air Canada.
+**Conclusion historique du recoupement public :** horaires concordants, mais le dimanche d'AC64 n'était pas établi par ces seules sources. **Cette incertitude a depuis été levée par la confirmation des quatre segments dans le dossier Air Canada le 15 octobre.** Seul le suivi opérationnel avant départ reste à faire.
 
 Les fuseaux ont été recoupés avec les annonces officielles de la Colombie-Britannique : [UTC−7 permanent](https://news.gov.bc.ca/releases/2026AG0013-000209) et [désignation PCT, sans recul le 1er novembre](https://news.gov.bc.ca/releases/2026CITZ0009-001073). Les calculs restent **5 h 12 / 11 h 45 / 9 h 50 / 4 h 55** pour les quatre vols; correspondances **1 h 38 à l'aller** et **11 h 30 au retour**. Ces durées supposent le maintien des horaires ci-dessus. Les PDF saisonniers n'ont pas été revalidés.
 

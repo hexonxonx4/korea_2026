@@ -11,21 +11,25 @@
 | **1er oct. — mise à jour** | KTX aller et retour — ✅ **réservés; 107 300 KRW / 112,91 $ CAD** |
 | **12 oct.** | Hongdae — solde de **593,34 $** — ✅ **payé à la date prévue** |
 | **15 oct.** | Épicerie — **400 $** |
-| **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; choix et achats encore à faire |
-| **17 oct.** | Busan — paiement de **201,13 $** |
+| **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; METHOD avec KILLKAISER choisi pour le 25 (**billet acheté : 63 000 ₩ / 67,21 $ CAD**), ROCKERS ON FRIDAY pour le 30 et SUPER SONIC pour le 31 (entrées à obtenir); autres choix encore ouverts |
+| **15 oct.** | Busan — solde de **201,13 $** — ✅ **payé** (échéance initiale du 17 octobre) |
 | **18 oct.** | Checklist de départ; vérifier les quatre segments dans le dossier Air Canada, particulièrement AC64 le dimanche 8 novembre |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6) |
 | **22 oct.** | Faire les bagages; nuit à l'hôtel près de YUL — hors budget voyage |
 | **23 oct.** | Fonds — **~1 250 $** |
 | **23 oct.** | Transport vers YUL; AC303 (YUL → YVR) + AC63 (YVR → ICN) |
 | **24 oct.** | Récupérer et activer la WOWPASS à Incheon |
+| **25 oct. — 18 h KST** | **METHOD avec KILLKAISER, Rolling Hall** — ✅ billet acheté et payé **63 000 ₩ / 67,21 $ CAD**, frais inclus; ouverture des portes à confirmer |
 | **26 oct.** | Croisière |
 | **27 oct.** | DMZ |
 | **29 oct.** | Fonds supplémentaires — **~1 000 $** |
 | **29 oct.** | Épicerie — **400 $ maximum** |
+| **30 oct. — 19 h 30 KST** | **ROCKERS ON FRIDAY vol.107, Club Victim** — soirée choisie; portes 19 h; 🟡 entrée **30 000 ₩ avec une consommation**, à acheter uniquement sur place; comptant et carte annoncés |
+| **31 oct. — 20 h KST** | **SUPER SONIC Halloween, Senggi Studio** — soirée choisie; 🟡 billet non confirmé acheté, réservation à confirmer; entrée annoncée dès 19 h 30 |
 | **1 nov.** | KTX 033 Séoul **12 h 16** → Busan **14 h 58** — voiture 18, siège 4D, face à la marche — ✅ **53 700 KRW / 56,51 $ CAD** |
 | **5 nov.** | KTX 034 Busan **12 h 00** → Séoul **14 h 51** — voiture 9, siège 4D, dos à la marche — ✅ **53 600 KRW / 56,40 $ CAD** |
 | **7 nov. — 7 h à 12 h KST** | Bukhansan National Park — Summit Course — ✅ **réservé et payé, 90,60 $ CAD** |
+| **7 nov. — 17 h KST** | **[OFFAL GRIND FEST](activites.md#7-novembre--offal-grind-fest), Infinity Club (Sinchon)** — soirée choisie; 🟡 entrée **20 000 ₩ à acheter uniquement à la porte**, sous réserve de capacité; repos après Bukhansan |
 | **8 nov.** | AC64 — ICN → YVR |
 | **9 nov. — 00 h 15 PCT (UTC−7)**<br>**2 h 15 à Montréal (HNE, UTC−5)** | AC314 — YVR → YUL |
 | **9 nov.** | Retour au Québec; transport depuis YUL prévu |
@@ -43,13 +47,17 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 
 | Dossier | Statut |
 |---|---|
-| AC303 / AC63 / AC64 / AC314 | 🟡 Horaires publiés concordants au 15 octobre 2026; confirmation Air Canada non obtenue et desserte dominicale d’AC64 le 8 novembre à confirmer; voir [Vols](vols.md) |
+| AC303 / AC63 / AC64 / AC314 | ✅ Quatre segments confirmés dans la réservation Air Canada consultée le 15 octobre; 🟡 état opérationnel à revérifier avant les départs; voir [Vols](vols.md) |
 | Hongdae — 24 octobre au 1er novembre | ✅ Réservé et entièrement payé : **699,43 $** (**106,09 $ + 593,34 $**); solde **0 $** |
-| Busan — 1er au 5 novembre | ✅ Réservé; total **402,20 $**, dont **201,07 $ payés**; balance de **201,13 $** le 17 octobre |
+| Busan — 1er au 5 novembre | ✅ Réservé et entièrement payé : **402,20 $**; solde **0 $** |
 | Euljiro — 5 au 8 novembre | ✅ Réservé et entièrement payé : **302,88 $**; solde **0 $** |
+| METHOD avec KILLKAISER — 25 octobre | ✅ Billet acheté et payé : **63 000 ₩** (55 000 ₩ + 8 000 ₩ de frais), **67,21 $ CAD** sur carte EQ Bank |
+| ROCKERS ON FRIDAY vol.107 — 30 octobre | 🟡 Soirée choisie; entrée à acheter sur place, **30 000 ₩ avec une consommation**; portes 19 h, début 19 h 30 KST |
+| SUPER SONIC — 31 octobre | 🟡 Soirée choisie; billet non confirmé acheté, réservation à confirmer; tarif annoncé 33 000 ₩ en prévente / 38 000 ₩ à la porte |
 | Croisière | ✅ |
 | DMZ | ✅ |
 | Bukhansan — 7 novembre | ✅ Réservé et payé — **90,60 $ CAD** |
+| OFFAL GRIND FEST — 7 novembre | 🟡 Soirée choisie; entrée à acheter uniquement à la porte, **20 000 ₩**; moyens de paiement et heure de fin à confirmer |
 | eSIM | ✅ |
 | Équipement | ✅ |
 | Assurance | ✅ |

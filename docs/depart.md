@@ -1,6 +1,6 @@
 # ✅ Départ — Checklist Corée du Sud 2026
 
-**Document de travail à compléter ensemble** — version initiale du 15 octobre 2026. Les cases sont volontairement **non cochées** tant que leur vérification n'a pas été confirmée. Ne pas confondre « réservé / documenté dans le rapport » avec « revérifié juste avant de partir ».
+**Suivi opérationnel mis à jour le 15 octobre 2026.** Les confirmations déjà obtenues sont cochées; les gestes à faire avant le départ ou à l'arrivée restent ouverts.
 
 **Départ : 23 octobre 2026 · Retour : 8–9 novembre 2026.** Bases : Hongdae (24 oct.–1er nov.), Busan (1er–5 nov.), Euljiro (5–8 nov.).
 
@@ -18,13 +18,13 @@
 
 ### Documents et réservations
 - [x] **Passeport :** validité et état physique confirmés; copie numérique disponible hors ligne.
-- [ ] **Documents hors ligne :** Airbnb (réservations, adresses et instructions d’arrivée) testé en mode avion; billets KTX, copie du passeport et carte d’assurance disponibles hors ligne. Cartes d’embarquement à conserver après enregistrement.
-- [ ] Vérifier l'adresse **en coréen** de chaque Airbnb et les instructions de check-in / check-out.
-- [ ] Noter les points de rencontre de la croisière du **26 oct.**, de la DMZ du **27 oct.** et de Bukhansan du **7 nov.**
+- [x] **Documents hors ligne :** réservations Airbnb, billets KTX, passeport et carte d'assurance accessibles hors ligne; consultation Airbnb testée en mode avion. **À faire plus tard :** télécharger les instructions d'accès finales et les cartes d'embarquement dès réception.
+- [x] **Adresses et liens cartographiques des trois Airbnb** déjà centralisés dans [Lieux](lieux.md). Les instructions d'accès finales et certaines heures restent à recevoir aux dates prévues.
+- [x] **Points de rencontre** de la croisière (26 oct.), de la DMZ (27 oct.) et de Bukhansan (7 nov.) déjà consignés dans [Lieux](lieux.md).
 - [ ] Vérifier les conditions d'accès / achat des entrées des concerts retenus (**25, 30, 31 oct.; 7 nov.**) sans considérer les billets comme déjà achetés.
 
 ### Argent et connectivité
-- [ ] **Paiements en Corée :** WOWPASS sera le moyen de paiement principal (confirmé le 15 octobre). **Carte de secours confirmée :** carte EQ Bank utilisée au quotidien, donc active et familière au voyageur; déjà utilisée sans problème aux États-Unis. **Plafonds de paiement et retrait vérifiés et jugés adéquats par le voyageur (15 octobre).** Acceptation en Corée du Sud et frais éventuels à confirmer; conserver des wons en espèces pour les dépenses non acceptées par WOWPASS.
+- [x] **Moyens de paiement de secours vérifiés :** WOWPASS sera le moyen de paiement principal (confirmé le 15 octobre). **Carte de secours confirmée :** carte EQ Bank utilisée au quotidien, donc active et familière au voyageur; déjà utilisée sans problème aux États-Unis. **Plafonds de paiement et retrait vérifiés et jugés adéquats par le voyageur (15 octobre).** Acceptation en Corée du Sud et frais éventuels à confirmer; conserver des wons en espèces pour les dépenses non acceptées par WOWPASS.
 - [ ] Vérifier la trésorerie disponible et la réserve d'urgence, séparément des **700 $ CAD de budget nourriture**.
 - [ ] **Acheter 160 000 KRW avant le départ :** achat prévu durant la fin de semaine du 17–18 octobre ou au début de la semaine du 19 octobre. Répartition prévue : 100 000 KRW en espèces, 30 000 KRW à charger sur T-money et 30 000 KRW à charger sur WOWPASS. Confirmer l'achat et les rechargements une fois effectués. **Carte WOWPASS physique :** à récupérer à une borne à l'aéroport d'Incheon après l'arrivée (confirmé par le voyageur). Instructions de récupération déjà reçues par courriel Gmail (confirmé par le voyageur); conserver le courriel accessible à l'arrivée. **Vérification recharge à Incheon :** borne WOWPASS accepte les billets KRW pour créditer le solde achats; solde T-money distinct, rechargeable en espèces à un dépanneur ou une borne T-money de la station. Les bornes WOWPASS d'Incheon ne permettent pas les retraits d'espèces. Ne pas présumer que la même borne recharge les deux soldes.
 - [x] **eSIM Corée :** déjà installée sur le Pixel 9; inactive pour le moment, elle s'activera en Corée (confirmation du voyageur le 15 octobre). À l'arrivée, choisir cette eSIM pour les données mobiles et vérifier la connexion; conserver les instructions d'activation hors ligne.
@@ -32,10 +32,10 @@
 
 ### Santé, maison et sécurité
 - [x] **Médicaments de voyage :** quantités suffisantes et emballages d’origine confirmés; le voyageur indique que les formalités d’importation ont été vérifiées et sont en ordre. Aucun relevé de pharmacie ni copie d’ordonnance supplémentaire prévu.
-- [ ] Préparer contacts d'urgence, numéro d'assistance d'assurance et coordonnées des hébergements.
+- [ ] **Contacts d'urgence :** Julie et Karine désignées; coordonnées d'assurance déjà connues. **À faire :** leur remettre les coordonnées d'assistance Canada Vie et s'assurer qu'elles disposent du lien GitHub.
 - [ ] **Joignabilité en Corée :** Messenger sera le canal principal. Julie est déjà informée; **avertir Karine et Noah** avant le départ. La ligne Fizz devrait rester active pour les SMS, notamment MFA, mais **réception en itinérance en Corée à confirmer**. Garder les données mobiles sur l'eSIM coréenne et éviter l'itinérance des données Fizz. **MFA :** comptes importants dotés de passkeys stockées dans Vaultwarden, accessibles via Bitwarden sur le Pixel 9 et le PC à la maison (confirmé). Méthode indépendante des SMS Fizz; conserver l'accès au coffre sur le téléphone.
-- [ ] Confirmer le relais maison / animaux (Gaïa et Noah; Geneviève et Karine en relève), nourriture et consignes pratiques.
-- [x] **Itinéraire et hébergements partagés :** informations disponibles dans le dépôt GitHub du voyage; lien transmis à Julie, Noah et Karine (confirmé le 15 octobre 2026). **À confirmer séparément au besoin :** moyen de contact en cas d'urgence.
+- [x] **Relais maison / animaux :** Gaïa et Noah responsables; Geneviève et Karine en relève; nourriture lyophilisée réglée (voir [Foyer et animaux](foyer-animaux.md)). Contrôle final de la maison à faire le jour du départ.
+- [ ] **Partager le carnet de voyage :** itinéraire et hébergements documentés dans GitHub; **transmettre ou reconfirmer le lien à Julie et Karine avant le départ**, comme prévu par le voyageur. Ne pas supposer que le partage est terminé.
 
 ## J-2 — 21 octobre
 
@@ -47,7 +47,7 @@
 - [ ] Vérifier l'hôtel près de YUL pour la nuit du **22 octobre** et les transports avec Julie.
 - [x] **Busan :** séjour confirmé du 1er au 5 novembre (4 nuits). Le message de l'hôte indiquant le 4 novembre précède la prolongation; la réservation Airbnb à jour affiche bien le 5 novembre. Logement LEE:OCEAN, Gwangalli; arrivée dès 16 h, départ à midi. Instructions d'accès complémentaires attendues le jour d'arrivée.
 - [ ] **Airbnb Euljiro (5–8 novembre) :** l'hôte transmettra l'adresse, l'itinéraire et les instructions d'accès la veille de l'arrivée (4 novembre). Pas de consigne dédiée : bagages possibles dans le corridor sécurisé par code et CCTV à l'étage du logement, ou consigne payante dans le métro. Heures de check-in/check-out encore à confirmer. Sauvegarder le message hors ligne dès réception.
-- [ ] Vérifier les messages Airbnb, codes d'entrée et heures de check-in / check-out.
+- [ ] **Instructions Airbnb à recevoir :** Yeonnam le 23 octobre, Busan le 1er novembre, Euljiro le 4 novembre. Vérifier les codes et les heures manquantes, puis enregistrer les messages hors ligne.
 - [ ] Préparer le trajet **Incheon → Airbnb Yeonnam** et une option de secours en cas de retard.
 - [ ] Préparer le trajet vers la gare de Séoul pour le KTX du **1er novembre à 12 h 16**; vérifier aussi le retour Busan du **5 novembre à 12 h**.
 - [ ] **Vêtements et météo :** imperméable déjà en possession du voyageur (confirmé); consulter la météo à Séoul et Busan avant le départ et plusieurs hoodies / polars déjà disponibles, choix final à faire lors de la préparation de la valise; prévoir une couche chaude adaptée.
@@ -63,7 +63,7 @@
 - [x] **Batterie externe :** 10 000 mAh confirmés (environ 37 Wh si tension nominale 3,7 V), sous le seuil habituel de 100 Wh pour le transport en cabine. Garder dans le sac à dos, jamais dans la valise si elle est enregistrée; vérifier la valeur Wh indiquée sur l'appareil et les règles du transporteur.
 - [x] **Électronique prévue :** Pixel 9, Steam Deck, clavier/trackpad Bluetooth, câble HDMI, dock USB-C pour Steam Deck, chargeur de Steam Deck et écouteurs (confirmé par le voyageur). Charge du Pixel 9 prévue avec le chargeur de la Steam Deck ou les ports USB de l’adaptateur de voyage (2 USB-A et 2 USB-C); câble USB prévu. Vérifier la puissance de charge des ports USB si besoin; conserver Steam Deck et appareils avec batteries au lithium en cabine.
 - [x] **Test en mode avion :** réservations et instructions Airbnb testées avec succès; documents essentiels accessibles hors ligne.
-- [ ] Tester charge, sauvegarde, authentification à deux facteurs et récupération d'accès aux comptes importants.
+- [ ] **Tester les chargeurs et câbles avant le départ.** Accès Bitwarden et codes 2FA depuis SteamOS sans Pixel 9 déjà confirmés; ne pas refaire ce test sans raison.
 - [ ] Préparer une **fiche papier d'urgence** : hébergements, itinéraire, vols, contacts, assurance, premier trajet.
 - [ ] Faire le dernier contrôle maison : animaux, clés, déchets, appareils, accès.
 
@@ -83,20 +83,20 @@
 | Personne à joindre au Québec | **Julie et Karine**, contacts d'urgence confirmés. Coordonnées personnelles à conserver hors GitHub; vérifier qu'elles sont accessibles hors ligne. | ✅ Contacts désignés |
 | Assurance voyage | **Canada Vie** : durée de **17 jours confirmée** par le voyageur; soins urgents admissibles **100 %**, sans franchise; assistance **+1 204 946-2577**. Garder carte et identifiants personnels hors GitHub ; **à faire avant le départ : remettre les coordonnées d'assistance à Julie et Karine** | 🟡 Couverture vérifiée, partage à faire |
 | Vols | Itinéraire aérien documenté dans le dépôt; **à faire avant le départ : transmettre l'URL GitHub à Julie et Karine**. Référence de réservation et données personnelles à conserver hors dépôt. | 🟡 Partage à faire |
-| Airbnb Yeonnam | Adresse coréenne, hôte, check-in, itinéraire depuis Incheon | ⬜ À compléter |
+| Airbnb Yeonnam | Adresse et liens dans [Lieux](lieux.md); lien Naver de l'hôte disponible dans les messages Airbnb. Arrivée dès 16 h, départ avant 11 h; instructions finales attendues le 23 octobre. | 🟡 Code d'accès à recevoir |
 | Airbnb Busan | Adresse, liens Naver/Google Maps et métro déjà documentés dans [Lieux](lieux.md); instructions finales d'accès attendues le jour d'arrivée. | 🟡 Accès à recevoir |
-| Airbnb Euljiro | Adresse coréenne, hôte, check-in, trajet depuis Seoul Station | ⬜ À compléter |
+| Airbnb Euljiro | Adresse et liens dans [Lieux](lieux.md); l'hôte enverra itinéraire et accès le 4 novembre. Bagages possibles dans le corridor sécurisé ou consigne payante en station; horaires d'arrivée et de départ à confirmer. | 🟡 Instructions à recevoir |
 | Paiement de secours | Carte EQ Bank **physique** disponible même sans téléphone; plafonds déjà vérifiés. Autre solution de dernier recours prévue par le voyageur pour gérer ses virements à distance, sous réserve d'accès et d'authentification. Ne pas publier les détails d'accès. | ✅ Carte physique confirmée |
 | Téléphone perdu ou brisé | Accès au coffre Bitwarden testé depuis SteamOS sans Pixel 9; le voyageur confirme aussi l'accès aux codes 2FA sans son téléphone. Carte EQ Bank physique disponible; Steam Deck comme appareil de secours. | ✅ Solutions de secours confirmées |
 
 ## Points déjà documentés — à ne pas confondre avec une revérification
 
 - Billets **KTX 033 le 1er novembre** (12 h 16–14 h 58) et **KTX 034 le 5 novembre** (12 h–14 h 51) consignés dans [Transports](transports.md).
-- Airbnb Hongdae et Euljiro signalés payés; Busan réservé avec solde prévu le 17 octobre dans le [rapport](../README.md).
+- **Les trois Airbnb sont entièrement payés**, y compris le solde Busan de 201,13 $ réglé le 15 octobre; voir [Hébergements](hebergements.md).
 - eSIM, WOWPASS, T-money et matériel préparés dans [Logistique](logistique.md).
 - Croisière, DMZ et randonnée Bukhansan documentées dans [Activités](activites.md).
 - Restaurants, marchés et courses dans [Bouffe](bouffe.md).
 
-**Prochaine séance ensemble :** passer les cases une par une, valider les preuves et ajouter les informations utiles sans stocker de données de carte ou de secrets dans un dépôt GitHub.
+**À retenir :** les tâches encore ouvertes sont les actions à faire aux dates prévues, pas des réservations à reprendre. Ne pas stocker de données bancaires, codes d'accès ou secrets dans GitHub.
 
 [← Retour au sommaire](../README.md)

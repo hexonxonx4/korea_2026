@@ -42,6 +42,7 @@
 ### Dernières confirmations
 - [ ] Recontrôler statut des vols, bagages inclus, règles de correspondance et heure d'enregistrement.
 - [ ] **Bagages — stratégie confirmée :** voyage avec un sac à dos (article personnel) et une valise aux dimensions cabine; souhaite éviter la soute. Un bagage enregistré est inclus sur chaque vol en solution de rechange. Vérifier dimensions réelles du sac à dos et de la valise, ainsi que les règles de cabine Air Canada. Si valise enregistrée, conserver passeport, médicaments, appareils et batteries externes dans le sac à dos. **Contenu du sac à dos :** essentiellement électroniques, documents, médicaments et un change de secours; sac prévu peu chargé. Le UA Hustle 6.0 dépasse les dimensions nominales d'article personnel Air Canada : conformité après compression non garantie; valise en soute si nécessaire.
+- [x] **Cadenas de valise :** facultatif; peut-être déjà en possession, mais aucun achat ni vérification nécessaires selon la préférence du voyageur.
 - [ ] Vérifier l'hôtel près de YUL pour la nuit du **22 octobre** et les transports avec Julie.
 - [ ] Vérifier les messages Airbnb, codes d'entrée et heures de check-in / check-out.
 - [ ] Préparer le trajet **Incheon → Airbnb Yeonnam** et une option de secours en cas de retard.

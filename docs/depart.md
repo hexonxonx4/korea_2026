@@ -26,7 +26,7 @@
 ### Argent et connectivité
 - [ ] Confirmer deux moyens de paiement indépendants, plafonds et frais internationaux.
 - [ ] Vérifier la trésorerie disponible et la réserve d'urgence, séparément des **700 $ CAD de budget nourriture**.
-- [ ] Vérifier WOWPASS, T-money et les wons disponibles; préciser quoi recharger à l'arrivée.
+- [ ] **Acheter 160 000 KRW avant le départ :** achat prévu durant la fin de semaine du 17–18 octobre ou au début de la semaine du 19 octobre. Répartition prévue : 100 000 KRW en espèces, 30 000 KRW à charger sur T-money et 30 000 KRW à charger sur WOWPASS. Confirmer l'achat et les rechargements une fois effectués.
 - [x] **eSIM Corée :** déjà installée sur le Pixel 9; inactive pour le moment, elle s'activera en Corée (confirmation du voyageur le 15 octobre). À l'arrivée, choisir cette eSIM pour les données mobiles et vérifier la connexion; conserver les instructions d'activation hors ligne.
 - [x] **Applications essentielles installées (confirmé le 15 octobre) :** Naver Map, Papago, k.ride, WOWPASS, Google Translate et outil de conversion des liens Google Maps vers Naver Map. **Reste à tester sur place :** navigation, traduction et connexion aux services; les documents essentiels sont déjà accessibles hors ligne.
 

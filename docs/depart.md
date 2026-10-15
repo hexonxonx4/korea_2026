@@ -17,8 +17,8 @@
 ## J-7 — vers le 16 octobre
 
 ### Documents et réservations
-- [x] **Passeport — validité :** le voyageur confirme le 15 octobre que son passeport canadien est valide bien au-delà du 8 novembre 2026. **Restent à vérifier :** état physique du passeport et copies papier / numériques.
-- [ ] **Accès aux réservations / hors ligne :** **KTX [x]** : les deux billets sont dans OneDrive et disponibles hors ligne; **Air Canada** : réservation dans l’application, cartes d’embarquement à récupérer après check-in; **Airbnb** : informations essentielles accessibles sans réseau, confirmé; **activités** : billets, adresses et points de rencontre confirmés accessibles hors ligne dans les applications; **Canada Vie** : carte dans Google Wallet et PDF OneDrive disponible hors ligne. Confirmé par le voyageur le 15 octobre 2026. Reste à sauvegarder les cartes d'embarquement Air Canada après check-in.
+- [x] **Passeport :** validité et état physique confirmés; copie numérique disponible hors ligne.
+- [ ] **Documents hors ligne :** Airbnb (réservations, adresses et instructions d’arrivée) testé en mode avion; billets KTX, copie du passeport et carte d’assurance disponibles hors ligne. Cartes d’embarquement à conserver après enregistrement.
 - [ ] Vérifier l'adresse **en coréen** de chaque Airbnb et les instructions de check-in / check-out.
 - [ ] Noter les points de rencontre de la croisière du **26 oct.**, de la DMZ du **27 oct.** et de Bukhansan du **7 nov.**
 - [ ] Vérifier les conditions d'accès / achat des entrées des concerts retenus (**25, 30, 31 oct.; 7 nov.**) sans considérer les billets comme déjà achetés.
@@ -31,7 +31,7 @@
 - [x] **Applications essentielles installées (confirmé le 15 octobre) :** Naver Map, Papago, k.ride, WOWPASS, Google Translate et outil de conversion des liens Google Maps vers Naver Map. **Reste à tester sur place :** navigation, traduction et connexion aux services; les documents essentiels sont déjà accessibles hors ligne.
 
 ### Santé, maison et sécurité
-- [ ] **Médicaments personnels :** quantités suffisantes pour 21 jours et contenants d'origine avec étiquettes de pharmacie confirmés. **À faire :** obtenir une copie des ordonnances ou un profil pharmacologique, puis vérifier les règles d'importation applicables en Corée avant le départ. Les noms et doses des médicaments sont volontairement exclus du dépôt GitHub.
+- [ ] **Médicaments de voyage :** quantités et emballages d’origine confirmés. Aucun profil de pharmacie ou copie de prescription ne sera obtenu (choix du voyageur). Vérifier les règles d’entrée applicables.
 - [ ] Préparer contacts d'urgence, numéro d'assistance d'assurance et coordonnées des hébergements.
 - [ ] **Joignabilité en Corée :** Messenger sera le canal principal. Julie est déjà informée; **avertir Karine et Noah** avant le départ. La ligne Fizz devrait rester active pour les SMS, notamment MFA, mais **réception en itinérance en Corée à confirmer**. Garder les données mobiles sur l'eSIM coréenne et éviter l'itinérance des données Fizz. **MFA :** comptes importants dotés de passkeys stockées dans Vaultwarden, accessibles via Bitwarden sur le Pixel 9 et le PC à la maison (confirmé). Méthode indépendante des SMS Fizz; conserver l'accès au coffre sur le téléphone.
 - [ ] Confirmer le relais maison / animaux (Gaïa et Noah; Geneviève et Karine en relève), nourriture et consignes pratiques.
@@ -59,7 +59,7 @@
 - [ ] Passeport, cartes, wons, téléphone, chargeur, batterie externe et adaptateur en bagage cabine. **Adaptateur de voyage : déjà acheté et en possession** (référence Amazon B0DHVNW1CN); vérifier sa compatibilité avec les prises coréennes et l'alimentation des appareils avant départ.
 - [x] **Batterie externe :** 10 000 mAh confirmés (environ 37 Wh si tension nominale 3,7 V), sous le seuil habituel de 100 Wh pour le transport en cabine. Garder dans le sac à dos, jamais dans la valise si elle est enregistrée; vérifier la valeur Wh indiquée sur l'appareil et les règles du transporteur.
 - [x] **Électronique prévue :** Pixel 9, Steam Deck, clavier/trackpad Bluetooth, câble HDMI, dock USB-C pour Steam Deck, chargeur de Steam Deck et écouteurs (confirmé par le voyageur). Charge du Pixel 9 prévue avec le chargeur de la Steam Deck ou les ports USB de l’adaptateur de voyage (2 USB-A et 2 USB-C); câble USB prévu. Vérifier la puissance de charge des ports USB si besoin; conserver Steam Deck et appareils avec batteries au lithium en cabine.
-- [ ] **Test en mode avion :** ouvrir les confirmations Airbnb / activités, adresses d’arrivée et carte Canada Vie; si elles ne s’affichent pas, conserver captures ou PDF hors ligne. Billets KTX déjà confirmés hors ligne.
+- [x] **Test en mode avion :** réservations et instructions Airbnb testées avec succès; documents essentiels accessibles hors ligne.
 - [ ] Tester charge, sauvegarde, authentification à deux facteurs et récupération d'accès aux comptes importants.
 - [ ] Préparer une **fiche papier d'urgence** : hébergements, itinéraire, vols, contacts, assurance, premier trajet.
 - [ ] Faire le dernier contrôle maison : animaux, clés, déchets, appareils, accès.

@@ -54,6 +54,7 @@
 ### Sac et technologie
 - [ ] Passeport, cartes, wons, téléphone, chargeur, batterie externe et adaptateur en bagage cabine. **Adaptateur de voyage : déjà acheté et en possession** (référence Amazon B0DHVNW1CN); vérifier sa compatibilité avec les prises coréennes et l'alimentation des appareils avant départ.
 - [x] **Batterie externe :** 10 000 mAh confirmés (environ 37 Wh si tension nominale 3,7 V), sous le seuil habituel de 100 Wh pour le transport en cabine. Garder dans le sac à dos, jamais dans la valise si elle est enregistrée; vérifier la valeur Wh indiquée sur l'appareil et les règles du transporteur.
+- [x] **Électronique prévue :** Pixel 9, Steam Deck, clavier/trackpad Bluetooth, câble HDMI et écouteurs (confirmé par le voyageur). Prévoir les chargeurs/câbles nécessaires; conserver Steam Deck et appareils avec batteries au lithium en cabine.
 - [ ] **Test en mode avion :** ouvrir les confirmations Airbnb / activités, adresses d’arrivée et carte Canada Vie; si elles ne s’affichent pas, conserver captures ou PDF hors ligne. Billets KTX déjà confirmés hors ligne.
 - [ ] Tester charge, sauvegarde, authentification à deux facteurs et récupération d'accès aux comptes importants.
 - [ ] Préparer une **fiche papier d'urgence** : hébergements, itinéraire, vols, contacts, assurance, premier trajet.

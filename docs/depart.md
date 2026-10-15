@@ -9,7 +9,7 @@
 ## 🔴 Priorités immédiates — avant J-7
 
 - [x] **Air Canada :** réservation consultée par le voyageur le **15 octobre 2026** (capture d'écran) : **AC303 + AC63** le 23 octobre, YUL 8 h 30 → ICN 16 h 05 le 24, correspondance YVR **1 h 38**; **AC64 + AC314** le 8 novembre, ICN 18 h 55 → YUL 7 h 10 le 9, correspondance YVR **11 h 30**. Les deux trajets sont indiqués **« Confirmés »** en classe Économique Standard. **Reste à faire :** conserver une copie hors ligne et revérifier l'état opérationnel 24–48 h avant chaque départ.
-- [ ] **Airbnb Busan :** confirmer le prélèvement / paiement du **solde de 201,13 $ CAD prévu le 17 octobre** et l'état « payé » dans Airbnb; ne pas présumer du paiement.
+- [ ] **Airbnb Busan — paiement planifié :** le voyageur confirme le **15 octobre** que le solde de **201,13 $ CAD est prévu pour samedi 17 octobre**. **À vérifier après le prélèvement :** paiement réussi et état « payé » dans Airbnb. Ne pas cocher avant confirmation.
 - [ ] **Formalités d'entrée :** vérifier les exigences officielles applicables à un passeport canadien pour la Corée du Sud aux dates du séjour (validité, visa / K-ETA / déclaration d'arrivée selon les règles en vigueur).
 - [ ] **Assurance voyage :** vérifier couverture médicale d'urgence, rapatriement, dates exactes, franchises et numéro d'assistance.
 

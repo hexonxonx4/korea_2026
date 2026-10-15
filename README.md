@@ -34,6 +34,8 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 - Volet animaux : ✅ **prêt** — Gaïa + Noah responsables, Geneviève + Karine en relève, promeneuse retirée; nourriture lyophilisée réglée pour chiens et chats.
 - Nouveau répertoire [Lieux et cartes](docs/lieux.md) : Naver Map prioritaire en Corée, Google Maps en référence secondaire; les adresses précises manquantes seront complétées au fur et à mesure.
 
+- **[Busan — horaire indicatif du 1er au 5 novembre](docs/itineraire.md#busan--horaire-indicatif)** : visites regroupées par secteur, pauses et soirées facultatives; journées adaptables à la météo. Retour KTX le 5 à **12 h**.
+
 ## Table des matières
 
 | Document | Contenu canonique |

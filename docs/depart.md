@@ -46,7 +46,7 @@
 - [ ] Vérifier les messages Airbnb, codes d'entrée et heures de check-in / check-out.
 - [ ] Préparer le trajet **Incheon → Airbnb Yeonnam** et une option de secours en cas de retard.
 - [ ] Préparer le trajet vers la gare de Séoul pour le KTX du **1er novembre à 12 h 16**; vérifier aussi le retour Busan du **5 novembre à 12 h**.
-- [ ] Consulter la météo à Séoul et Busan et ajuster vêtements / coupe-vent.
+- [ ] **Vêtements et météo :** imperméable déjà en possession du voyageur (confirmé); consulter la météo à Séoul et Busan avant le départ et prévoir des couches chaudes adaptées.
 - [x] **Lessive durant le séjour :** accès à une laveuse et à une sécheuse confirmé dans les trois Airbnb (Séoul / Busan / Séoul). Prévoir environ 5 à 7 jours de vêtements et laver sur place pour voyager léger en cabine.
 - [x] **Chaussures :** deux paires prévues : espadrilles confortables et bottes The North Face DryVent examinées sur photos, avec semelle à crampons visiblement marqués. Bottes déjà portées par le voyageur et retenues comme choix privilégié pour Bukhansan; confort sur longue marche et adhérence sur roche humide à surveiller.
 

@@ -15,7 +15,7 @@ Mise à jour : KTX aller le **1er novembre 2026** et retour le **5 novembre 2026
 Activité ajoutée : **Bukhansan National Park: The Summit Course**, le **7 novembre de 7 h à 12 h KST**, réservée et payée **90,60 $ CAD**. Le budget et l'itinéraire canoniques ont été réconciliés.
 
 
-Logistique YUL mise à jour : nuit du **22 octobre** près de l'aéroport avec Julie, offerte par Julie; transport vers YUL le **23 octobre** et récupération à YUL le **9 novembre** assurés par Julie. Les navettes et la provision associée sont supprimées; la marge discrétionnaire passe à **713,98 $ CAD**.
+Logistique YUL mise à jour : nuit du **22 octobre** près de l'aéroport — **hors budget voyage**; transports vers YUL le **23 octobre** et depuis YUL le **9 novembre** prévus, hors budget voyage. Les navettes et la provision associée sont supprimées; la marge discrétionnaire passe à **713,98 $ CAD**.
 
 
 Mise à jour opérationnelle : les détails complets des billets **KTX 033** et **KTX 034** sont maintenant consignés dans [Transports](docs/transports.md). Le volet animaux est désormais **prêt** : promeneuse retirée, responsables et relève confirmés, nourriture lyophilisée réglée pour chiens et chats.

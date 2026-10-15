@@ -48,7 +48,7 @@ AC303 arrive à **10 h 42 HAP** et AC63 part à **12 h 20 HAP**.
 
 > **1 h 38 de correspondance**
 
-Cette correspondance est cohérente, mais constitue le segment à surveiller à l'approche du départ. Le risque logistique avant AC303 est réduit : la nuit du 22 octobre est prévue dans un hôtel près de YUL et le transport vers l'aéroport le 23 est assuré par Julie.
+Cette correspondance est cohérente, mais constitue le segment à surveiller à l'approche du départ. Le risque logistique avant AC303 est réduit : la nuit du 22 octobre est prévue dans un hôtel près de YUL et le transport vers l'aéroport le 23 est prévu, hors budget voyage.
 
 ### AC63 — Vancouver → Séoul
 

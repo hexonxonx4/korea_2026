@@ -43,11 +43,11 @@ Liens officiels à consulter avant l'achat ou le chargement des titres :
 
 ## Transport vers et depuis YUL
 
-Le transport est maintenant ✅ **réglé par Julie**, sans coût pour le budget voyage.
+Le transport est ✅ **prévu**, hors budget voyage.
 
-- **22 octobre** : nuit à l'hôtel près de YUL avec Julie; hôtel offert par Julie et **hors budget voyage**.
-- **23 octobre** : Julie assure le transport vers l'aéroport. Comme la nuit précédente est déjà passée près de YUL, le départ d'AC303 à 8 h 30 ne nécessite plus de déplacement matinal depuis la maison.
-- **9 novembre** : Julie vient chercher le voyageur à YUL au retour.
+- **22 octobre** : nuit à l'hôtel près de YUL — **hors budget voyage**.
+- **23 octobre** : Transport vers l'aéroport prévu. Comme la nuit précédente est déjà passée près de YUL, le départ d'AC303 à 8 h 30 ne nécessite plus de déplacement matinal depuis la maison.
+- **9 novembre** : transport depuis YUL prévu au retour.
 - Les anciennes navettes Air Canada, le REM, le métro et le trajet via le Palais des congrès sont **annulés / non requis**.
 - L'ancienne provision de **30 $** pour Brossard ↔ YUL est supprimée du budget.
 

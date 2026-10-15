@@ -23,7 +23,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
 - [Concerts du 24 au 31 octobre](docs/activites.md#concerts-et-vie-nocturne) : sept suggestions documentées avec prix, sources et limites de vérification; choix à faire pour les soirées concurrentes du 25 et du 31. Aucun billet acheté, budget inchangé.
 
-- Départ simplifié : nuit du **22 octobre** à l'hôtel près de YUL avec Julie, offerte par Julie; elle assure également le transport vers YUL le 23 et vient chercher le voyageur au retour le 9 novembre. Aucun coût de navette ou de transport vers YUL au budget voyage.
+- Départ simplifié : nuit du **22 octobre** à l'hôtel près de YUL — **hors budget voyage**. Transports vers YUL le 23 octobre et depuis YUL le 9 novembre prévus, hors budget voyage.
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
 - Depuis 2026, la Colombie-Britannique conserve **Pacific Time (PCT), UTC−7** toute l’année. Vancouver ne recule donc pas l’heure le 1er novembre; les équivalents Montréal et la durée d’AC314 ont été corrigés en conséquence.
 - Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.

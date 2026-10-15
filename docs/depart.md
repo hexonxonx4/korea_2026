@@ -34,7 +34,7 @@
 - [ ] Médicaments personnels : quantité pour toute la durée + marge, emballages d'origine, ordonnance / documents pertinents; vérifier les règles d'importation si nécessaire.
 - [ ] Préparer contacts d'urgence, numéro d'assistance d'assurance et coordonnées des hébergements.
 - [ ] Confirmer le relais maison / animaux (Gaïa et Noah; Geneviève et Karine en relève), nourriture et consignes pratiques.
-- [ ] Transmettre à une personne de confiance l'itinéraire, les hébergements et la façon de te joindre.
+- [x] **Itinéraire et hébergements partagés :** informations disponibles dans le dépôt GitHub du voyage; lien transmis à Julie, Noah et Karine (confirmé le 15 octobre 2026). **À confirmer séparément au besoin :** moyen de contact en cas d'urgence.
 
 ## J-2 — 21 octobre
 

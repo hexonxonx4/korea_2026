@@ -28,7 +28,8 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **25 oct.** | Jetlag → concert facultatif : [METHOD ou BrokenTeeth + Gnaw, 18 h](activites.md#concerts-et-vie-nocturne) | 🟢 |
 | **26 oct.** | Libre → croisière en soirée | ✅ |
 | **27 oct.** | DMZ | ✅ |
-| **28–31 oct.** | Séoul libre → [concerts facultatifs](activites.md#concerts-et-vie-nocturne) : The Bowls le 28 (à confirmer), Harakiri for the Sky à Mokdong le 29; choisir une soirée parmi SUPER SONIC, WE 2026 ou EVIL KARMA le 31 | 🟢 |
+| **28–30 oct.** | Séoul libre → [concerts facultatifs](activites.md#concerts-et-vie-nocturne) : The Bowls le 28 (à confirmer), Harakiri for the Sky à Mokdong le 29 | 🟢 |
+| **31 oct.** | **[SUPER SONIC Halloween](activites.md#concerts-et-vie-nocturne), Senggi Studio, 20 h KST** — soirée choisie; entrée annoncée dès 19 h 30; billet non confirmé acheté, réservation à confirmer | 🟡 |
 | **1 nov.** | Séoul → Busan en KTX — réservé | ✅ |
 | **2 nov.** | Busan | 🟢 |
 | **3 nov.** | Busan; Gwangalli en soirée | 🟢 |

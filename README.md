@@ -21,7 +21,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
 ## Points d'attention
 
-- [Concerts du 24 au 31 octobre](docs/activites.md#concerts-et-vie-nocturne) : sept suggestions documentées avec prix, sources et limites de vérification; choix à faire pour les soirées concurrentes du 25 et du 31. Aucun billet acheté, budget inchangé.
+- [Concerts du 24 au 31 octobre](docs/activites.md#concerts-et-vie-nocturne) : sept suggestions documentées avec prix, sources et limites de vérification; **SUPER SONIC Halloween choisi pour le 31 octobre à Senggi Studio, 20 h KST**; choix encore ouvert pour le 25. Billet SUPER SONIC non confirmé acheté; budget inchangé.
 
 - Départ simplifié : nuit du **22 octobre** à l'hôtel près de YUL — **hors budget voyage**. Transports vers YUL le 23 octobre et depuis YUL le 9 novembre prévus, hors budget voyage.
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.

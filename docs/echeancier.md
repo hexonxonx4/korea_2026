@@ -11,7 +11,7 @@
 | **1er oct. — mise à jour** | KTX aller et retour — ✅ **réservés; 107 300 KRW / 112,91 $ CAD** |
 | **12 oct.** | Hongdae — solde de **593,34 $** — ✅ **payé à la date prévue** |
 | **15 oct.** | Épicerie — **400 $** |
-| **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; choix et achats encore à faire |
+| **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; SUPER SONIC choisi pour le 31, billet à confirmer; autres choix encore ouverts |
 | **17 oct.** | Busan — paiement de **201,13 $** |
 | **18 oct.** | Checklist de départ; vérifier les quatre segments dans le dossier Air Canada, particulièrement AC64 le dimanche 8 novembre |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6) |
@@ -23,6 +23,7 @@
 | **27 oct.** | DMZ |
 | **29 oct.** | Fonds supplémentaires — **~1 000 $** |
 | **29 oct.** | Épicerie — **400 $ maximum** |
+| **31 oct. — 20 h KST** | **SUPER SONIC Halloween, Senggi Studio** — soirée choisie; 🟡 billet non confirmé acheté, réservation à confirmer; entrée annoncée dès 19 h 30 |
 | **1 nov.** | KTX 033 Séoul **12 h 16** → Busan **14 h 58** — voiture 18, siège 4D, face à la marche — ✅ **53 700 KRW / 56,51 $ CAD** |
 | **5 nov.** | KTX 034 Busan **12 h 00** → Séoul **14 h 51** — voiture 9, siège 4D, dos à la marche — ✅ **53 600 KRW / 56,40 $ CAD** |
 | **7 nov. — 7 h à 12 h KST** | Bukhansan National Park — Summit Course — ✅ **réservé et payé, 90,60 $ CAD** |
@@ -47,6 +48,7 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 | Hongdae — 24 octobre au 1er novembre | ✅ Réservé et entièrement payé : **699,43 $** (**106,09 $ + 593,34 $**); solde **0 $** |
 | Busan — 1er au 5 novembre | ✅ Réservé; total **402,20 $**, dont **201,07 $ payés**; balance de **201,13 $** le 17 octobre |
 | Euljiro — 5 au 8 novembre | ✅ Réservé et entièrement payé : **302,88 $**; solde **0 $** |
+| SUPER SONIC — 31 octobre | 🟡 Soirée choisie; billet non confirmé acheté, réservation à confirmer; tarif annoncé 33 000 ₩ en prévente / 38 000 ₩ à la porte |
 | Croisière | ✅ |
 | DMZ | ✅ |
 | Bukhansan — 7 novembre | ✅ Réservé et payé — **90,60 $ CAD** |

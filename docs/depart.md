@@ -16,7 +16,7 @@
 ## J-7 — vers le 16 octobre
 
 ### Documents et réservations
-- [ ] Passeport : validité, état et copies papier / numériques.
+- [x] **Passeport — validité :** le voyageur confirme le 15 octobre que son passeport canadien est valide bien au-delà du 8 novembre 2026. **Restent à vérifier :** état physique du passeport et copies papier / numériques.
 - [ ] Sauvegarder hors ligne les vols, trois confirmations Airbnb, billets KTX et activités réservées.
 - [ ] Vérifier l'adresse **en coréen** de chaque Airbnb et les instructions de check-in / check-out.
 - [ ] Noter les points de rencontre de la croisière du **26 oct.**, de la DMZ du **27 oct.** et de Bukhansan du **7 nov.**

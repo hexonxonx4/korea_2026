@@ -18,7 +18,7 @@
 
 ### Documents et réservations
 - [x] **Passeport — validité :** le voyageur confirme le 15 octobre que son passeport canadien est valide bien au-delà du 8 novembre 2026. **Restent à vérifier :** état physique du passeport et copies papier / numériques.
-- [ ] Sauvegarder hors ligne les vols, trois confirmations Airbnb, billets KTX et activités réservées.
+- [ ] **Accès aux réservations / hors ligne :** **KTX [x]** : les deux billets sont dans OneDrive et disponibles hors ligne; **Air Canada** : réservation dans l’application, cartes d’embarquement à récupérer après check-in; **Airbnb et activités** : réservations présentes dans leurs applications, **accès sans réseau à vérifier** (captures PDF / captures d’écran des confirmations et adresses); **Canada Vie** : carte dans Google Wallet, **affichage hors connexion à tester**. Déclaré par le voyageur le 15 octobre 2026.
 - [ ] Vérifier l'adresse **en coréen** de chaque Airbnb et les instructions de check-in / check-out.
 - [ ] Noter les points de rencontre de la croisière du **26 oct.**, de la DMZ du **27 oct.** et de Bukhansan du **7 nov.**
 - [ ] Vérifier les conditions d'accès / achat des entrées des concerts retenus (**25, 30, 31 oct.; 7 nov.**) sans considérer les billets comme déjà achetés.
@@ -49,7 +49,7 @@
 ### Sac et technologie
 - [ ] Passeport, cartes, wons, téléphone, chargeur, batterie externe et adaptateur en bagage cabine.
 - [ ] Vérifier les règles de transport des batteries externes en avion et garder celles-ci en cabine.
-- [ ] Télécharger copies des billets / adresses / cartes accessibles sans connexion.
+- [ ] **Test en mode avion :** ouvrir les confirmations Airbnb / activités, adresses d’arrivée et carte Canada Vie; si elles ne s’affichent pas, conserver captures ou PDF hors ligne. Billets KTX déjà confirmés hors ligne.
 - [ ] Tester charge, sauvegarde, authentification à deux facteurs et récupération d'accès aux comptes importants.
 - [ ] Préparer une **fiche papier d'urgence** : hébergements, itinéraire, vols, contacts, assurance, premier trajet.
 - [ ] Faire le dernier contrôle maison : animaux, clés, déchets, appareils, accès.

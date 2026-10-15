@@ -33,6 +33,7 @@
 ### Santé, maison et sécurité
 - [ ] **Médicaments personnels :** quantités suffisantes pour 21 jours et contenants d'origine avec étiquettes de pharmacie confirmés. **À faire :** obtenir une copie des ordonnances ou un profil pharmacologique, puis vérifier les règles d'importation applicables en Corée avant le départ. Les noms et doses des médicaments sont volontairement exclus du dépôt GitHub.
 - [ ] Préparer contacts d'urgence, numéro d'assistance d'assurance et coordonnées des hébergements.
+- [ ] **Joignabilité en Corée :** Messenger sera le canal principal. Julie est déjà informée; **avertir Karine et Noah** avant le départ. La ligne Fizz devrait rester active pour les SMS, notamment MFA, mais **réception en itinérance en Corée à confirmer**. Garder les données mobiles sur l'eSIM coréenne et éviter l'itinérance des données Fizz.
 - [ ] Confirmer le relais maison / animaux (Gaïa et Noah; Geneviève et Karine en relève), nourriture et consignes pratiques.
 - [x] **Itinéraire et hébergements partagés :** informations disponibles dans le dépôt GitHub du voyage; lien transmis à Julie, Noah et Karine (confirmé le 15 octobre 2026). **À confirmer séparément au besoin :** moyen de contact en cas d'urgence.
 

@@ -1,8 +1,8 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 1er octobre 2026 — contrôle frais effectué lors de cette régénération**<br>
-**État : 🟢 aucun changement d’horaire détecté; recoupement dynamique réussi. Fuseaux du retour corrigés pour le Pacific Time permanent (UTC−7) de la Colombie-Britannique. Confirmation du dossier Air Canada à refaire à l'approche du départ.**
+**Dernier contrôle : 15 octobre 2026 — recoupement public partiel**<br>
+**État : 🟡 Horaires publiés concordants au 15 octobre 2026; confirmation Air Canada non obtenue et desserte dominicale d’AC64 le 8 novembre à confirmer.**
 
 ## Sources et méthode de validation
 
@@ -16,7 +16,22 @@ L'outil public [État des vols d'Air Canada](https://www.aircanada.com/ca/fr/aco
 
 L'horaire interactif d'Air Canada demeure la source primaire à tenter lors de chaque régénération. Si son interface ne retourne pas un résultat exploitable, cette limite doit être signalée plutôt que de présenter un PDF saisonnier comme une confirmation en temps réel.
 
-### Contrôle du 1er octobre 2026 — régénération courante
+### Contrôle du 15 octobre 2026 — vérification courante
+
+Les sources ont été examinées dans l'ordre **AC303 → AC63 → AC64 → AC314**. L'[horaire Air Canada](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html) ne restitue pas de résultat de vol exploitable dans l'outil; la page [État des vols](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) n'a pas pu être consultée. Le dossier de réservation n'a pas été consulté. Les pages Flight.info ont été relues : il s'agit d'un **recoupement des horaires publiés**, pas d'une confirmation opérationnelle par la compagnie.
+
+| Vol et date prévue | Horaire local publié et équivalent Montréal | Appareil publié | Résultat du contrôle |
+|---|---|---|---|
+| [AC303](https://www.flight.info/AC303) — ven. 23 oct. | YUL **8 h 30 HAE (UTC−4)** → YVR **10 h 42 HAP (UTC−7)**, soit **13 h 42 HAE (UTC−4) à Montréal** | Boeing 787-9 | Concordant; plage jusqu'au 23 octobre incluant explicitement le vendredi. |
+| [AC63](https://www.flight.info/AC63) — ven. 23 → sam. 24 oct. | YVR **12 h 20 HAP (UTC−7)**, soit **15 h 20 HAE (UTC−4) à Montréal** → ICN **16 h 05 KST (UTC+9) le 24**, soit **3 h 05 HAE (UTC−4) à Montréal le 24** | Boeing 787-9 | Concordant; plage jusqu'au 23 octobre, libellé « Every weekday », compatible avec le vendredi. |
+| [AC64](https://www.flight.info/AC64) — dim. 8 nov. | ICN **18 h 55 KST (UTC+9)**, soit **4 h 55 HNE (UTC−5) à Montréal** → YVR **12 h 45 PCT (UTC−7)** le même jour, soit **14 h 45 HNE (UTC−5) à Montréal** | Boeing 787-9 | Horaire concordant dans la plage du 1er novembre au 16 décembre; **jour d'exploitation à confirmer** : le texte extrait indique « Every weekday », ce qui ne confirme pas le dimanche 8 novembre. |
+| [AC314](https://www.flight.info/AC314) — lun. 9 nov. | YVR **0 h 15 PCT (UTC−7)**, soit **2 h 15 HNE (UTC−5) à Montréal** → YUL **7 h 10 HNE (UTC−5)** | Airbus A220-300 | Concordant; plage du 2 novembre au 3 décembre, libellé « Every weekday », compatible avec le lundi. |
+
+**Conclusion : aucun écart dans les heures ou appareils publiés par rapport au rapport, mais vérification partielle pour les dates exactes.** L'ambiguïté du dimanche pour AC64 ne prouve pas une annulation : conserver l'itinéraire réservé et vérifier ce segment dans le dossier Air Canada.
+
+Les fuseaux ont été recoupés avec les annonces officielles de la Colombie-Britannique : [UTC−7 permanent](https://news.gov.bc.ca/releases/2026AG0013-000209) et [désignation PCT, sans recul le 1er novembre](https://news.gov.bc.ca/releases/2026CITZ0009-001073). Les calculs restent **5 h 12 / 11 h 45 / 9 h 50 / 4 h 55** pour les quatre vols; correspondances **1 h 38 à l'aller** et **11 h 30 au retour**. Ces durées supposent le maintien des horaires ci-dessus. Les PDF saisonniers n'ont pas été revalidés.
+
+### Contrôle du 1er octobre 2026 — historique
 
 Les vols ont été vérifiés dans l'ordre requis, **AC303 → AC63 → AC64 → AC314**. L'horaire interactif d'Air Canada était accessible, mais son interface n'a pas retourné de résultat directement exploitable et le dossier de réservation n'a pas été consulté. Les quatre pages dynamiques Flight.info étaient toutefois accessibles et concordaient avec les horaires consignés :
 

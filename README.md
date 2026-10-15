@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 15 octobre 2026 — concerts et paiements Airbnb confirmés; dernier contrôle des vols le 1er octobre**
+**Dernière mise à jour : 15 octobre 2026 — concerts et paiements Airbnb confirmés; contrôle partiel des vols le 15 octobre**
 
 ## Sommaire exécutif
 
@@ -11,7 +11,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Séjour | **23 octobre → 8 novembre 2026** |
 | Retour au Québec | **9 novembre 2026** |
 | Parcours | **Hongdae (Séoul) → Busan → Euljiro (Séoul) → retour** |
-| Vols | 🟢 **AC303 / AC63 / AC64 / AC314 recontrôlés dans cet ordre le 1er octobre 2026; aucun changement d’horaire détecté; correction des fuseaux de Vancouver au retour selon le nouveau Pacific Time permanent (UTC−7)** |
+| Vols | **🟡 Horaires publiés concordants au 15 octobre 2026; confirmation Air Canada non obtenue et desserte dominicale d’AC64 le 8 novembre à confirmer** |
 | Budget voyage | **5 000,00 $ CAD** |
 | Coûts connus | **3 466,02 $** |
 | Provisions | **820 $** |

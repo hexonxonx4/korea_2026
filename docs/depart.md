@@ -84,9 +84,9 @@
 | Assurance voyage | **Canada Vie** : durée de **17 jours confirmée** par le voyageur; soins urgents admissibles **100 %**, sans franchise; assistance **+1 204 946-2577**. Garder carte et identifiants personnels hors GitHub ; **à faire avant le départ : remettre les coordonnées d'assistance à Julie et Karine** | 🟡 Couverture vérifiée, partage à faire |
 | Vols | Itinéraire aérien documenté dans le dépôt; **à faire avant le départ : transmettre l'URL GitHub à Julie et Karine**. Référence de réservation et données personnelles à conserver hors dépôt. | 🟡 Partage à faire |
 | Airbnb Yeonnam | Adresse coréenne, hôte, check-in, itinéraire depuis Incheon | ⬜ À compléter |
-| Airbnb Busan | Adresse coréenne, hôte, check-in, trajet depuis Busan Station | ⬜ À compléter |
+| Airbnb Busan | Adresse, liens Naver/Google Maps et métro déjà documentés dans [Lieux](lieux.md); instructions finales d'accès attendues le jour d'arrivée. | 🟡 Accès à recevoir |
 | Airbnb Euljiro | Adresse coréenne, hôte, check-in, trajet depuis Seoul Station | ⬜ À compléter |
-| Paiement de secours | Carte / réserve accessible sans le téléphone principal | ⬜ À compléter |
+| Paiement de secours | Carte EQ Bank **physique** disponible même sans téléphone; plafonds déjà vérifiés. Autre solution de dernier recours prévue par le voyageur pour gérer ses virements à distance, sous réserve d'accès et d'authentification. Ne pas publier les détails d'accès. | ✅ Carte physique confirmée |
 | Téléphone perdu ou brisé | Connexion aux comptes, eSIM, contacts et carte hors ligne | ⬜ À compléter |
 
 ## Points déjà documentés — à ne pas confondre avec une revérification

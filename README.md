@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 15 octobre 2026 — concerts et paiements Airbnb confirmés; quatre segments Air Canada confirmés dans la réservation**
+**Dernière mise à jour : 15 octobre 2026 — trois Airbnb entièrement payés, quatre segments Air Canada confirmés, checklist de départ actualisée**
 
 ## Sommaire exécutif
 
@@ -17,7 +17,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Provisions | **820 $** |
 | Marge discrétionnaire | **713,98 $** |
 | Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre · Euljiro : 5–8 novembre** |
-| Prochaine action | **Préparer le solde Busan de 201,13 $ le 17 octobre et les prochaines échéances** |
+| Prochaine action | **Acheter 160 000 KRW et les articles de toilette; e-Arrival Card et enregistrement le 22 octobre** |
 
 ## Points d'attention
 
@@ -27,7 +27,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 - Départ simplifié : nuit du **22 octobre** à l'hôtel près de YUL — **hors budget voyage**. Transports vers YUL le 23 octobre et depuis YUL le 9 novembre prévus, hors budget voyage.
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
 - Depuis 2026, la Colombie-Britannique conserve **Pacific Time (PCT), UTC−7** toute l’année. Vancouver ne recule donc pas l’heure le 1er novembre; les équivalents Montréal et la durée d’AC314 ont été corrigés en conséquence.
-- Le séjour à Busan est ✅ **réservé** du **1er au 5 novembre** pour un total de **402,20 $**, dont **201,07 $ payés**; la balance de **201,13 $** est payable le **17 octobre**.
+- Le séjour à Busan est ✅ **réservé et entièrement payé** du **1er au 5 novembre** : total **402,20 $**, dont le dernier solde de **201,13 $ payé le 15 octobre**.
 - Les séjours à **Hongdae** (24 octobre–1er novembre) et **Euljiro** (5–8 novembre) sont ✅ **entièrement payés** : solde Hongdae de **593,34 $ payé le 12 octobre 2026** et paiement Euljiro de **302,88 $ effectué le 28 septembre 2026**, conformément aux dates planifiées. Total Hongdae payé : **699,43 $**.
 - Les deux KTX sont ✅ **réservés** avec détails complets consignés : **KTX 033, 1er nov., 12 h 16 → 14 h 58, voiture 18, siège 4D**; **KTX 034, 5 nov., 12 h 00 → 14 h 51, voiture 9, siège 4D**. Total : **107 300 KRW / 112,91 $ CAD**.
 - Bukhansan National Park: The Summit Course est réservé et payé pour le **7 novembre, 7 h–12 h KST**, au coût de **90,60 $ CAD**.

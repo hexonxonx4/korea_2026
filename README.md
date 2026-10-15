@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 1er octobre 2026 — régénération après mise à jour KTX, animaux et lieux**
+**Dernière mise à jour : 15 octobre 2026 — recommandations de concerts; dernier contrôle des vols le 1er octobre**
 
 ## Sommaire exécutif
 
@@ -20,6 +20,8 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Prochaine action | **Vérifier le statut du paiement Euljiro; préparer les prochaines échéances d'octobre** |
 
 ## Points d'attention
+
+- [Concerts du 24 au 31 octobre](docs/activites.md#concerts-et-vie-nocturne) : sept suggestions documentées avec prix, sources et limites de vérification; choix à faire pour les soirées concurrentes du 25 et du 31. Aucun billet acheté, budget inchangé.
 
 - Départ simplifié : nuit du **22 octobre** à l'hôtel près de YUL avec Julie, offerte par Julie; elle assure également le transport vers YUL le 23 et vient chercher le voyageur au retour le 9 novembre. Aucun coût de navette ou de transport vers YUL au budget voyage.
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.

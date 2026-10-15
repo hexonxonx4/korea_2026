@@ -11,7 +11,7 @@
 | **1er oct. — mise à jour** | KTX aller et retour — ✅ **réservés; 107 300 KRW / 112,91 $ CAD** |
 | **12 oct.** | Hongdae — paiement de **593,34 $** |
 | **15 oct.** | Épicerie — **400 $** |
-| **15 oct.** | Vérifier les concerts à Hongdae |
+| **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; choix et achats encore à faire |
 | **17 oct.** | Busan — paiement de **201,13 $** |
 | **18 oct.** | Checklist de départ |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6) |

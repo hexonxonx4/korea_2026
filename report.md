@@ -1,6 +1,6 @@
 # Rapport maître déplacé
 
-**Dernière mise à jour : 1er octobre 2026 — régénération KTX, animaux et lieux**
+**Dernière mise à jour : 15 octobre 2026 — ajout ciblé des recommandations de concerts**
 
 Le rapport est maintenant organisé en documents thématiques.
 
@@ -21,3 +21,5 @@ Logistique YUL mise à jour : nuit du **22 octobre** près de l'aéroport avec J
 Mise à jour opérationnelle : les détails complets des billets **KTX 033** et **KTX 034** sont maintenant consignés dans [Transports](docs/transports.md). Le volet animaux est désormais **prêt** : promeneuse retirée, responsables et relève confirmés, nourriture lyophilisée réglée pour chiens et chats.
 
 Nouveau document canonique : [Lieux et cartes](docs/lieux.md), destiné aux Airbnb, gares, stations, aéroports, points de rencontre, bars et autres endroits pertinents, avec **Naver Map prioritaire** en Corée et Google Maps en référence secondaire. Les adresses encore inconnues sont explicitement marquées à compléter plutôt que devinées.
+
+Concerts du **24 au 31 octobre 2026** : [sélection, prix, liens et niveaux de vérification](docs/activites.md#concerts-et-vie-nocturne). Sept pistes documentées : METHOD, BrokenTeeth + Gnaw, The Bowls, Harakiri for the Sky (Mokdong, hors Hongdae), EVIL KARMA, WE 2026 et SUPER SONIC Halloween. Priorité punk à SUPER SONIC sous réserve de confirmation directe; WE 2026 et EVIL KARMA sont des alternatives le 31 octobre. Aucun billet acheté; budget inchangé. Cette mise à jour concerne les concerts; le dernier contrôle des vols reste celui du 1er octobre.

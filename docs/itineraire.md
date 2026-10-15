@@ -25,10 +25,10 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **22 oct.** | Nuit à l'hôtel près de YUL avec Julie — offerte par Julie, hors budget voyage | ✅ |
 | **23 oct.** | Julie assure le transport vers YUL → AC303 YUL → YVR → AC63 YVR → ICN | ✅ |
 | **24 oct.** | Arrivée → Hongdae → installation → repérage → relaxation | 🟢 |
-| **25 oct.** | Jetlag → sortie facultative | 🟢 |
+| **25 oct.** | Jetlag → concert facultatif : [METHOD ou BrokenTeeth + Gnaw, 18 h](activites.md#concerts-et-vie-nocturne) | 🟢 |
 | **26 oct.** | Libre → croisière en soirée | ✅ |
 | **27 oct.** | DMZ | ✅ |
-| **28–31 oct.** | Séoul libre | 🟢 |
+| **28–31 oct.** | Séoul libre → [concerts facultatifs](activites.md#concerts-et-vie-nocturne) : The Bowls le 28 (à confirmer), Harakiri for the Sky à Mokdong le 29; choisir une soirée parmi SUPER SONIC, WE 2026 ou EVIL KARMA le 31 | 🟢 |
 | **1 nov.** | Séoul → Busan en KTX — réservé | ✅ |
 | **2 nov.** | Busan | 🟢 |
 | **3 nov.** | Busan; Gwangalli en soirée | 🟢 |

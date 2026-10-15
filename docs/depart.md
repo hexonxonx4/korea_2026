@@ -46,6 +46,7 @@
 - [x] **Pochette pour les sorties :** petite pochette déjà en possession pour transporter passeport, portefeuille et téléphone sans le gros sac à dos.
 - [ ] Vérifier l'hôtel près de YUL pour la nuit du **22 octobre** et les transports avec Julie.
 - [x] **Busan :** séjour confirmé du 1er au 5 novembre (4 nuits). Le message de l'hôte indiquant le 4 novembre précède la prolongation; la réservation Airbnb à jour affiche bien le 5 novembre. Logement LEE:OCEAN, Gwangalli; arrivée dès 16 h, départ à midi. Instructions d'accès complémentaires attendues le jour d'arrivée.
+- [ ] **Airbnb Euljiro (5–8 novembre) :** l'hôte transmettra l'adresse, l'itinéraire et les instructions d'accès la veille de l'arrivée (4 novembre). Pas de consigne dédiée : bagages possibles dans le corridor sécurisé par code et CCTV à l'étage du logement, ou consigne payante dans le métro. Heures de check-in/check-out encore à confirmer. Sauvegarder le message hors ligne dès réception.
 - [ ] Vérifier les messages Airbnb, codes d'entrée et heures de check-in / check-out.
 - [ ] Préparer le trajet **Incheon → Airbnb Yeonnam** et une option de secours en cas de retard.
 - [ ] Préparer le trajet vers la gare de Séoul pour le KTX du **1er novembre à 12 h 16**; vérifier aussi le retour Busan du **5 novembre à 12 h**.

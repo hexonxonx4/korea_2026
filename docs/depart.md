@@ -81,7 +81,7 @@
 | Sujet | Information à inscrire | Statut |
 |---|---|---|
 | Personne à joindre au Québec | **Julie et Karine**, contacts d'urgence confirmés. Coordonnées personnelles à conserver hors GitHub; vérifier qu'elles sont accessibles hors ligne. | ✅ Contacts désignés |
-| Assurance voyage | **Canada Vie** : durée de **17 jours confirmée** par le voyageur; soins urgents admissibles **100 %**, sans franchise; assistance **+1 204 946-2577**. Garder carte et identifiants personnels hors GitHub | ✅ Vérifiée |
+| Assurance voyage | **Canada Vie** : durée de **17 jours confirmée** par le voyageur; soins urgents admissibles **100 %**, sans franchise; assistance **+1 204 946-2577**. Garder carte et identifiants personnels hors GitHub ; **à faire avant le départ : remettre les coordonnées d'assistance à Julie et Karine** | 🟡 Couverture vérifiée, partage à faire |
 | Vols | Référence de réservation et contacts Air Canada | ⬜ À compléter |
 | Airbnb Yeonnam | Adresse coréenne, hôte, check-in, itinéraire depuis Incheon | ⬜ À compléter |
 | Airbnb Busan | Adresse coréenne, hôte, check-in, trajet depuis Busan Station | ⬜ À compléter |

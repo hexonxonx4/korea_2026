@@ -24,7 +24,7 @@
 - [ ] Vérifier les conditions d'accès / achat des entrées des concerts retenus (**25, 30, 31 oct.; 7 nov.**) sans considérer les billets comme déjà achetés.
 
 ### Argent et connectivité
-- [ ] Confirmer deux moyens de paiement indépendants, plafonds et frais internationaux.
+- [ ] **Paiements en Corée :** WOWPASS sera le moyen de paiement principal (confirmé le 15 octobre). **À confirmer :** une carte bancaire indépendante de secours, ses frais internationaux et plafonds; conserver des wons en espèces pour les dépenses non acceptées par WOWPASS.
 - [ ] Vérifier la trésorerie disponible et la réserve d'urgence, séparément des **700 $ CAD de budget nourriture**.
 - [ ] **Acheter 160 000 KRW avant le départ :** achat prévu durant la fin de semaine du 17–18 octobre ou au début de la semaine du 19 octobre. Répartition prévue : 100 000 KRW en espèces, 30 000 KRW à charger sur T-money et 30 000 KRW à charger sur WOWPASS. Confirmer l'achat et les rechargements une fois effectués.
 - [x] **eSIM Corée :** déjà installée sur le Pixel 9; inactive pour le moment, elle s'activera en Corée (confirmation du voyageur le 15 octobre). À l'arrivée, choisir cette eSIM pour les données mobiles et vérifier la connexion; conserver les instructions d'activation hors ligne.

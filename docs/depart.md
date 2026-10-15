@@ -12,7 +12,7 @@
 - [ ] **Airbnb Busan — paiement planifié :** le voyageur confirme le **15 octobre** que le solde de **201,13 $ CAD est prévu pour samedi 17 octobre**. **À vérifier après le prélèvement :** paiement réussi et état « payé » dans Airbnb. Ne pas cocher avant confirmation.
 - [x] **Formalités d'entrée — règles vérifiées le 15 octobre 2026 :** passeport canadien, séjour touristique de courte durée : **pas de visa**; **exemption K-ETA jusqu'au 31 décembre 2026**. La **e-Arrival Card reste normalement requise sans K-ETA**. Sources : [Voyage.gc.ca](https://travel.gc.ca/destinations/south-korea), [Ambassade de Corée au Canada](https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797), [e-Arrival Card officiel](https://www.e-arrivalcard.go.kr/).
 - [ ] **e-Arrival Card — rappel déjà inscrit dans Google Agenda; à faire le 22 octobre**, avant le départ : déclaration **gratuite** à soumettre dans les **3 jours précédant l'arrivée du 24 octobre** (heure de Corée), avec passeport, vol **AC63** et adresse du Airbnb Yeonnam. Conserver le numéro de déclaration; ne pas payer un site tiers.
-- [ ] **Assurance voyage — Canada Vie :** admissibilité à l’assistance voyage confirmée dans le portail. La documentation fournie décrit une assistance médicale d’urgence 24 h/24 à l’étranger, la coordination hospitalière, l’évacuation sanitaire et certaines prestations de retour selon les conditions. Numéro figurant sur la carte fournie pour les pays hors Canada et États-Unis : **+1 204 946-2577**. **À confirmer dans le contrat collectif avant de cocher :** plafond des frais médicaux, pourcentage remboursé, durée maximale du séjour, franchises et exclusions. L’assistance décrite ne constitue pas une assurance annulation avant départ. Conserver les numéros personnels de régime et de certificat hors GitHub.
+- [x] **Assurance voyage — Canada Vie : vérifiée.** Le voyageur confirme le **15 octobre 2026** que son régime couvre intégralement la durée de son séjour de **17 jours** en Corée du Sud. Selon le livret du régime collectif consulté : **100 % des frais admissibles pour les soins urgents hors du pays**, **aucune franchise** pour ces soins, maximum global des soins médicaux supplémentaires indiqué comme **illimité**, sous réserve des définitions et exclusions contractuelles. Assistance médicale 24 h/24 : **+1 204 946-2577** depuis la Corée (numéro sur la carte). Conserver une copie hors ligne de la carte et appeler l'assistance dès que possible en cas d'urgence. Les numéros personnels de régime et de certificat restent hors GitHub.
 
 ## J-7 — vers le 16 octobre
 
@@ -68,7 +68,7 @@
 | Sujet | Information à inscrire | Statut |
 |---|---|---|
 | Personne à joindre au Québec | Nom, numéro, canal secondaire | ⬜ À compléter |
-| Assurance voyage | **Canada Vie** : admissibilité à l’assistance voyage confirmée; **+1 204 946-2577** sur la carte fournie. Plafonds, durée et exclusions du régime à confirmer. Identifiants personnels hors GitHub | ⬜ Conditions à confirmer |
+| Assurance voyage | **Canada Vie** : durée de **17 jours confirmée** par le voyageur; soins urgents admissibles **100 %**, sans franchise; assistance **+1 204 946-2577**. Garder carte et identifiants personnels hors GitHub | ✅ Vérifiée |
 | Vols | Référence de réservation et contacts Air Canada | ⬜ À compléter |
 | Airbnb Yeonnam | Adresse coréenne, hôte, check-in, itinéraire depuis Incheon | ⬜ À compléter |
 | Airbnb Busan | Adresse coréenne, hôte, check-in, trajet depuis Busan Station | ⬜ À compléter |

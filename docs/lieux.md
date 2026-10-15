@@ -44,10 +44,12 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 
 ## Bars et salles de spectacles
 
-Ces endroits sont des **pistes identifiées**, pas des réservations. Les liens Naver utilisent le nom du lieu pour ouvrir directement une recherche dans Naver Map; les adresses pourront être précisées au besoin.
+**Rolling Hall et Senggi Studio correspondent aux deux soirées choisies; les billets restent à confirmer.** Les autres endroits sont des pistes identifiées. Les liens Naver ouvrent une recherche par nom et, lorsque disponible, par adresse; Google Maps reste une référence secondaire.
 
 | Lieu | Zone | Type / intérêt | Proximité / repère pratique | Naver Map | Google Maps | Statut |
 |---|---|---|---|---|---|---|
+| Rolling Hall · 롤링홀 | Séoul / Hongdae | 🤘 Salle de concert — thrash metal | **35 Eoulmadang-ro, Mapo-gu, Seoul, sous-sol B1** · 서울 마포구 어울마당로 35 지하 1층; repères métro : Sangsu sortie 1 ou Hapjeong sortie 5 | [Naver Map](https://map.naver.com/p/search/%EB%A1%A4%EB%A7%81%ED%99%80%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%96%B4%EC%9A%B8%EB%A7%88%EB%8B%B9%EB%A1%9C%2035) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rolling%20Hall%2035%20Eoulmadang-ro%20Mapo-gu%20Seoul) | 🟡 **METHOD avec KILLKAISER — 25 oct., 18 h KST**; soirée choisie, billet à confirmer; ouverture des portes à confirmer |
+| Senggi Studio · 생기스튜디오 | Séoul / Hongdae | 🎸 Salle de concert — punk | **137 Wausan-ro, Mapo-gu, Seoul, 5e étage et toit** · 서울 마포구 와우산로 137 5층 | [Naver Map](https://map.naver.com/p/search/%EC%83%9D%EA%B8%B0%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%99%80%EC%9A%B0%EC%82%B0%EB%A1%9C%20137) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Senggi%20Studio%20137%20Wausan-ro%20Mapo-gu%20Seoul) | 🟡 **SUPER SONIC Halloween — 31 oct., 20 h KST**; entrée annoncée dès 19 h 30; soirée choisie, billet à confirmer |
 | Channel 1969 | Séoul / Yeonnam | 🎵 Bar / live music | **Très proche du Airbnb Hongdae**; ~0,6 km de Hongik Univ. | [Naver Map](https://map.naver.com/p/search/Channel%201969) | [Google Maps](https://maps.app.goo.gl/ptvj7MDftekUQysq6) | 💡 À considérer |
 | Club Steel Face | Séoul / Hongdae | 🤘 Club / rock-metal | **Hongdae central**; ~5 min à pied de Hongik Univ. sortie 8 selon la fiche du lieu | [Naver Map](https://map.naver.com/p/search/Club%20Steel%20Face) | [Google Maps](https://maps.app.goo.gl/WQW2MgRyBtUsySXC6) | 💡 À considérer |
 | Strange Fruit | Séoul / Hongdae | 🎵 Live music / indie | **Hongdae central**; Wausan-ro 29-gil, même secteur que BBang | [Naver Map](https://map.naver.com/p/search/Strange%20Fruit%20Seoul) | [Google Maps](https://maps.app.goo.gl/My8zHPqrTRXWnrUf7) | 💡 À considérer |
@@ -59,6 +61,8 @@ Ces endroits sont des **pistes identifiées**, pas des réservations. Les liens 
 | Hard and Heavy Metal Pub | Busan / Seomyeon | 🤘 Metal pub | **Seomyeon**; prévoir métro ou taxi depuis Gwangalli | [Naver Map](https://map.naver.com/p/search/Hard%20and%20Heavy%20Metal%20Pub%20Busan) | [Google Maps](https://maps.app.goo.gl/bvR2jnnzNfdz1aCz9) | 💡 À considérer |
 | HQ Gwangan | Busan / Gwangalli | 🍺 Bar / live events | **Tout près du Airbnb / front de mer**; 237 Gwanganhaebyeon-ro | [Naver Map](https://map.naver.com/p/search/HQ%20Gwangan) | [Google Maps](https://maps.app.goo.gl/FVCWYeCVDUuMrEM58) | 💡 À considérer |
 | Sunset Record Bar | Séoul / Euljiro | 🎶 Record bar / punk-rock | **11 Eulji-ro 12-gil, 2F, Jung-gu** · **~1,2 km du Airbnb Euljiro**; excellent candidat spontané pendant le séjour du 5 au 8 nov. | [Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%9D%84%EC%A7%80%EB%A1%9C12%EA%B8%B8%2011) | [Google Maps](https://maps.app.goo.gl/nSnsXLMJqJ9VQiF7A) | 💡 À considérer |
+
+Adresses des deux salles de concert recoupées le **15 octobre 2026** : [Rolling Hall — accès officiel](https://www.rollinghall.co.kr/default/mp1/mp1_sub5.php?sub=05) et [Senggi Studio — fiche du Service culturel de l'Ambassade de France](https://kr.ambafrance-culture.org/evenement/fdm-2026-french-live-in-seoul-la-flemme-x-bulgogi-disco-senggi-studio/). Cette dernière source confirme l'adresse du lieu, pas le concert du 31 octobre. Programmation et limites de vérification : [Activités](activites.md#concerts-et-vie-nocturne).
 
 ## Attractions — Busan
 

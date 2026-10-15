@@ -41,7 +41,7 @@ Réconciliation : **3 466,02 $ + 820 $ + 713,98 $ = 5 000,00 $**.
 
 **Confirmation du voyageur reçue le 15 octobre 2026** : Euljiro **302,88 $ payé le 28 septembre 2026**; solde Hongdae **593,34 $ payé le 12 octobre 2026**. Hongdae est donc entièrement réglé (**106,09 $ + 593,34 $ = 699,43 $**), tout comme Euljiro. Les débits ont été effectués aux dates planifiées.
 
-Ces **896,22 $** étaient déjà inclus dans les coûts connus : ils ne sont pas ajoutés une seconde fois. Le budget total et la marge restent inchangés. Pour les hébergements, il reste uniquement le solde Busan de **201,13 $**, prévu le **17 octobre**; voir [Hébergements](hebergements.md).
+Ces **896,22 $** étaient déjà inclus dans les coûts connus : ils ne sont pas ajoutés une seconde fois. Le budget total et la marge restent inchangés. Le solde Busan de **201,13 $ a été payé le 15 octobre 2026**, selon le voyageur. Les trois hébergements sont entièrement payés; voir [Hébergements](hebergements.md). Aucun coût supplémentaire à ajouter : ce solde figurait déjà dans les coûts connus.
 
 ## Provisions
 

@@ -21,7 +21,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
 ## Points d'attention
 
-- [Concerts du 24 au 31 octobre](docs/activites.md#concerts-et-vie-nocturne) : sept suggestions documentées avec prix, sources et limites de vérification; **SUPER SONIC Halloween choisi pour le 31 octobre à Senggi Studio, 20 h KST**; **METHOD avec KILLKAISER choisi pour le 25 octobre à Rolling Hall, 18 h KST**. Billets de ces deux soirées non confirmés achetés; budget inchangé.
+- [Concerts du 24 au 31 octobre](docs/activites.md#concerts-et-vie-nocturne) : huit suggestions documentées avec prix, sources et limites de vérification; **SUPER SONIC Halloween choisi pour le 31 octobre à Senggi Studio, 20 h KST**; **METHOD avec KILLKAISER choisi pour le 25 octobre à Rolling Hall, 18 h KST**. **ROCKERS ON FRIDAY vol.107 choisi pour le 30 octobre au Club Victim, 19 h 30 KST** (portes 19 h; 30 000 ₩ avec une consommation, achat sur place). Billets ou entrées de ces trois soirées encore à obtenir; budget inchangé.
 - **[OFFAL GRIND FEST](docs/activites.md#7-novembre--offal-grind-fest) choisi pour le 7 novembre, 17 h KST, à Infinity Club (Sinchon)**, après Bukhansan le matin. **20 000 ₩ à la porte uniquement**, entrée à acheter sur place; aucun coût réel ajouté.
 
 - Départ simplifié : nuit du **22 octobre** à l'hôtel près de YUL — **hors budget voyage**. Transports vers YUL le 23 octobre et depuis YUL le 9 novembre prévus, hors budget voyage.

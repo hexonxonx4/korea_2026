@@ -44,7 +44,7 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 
 ## Bars et salles de spectacles
 
-**Rolling Hall, Senggi Studio et Infinity Club correspondent aux trois soirées choisies; billets ou entrée sur place restent à obtenir.** Les autres endroits sont des pistes identifiées. Les liens Naver ouvrent une recherche par nom et, lorsque disponible, par adresse; Google Maps reste une référence secondaire.
+**Rolling Hall, Club Victim, Senggi Studio et Infinity Club correspondent aux quatre soirées choisies; billets ou entrée sur place restent à obtenir.** Les autres endroits sont des pistes identifiées. Les liens Naver ouvrent une recherche par nom et, lorsque disponible, par adresse; Google Maps reste une référence secondaire.
 
 | Lieu | Zone | Type / intérêt | Proximité / repère pratique | Naver Map | Google Maps | Statut |
 |---|---|---|---|---|---|---|
@@ -56,7 +56,7 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 | Strange Fruit | Séoul / Hongdae | 🎵 Live music / indie | **Hongdae central**; Wausan-ro 29-gil, même secteur que BBang | [Naver Map](https://map.naver.com/p/search/Strange%20Fruit%20Seoul) | [Google Maps](https://maps.app.goo.gl/My8zHPqrTRXWnrUf7) | 💡 À considérer |
 | BBang | Séoul / Hongdae | 🎵 Live music / indie | **Hongdae central**; Wausan-ro 29-gil, même secteur que Strange Fruit | [Naver Map](https://map.naver.com/p/search/BBang%20Seoul) | [Google Maps](https://maps.app.goo.gl/9h6KV23mM8vrwYZT6) | 💡 À considérer |
 | Club FF | Séoul / Hongdae | 🎸 Live club / rock | **Hongdae / Sangsu**; accessible à pied depuis le secteur Hongdae | [Naver Map](https://map.naver.com/p/search/Club%20FF%20Seoul) | [Google Maps](https://maps.app.goo.gl/pE8fgqaQuRPjcQJS9) | 💡 À considérer |
-| Club Victim | Séoul / Hongdae | 🤘 Hard rock / punk | **Hongdae**; à garder dans le radar selon la programmation pendant le séjour | [Naver Map](https://map.naver.com/p/search/Club%20Victim%20Seoul) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Club+Victim+Hongdae+Seoul) | 💡 À considérer |
+| Club Victim | Séoul / Hongdae | 🤘 Hard rock / punk | **53 Wausan-ro, Mapo-gu, Seoul, sous-sol** · 서울 마포구 와우산로 53 지하 | [Naver Map](https://map.naver.com/p/search/Club%20Victim%20Seoul) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Club+Victim+Hongdae+Seoul) | 🟡 **[ROCKERS ON FRIDAY vol.107 — 30 oct., 19 h 30 KST](activites.md#concerts-et-vie-nocturne)**; portes 19 h; soirée choisie, **30 000 ₩ avec une consommation**, entrée à acheter sur place |
 | Basement | Busan / Gwangalli-Millak | 🎵 Sound bar / cocktails | **17 Gwanganhaebyeon-ro 255beon-gil** · **tout près du Airbnb Gwangalli**; sortie facile à pied dans le secteur | [Naver Map](https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%20%EC%88%98%EC%98%81%EA%B5%AC%20%EA%B4%91%EC%95%88%ED%95%B4%EB%B3%80%EB%A1%9C255%EB%B2%88%EA%B8%B8%2017) | [Google Maps](https://maps.app.goo.gl/jr4ShjXEf6VYtuf17) | 💡 À considérer |
 | The Vinyl Underground Live Club | Busan / Nam-gu | 🎸 Live music | **32 Suyeong-ro 322beon-gil** · secteur Kyungsung Univ./Pukyong Nat'l Univ.; **~5,4 km du secteur Gwangalli**, métro ligne 2 pratique | [Naver Map](https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EC%88%98%EC%98%81%EB%A1%9C322%EB%B2%88%EA%B8%B8%2032) | [Google Maps](https://maps.app.goo.gl/F96MwqHU2f5wwRKm9) | 💡 À considérer |
 | Hard and Heavy Metal Pub | Busan / Seomyeon | 🤘 Metal pub | **Seomyeon**; prévoir métro ou taxi depuis Gwangalli | [Naver Map](https://map.naver.com/p/search/Hard%20and%20Heavy%20Metal%20Pub%20Busan) | [Google Maps](https://maps.app.goo.gl/bvR2jnnzNfdz1aCz9) | 💡 À considérer |
@@ -66,6 +66,8 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 Adresses des deux salles de concert recoupées le **15 octobre 2026** : [Rolling Hall — accès officiel](https://www.rollinghall.co.kr/default/mp1/mp1_sub5.php?sub=05) et [Senggi Studio — fiche du Service culturel de l'Ambassade de France](https://kr.ambafrance-culture.org/evenement/fdm-2026-french-live-in-seoul-la-flemme-x-bulgogi-disco-senggi-studio/). Cette dernière source confirme l'adresse du lieu, pas le concert du 31 octobre. Programmation et limites de vérification : [Activités](activites.md#concerts-et-vie-nocturne).
 
 Infinity Club : adresse, accès par la sortie 1 et concert recoupés le **15 octobre 2026** dans [l'annonce OFFAL GRIND FEST](https://lmml.kr/en/concerts/100). L'estimation porte à porte ne constitue pas un itinéraire calculé en temps réel.
+
+Club Victim : adresse, horaire et tarif du 30 octobre relus le **15 octobre 2026** dans [l'annonce ROCKERS ON FRIDAY vol.107 reproduite par Indistreet](https://indistreet.com/gigs/2026-10-30-rockers-on-friday-vol.107-lj0hqk4q8gqlz6bz2yptp0a7). Comptant et carte annoncés pour la vente sur place.
 
 ## Attractions — Busan
 

@@ -11,7 +11,7 @@
 | **1er oct. — mise à jour** | KTX aller et retour — ✅ **réservés; 107 300 KRW / 112,91 $ CAD** |
 | **12 oct.** | Hongdae — solde de **593,34 $** — ✅ **payé à la date prévue** |
 | **15 oct.** | Épicerie — **400 $** |
-| **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; METHOD avec KILLKAISER choisi pour le 25 et SUPER SONIC pour le 31, billets à confirmer; autres choix encore ouverts |
+| **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; METHOD avec KILLKAISER choisi pour le 25, ROCKERS ON FRIDAY pour le 30 et SUPER SONIC pour le 31, billets ou entrées à obtenir; autres choix encore ouverts |
 | **17 oct.** | Busan — paiement de **201,13 $** |
 | **18 oct.** | Checklist de départ; vérifier les quatre segments dans le dossier Air Canada, particulièrement AC64 le dimanche 8 novembre |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6) |
@@ -24,6 +24,7 @@
 | **27 oct.** | DMZ |
 | **29 oct.** | Fonds supplémentaires — **~1 000 $** |
 | **29 oct.** | Épicerie — **400 $ maximum** |
+| **30 oct. — 19 h 30 KST** | **ROCKERS ON FRIDAY vol.107, Club Victim** — soirée choisie; portes 19 h; 🟡 entrée **30 000 ₩ avec une consommation**, à acheter uniquement sur place; comptant et carte annoncés |
 | **31 oct. — 20 h KST** | **SUPER SONIC Halloween, Senggi Studio** — soirée choisie; 🟡 billet non confirmé acheté, réservation à confirmer; entrée annoncée dès 19 h 30 |
 | **1 nov.** | KTX 033 Séoul **12 h 16** → Busan **14 h 58** — voiture 18, siège 4D, face à la marche — ✅ **53 700 KRW / 56,51 $ CAD** |
 | **5 nov.** | KTX 034 Busan **12 h 00** → Séoul **14 h 51** — voiture 9, siège 4D, dos à la marche — ✅ **53 600 KRW / 56,40 $ CAD** |
@@ -51,6 +52,7 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 | Busan — 1er au 5 novembre | ✅ Réservé; total **402,20 $**, dont **201,07 $ payés**; balance de **201,13 $** le 17 octobre |
 | Euljiro — 5 au 8 novembre | ✅ Réservé et entièrement payé : **302,88 $**; solde **0 $** |
 | METHOD avec KILLKAISER — 25 octobre | 🟡 Soirée choisie; billet non confirmé acheté, réservation à confirmer; tarifs annoncés 55 000 ₩ en prévente / 66 000 ₩ à la porte |
+| ROCKERS ON FRIDAY vol.107 — 30 octobre | 🟡 Soirée choisie; entrée à acheter sur place, **30 000 ₩ avec une consommation**; portes 19 h, début 19 h 30 KST |
 | SUPER SONIC — 31 octobre | 🟡 Soirée choisie; billet non confirmé acheté, réservation à confirmer; tarif annoncé 33 000 ₩ en prévente / 38 000 ₩ à la porte |
 | Croisière | ✅ |
 | DMZ | ✅ |

@@ -28,7 +28,8 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **25 oct.** | **[METHOD avec KILLKAISER](activites.md#concerts-et-vie-nocturne), Rolling Hall, 18 h KST** — soirée choisie; billet non confirmé acheté, réservation à confirmer | 🟡 |
 | **26 oct.** | Libre → croisière en soirée | ✅ |
 | **27 oct.** | DMZ | ✅ |
-| **28–30 oct.** | Séoul libre → [concerts facultatifs](activites.md#concerts-et-vie-nocturne) : The Bowls le 28 (à confirmer), Harakiri for the Sky à Mokdong le 29 | 🟢 |
+| **28–29 oct.** | Séoul libre → [concerts facultatifs](activites.md#concerts-et-vie-nocturne) : The Bowls le 28 (à confirmer), Harakiri for the Sky à Mokdong le 29 | 🟢 |
+| **30 oct.** | Journée libre → **[ROCKERS ON FRIDAY vol.107](activites.md#concerts-et-vie-nocturne), Club Victim, 19 h 30 KST** — portes 19 h; soirée choisie, entrée **30 000 ₩ avec une consommation**, à acheter sur place | 🟡 |
 | **31 oct.** | **[SUPER SONIC Halloween](activites.md#concerts-et-vie-nocturne), Senggi Studio, 20 h KST** — soirée choisie; entrée annoncée dès 19 h 30; billet non confirmé acheté, réservation à confirmer | 🟡 |
 | **1 nov.** | Séoul → Busan en KTX — réservé | ✅ |
 | **2 nov.** | Busan | 🟢 |

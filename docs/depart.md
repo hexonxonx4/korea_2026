@@ -48,7 +48,7 @@
 - [ ] Préparer le trajet vers la gare de Séoul pour le KTX du **1er novembre à 12 h 16**; vérifier aussi le retour Busan du **5 novembre à 12 h**.
 - [ ] Consulter la météo à Séoul et Busan et ajuster vêtements / coupe-vent.
 - [x] **Lessive durant le séjour :** accès à une laveuse et à une sécheuse confirmé dans les trois Airbnb (Séoul / Busan / Séoul). Prévoir environ 5 à 7 jours de vêtements et laver sur place pour voyager léger en cabine.
-- [x] **Chaussures :** deuxième paire prévue dans les bagages pour la randonnée au Bukhansan, en plus des chaussures portées pour le voyage (confirmé par le voyageur).
+- [x] **Chaussures :** deux paires prévues : espadrilles confortables et bottes The North Face DryVent examinées sur photos, avec semelle à crampons visiblement marqués. Bottes privilégiées pour Bukhansan sous réserve du confort et de l'adhérence réelle sur roche humide; choix définitif à confirmer.
 
 ### Sac et technologie
 - [ ] Passeport, cartes, wons, téléphone, chargeur, batterie externe et adaptateur en bagage cabine.

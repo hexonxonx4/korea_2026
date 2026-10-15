@@ -37,6 +37,12 @@ Les réservations KTX confirmées totalisent **107 300 KRW**, soit **112,91 $ CA
 
 Réconciliation : **3 466,02 $ + 820 $ + 713,98 $ = 5 000,00 $**.
 
+## Suivi des paiements Airbnb
+
+**Confirmation du voyageur reçue le 15 octobre 2026** : Euljiro **302,88 $ payé le 28 septembre 2026**; solde Hongdae **593,34 $ payé le 12 octobre 2026**. Hongdae est donc entièrement réglé (**106,09 $ + 593,34 $ = 699,43 $**), tout comme Euljiro. Les débits ont été effectués aux dates planifiées.
+
+Ces **896,22 $** étaient déjà inclus dans les coûts connus : ils ne sont pas ajoutés une seconde fois. Le budget total et la marge restent inchangés. Pour les hébergements, il reste uniquement le solde Busan de **201,13 $**, prévu le **17 octobre**; voir [Hébergements](hebergements.md).
+
 ## Provisions
 
 | Poste | Provision |

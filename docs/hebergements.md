@@ -4,19 +4,19 @@
 
 | Hébergement | Coût | Situation |
 |---|---:|---|
-| [Hongdae — 24 octobre au 1er novembre](https://fr.airbnb.ca/rooms/1479499388321339986) | **699,43 $** | ✅ Réservé; **106,09 $ payés**; balance le **12 octobre** |
+| [Hongdae — 24 octobre au 1er novembre](https://fr.airbnb.ca/rooms/1479499388321339986) | **699,43 $** | ✅ Réservé et entièrement payé : **106,09 $ + 593,34 $ = 699,43 $**; solde **0 $** |
 | [Busan — 1er au 5 novembre](https://fr.airbnb.ca/rooms/747276999137325483) | **402,20 $** | ✅ Réservé; **201,07 $ payés**; balance le **17 octobre** |
-| [Euljiro — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** | ✅ Réservé; paiement le 28 septembre |
+| [Euljiro — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** | ✅ Réservé et entièrement payé : **302,88 $**; solde **0 $** |
 | **TOTAL CONNU** | **1 404,51 $** | |
 
 Les adresses et liens cartographiques des hébergements sont centralisés dans [Lieux et cartes](lieux.md); les adresses exactes restent à compléter à partir des informations de réservation.
+
+Paiements de **302,88 $ pour Euljiro** et de **593,34 $ pour Hongdae** confirmés par le voyageur le **15 octobre 2026**. Les débits ont été effectués aux dates planifiées : **Euljiro le 28 septembre 2026** et **Hongdae le 12 octobre 2026**.
 
 ## Paiements à venir
 
 | Hébergement | Échéance | Montant |
 |---|---|---:|
-| Euljiro | 28 septembre | **302,88 $** |
-| Hongdae | 12 octobre | **593,34 $** |
 | Busan | 17 octobre | **201,13 $** |
 
 [← Retour au sommaire](../README.md)

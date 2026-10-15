@@ -32,7 +32,36 @@ Priorités :
 
 > **punk → hardcore → metal → rock alternatif → indie**
 
-La vérification des spectacles à Hongdae est prévue le **15 octobre**. Les concerts, bars et grosses soirées sont financés par la marge discrétionnaire.
+**Vérification ciblée : 15 octobre 2026 — séjour à Hongdae du 24 au 31 octobre.** Toutes les heures ci-dessous sont locales (**KST, UTC+9**). Il s'agit de suggestions, sans billet acheté ni réservation confirmée pour le voyageur. Les concerts, bars et grosses soirées sont financés par la marge discrétionnaire; aucun montant n'est ajouté aux coûts connus.
+
+### Sélection du 24 au 31 octobre 2026
+
+« Source directe » signifie que les renseignements ont été relus sur la page de l'organisateur ou de la billetterie; cela ne garantit pas la disponibilité au moment de l'achat. « Source secondaire » demande une confirmation auprès de la salle ou de l'organisateur.
+
+| Date et début (KST) | Spectacle et intérêt | Salle | Prix annoncé (KRW) | Sources et vérification |
+|---|---|---|---|---|
+| **Dim. 25 oct., 18 h** | **METHOD — 20 Years Anniversary**, avec KILLKAISER — option thrash metal | Rolling Hall, Hongdae | Prévente **55 000 ₩**; porte **66 000 ₩** | Horaire, salle, artistes et prix recoupés dans [Indiego](https://www.indiego.co.kr/concerts/seoul). **Source secondaire**; [Melon fourni précédemment](https://ticket.melon.com/performance/index.htm?prodId=213902) non consultable lors du contrôle, à revalider avant achat. |
+| **Dim. 25 oct., 18 h** | **BrokenTeeth + Gnaw** — alternative shoegaze / noise pop | Gongsangondo, Hongdae | Prévente **35 000 ₩** | **Source directe :** [4KOR](https://4kor4kor4kor.com/tickets/brokenteeth-gnaw). Portes à **17 h 30**; paiement PayPal proposé aux clients étrangers en contactant l'organisateur. Tarif porte non annoncé. |
+| **Mer. 28 oct., 20 h** | **The Bowls** — piste indie | Gongsangondo, Hongdae | **À confirmer** | Date, heure et salle retrouvées sur [Apple Music, alimenté par Bandsintown](https://music.apple.com/us/concerts/ce.5424819c-354d-4742-a676-65d085ab01bb). **Source secondaire**; [lien Bandsintown initial](https://www.bandsintown.com/e/109005872-the-bowls-at) non consultable. Confirmer la tenue et le tarif auprès de la salle. |
+| **Jeu. 29 oct., 20 h** | **Harakiri for the Sky** — post-black metal | **JS Art Hall & Bar, Mokdong — hors Hongdae**, 36 Deungchon-ro, Yangcheon-gu | Prévente **67 000 ₩**; porte **77 000 ₩**; VIP **90 000 ₩** | **Source directe :** [NOL](https://nol.yanolja.com/ticket/products/26009347). Portes à **19 h**. Le [lien international fourni précédemment](https://world.nol.com/en/ticket/places/26000462/products/26009347) n'a pas pu être consulté. Prévoir le trajet depuis Hongdae. |
+| **Sam. 31 oct., 18 h** | **EVIL KARMA** — DOGUUL, Rebeldom, BEACON, Huqueymsaw, Lucy Valentine Band et VENOMOUS CXNT; option metal underground | Club Victim, sous-sol du 53 Wausan-ro, Hongdae | Prévente **30 000 ₩**; porte **35 000 ₩** | **Source directe :** [lmml, organisateur](https://lmml.kr/en/concerts/101). Portes à **17 h 30**. Prévente par virement puis confirmation par message; vérifier la possibilité de paiement depuis l'étranger. |
+| **Sam. 31 oct., 18 h** | **WE 2026** — GUMX, SIX LOUNGE, EGG BRAIN; option punk / rock | **Rolling Hall, Hongdae** | Debout, prévente **88 000 ₩** | **Source directe :** [NOL](https://nol.yanolja.com/ticket/products/26012938). Entrée dès **17 h 30**, échange des billets dès **16 h 30**. Durée annoncée **165 min**, entracte de 40 min inclus. |
+| **Sam. 31 oct., 20 h** | **SUPER SONIC Halloween** — RUMKICKS, TiSH, 18Fevers, Daddy O Radio, Fat Hamster & KANG New; DJ AMYiie après les groupes | Senggi Studio, 5e étage et toit, 137 Wausan-ro, Hongdae | Prévente **33 000 ₩**; porte **38 000 ₩** | Annonce reproduite par [Indistreet](https://indistreet.com/gigs/2026-10-31-super-sonic-halloween-show-wwlc3q3ty7pyq1bm44n26t58), **source secondaire**. Entrée dès **19 h 30**; prévente annoncée jusqu'au **31 oct., midi KST**. [Billetterie annoncée](https://sonicboom-live-show.com/) non consultable lors du contrôle; confirmer auprès de @sonicboom_project. |
+
+### Choix conseillés et contraintes
+
+- **25 octobre :** METHOD pour le metal; BrokenTeeth + Gnaw comme alternative. Les deux commencent à 18 h : choisir un seul concert selon l'énergie après l'arrivée.
+- **29 octobre :** Harakiri for the Sky si une soirée metal hors Hongdae convient.
+- **31 octobre :** priorité musicale à **SUPER SONIC** pour le punk local, sous réserve de confirmation directe; **WE 2026** est l'alternative punk / rock avec billetterie vérifiée, et **EVIL KARMA** l'alternative metal moins coûteuse.
+- Les trois soirées du 31 octobre sont des **alternatives**. WE 2026 finit théoriquement vers **20 h 45** : ne pas prévoir d'assister intégralement à WE et à SUPER SONIC. L'heure de fin d'EVIL KARMA n'est pas confirmée.
+- **24 octobre :** conserver installation et repos. Aucune des sept suggestions précédentes n'est datée du 24.
+- Avant achat : recontrôler date, salle, prix final et frais, disponibilité, conditions de paiement et accès. Le 1er novembre, le **KTX 033 part de Séoul à 12 h 16**.
+
+### Points corrigés ou encore incertains
+
+- Pour **WE 2026**, certains agrégateurs donnent une autre salle et d'autres tarifs : retenir **Rolling Hall / 88 000 ₩**, selon NOL. Le tarif porte de 99 000 ₩ cité par un agrégateur n'est pas confirmé ici par la billetterie.
+- Pour **Harakiri for the Sky**, retenir **67 000 ₩ en prévente**, selon NOL, malgré un tarif divergent dans un agrégateur.
+- Les échecs d'ouverture de Melon, Bandsintown, NOL World et Sonicboom ne prouvent ni une annulation ni la validité de ces liens. Les sources de remplacement et les limites sont indiquées dans chaque ligne.
 
 ## Pistes libres
 

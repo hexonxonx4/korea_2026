@@ -55,9 +55,9 @@ Base : Airbnb près de Gwangalli. Pour les soirées **Basement** ou **HQ Gwangan
 **À distinguer :** Millak Golmok est un marché alimentaire de quartier, pas le grand marché de poissons *Millak Raw Fish Center*. Le magasin Homeplus Express Gwangan est identifié dans l'annuaire officiel; vérifier jours de fermeture et horaires avant le déplacement.
 
 
-## Séoul — Euljiro (5 → 8 nov.)
+## Séoul — Dongdaemun (5 → 8 nov.)
 
-Base : Airbnb Euljiro. **OFFAL GRIND FEST le 7 novembre** à Sinchon : prévoir un repas tôt avant de partir; la randonnée Bukhansan est aussi prévue le matin du 7.
+Base : Airbnb Dongdaemun (ancien libellé Euljiro). **OFFAL GRIND FEST le 7 novembre** à Sinchon : prévoir un repas tôt avant de partir; la randonnée Bukhansan est aussi prévue le matin du 7.
 
 | Spot | Pourquoi y aller | Enveloppe / personne | Solo et repère | Cartes |
 |---|---|---:|---|---|

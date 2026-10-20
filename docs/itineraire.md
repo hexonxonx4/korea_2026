@@ -22,10 +22,10 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 
 | Date | Programme | Statut |
 |---|---|---|
-| **22 oct.** | Nuit à l'hôtel près de YUL — hors budget voyage | ✅ |
+| **22 oct.** | Nuit au Comfort Inn Dorval près de YUL — hors budget voyage | ✅ |
 | **23 oct.** | Transport vers YUL → AC303 YUL → YVR → AC63 YVR → ICN | ✅ |
 | **24 oct.** | Arrivée → Hongdae → installation → repérage → relaxation | 🟢 |
-| **25 oct.** | **[METHOD avec KILLKAISER](activites.md#concerts-et-vie-nocturne), Rolling Hall, 18 h KST** — soirée choisie; billet non confirmé acheté, réservation à confirmer | 🟡 |
+| **25 oct.** | **[METHOD avec KILLKAISER](activites.md#concerts-et-vie-nocturne), Rolling Hall, 18 h KST** — ✅ billet acheté et payé, **63 000 KRW / 67,21 $ CAD** | ✅ |
 | **26 oct.** | Libre → croisière en soirée | ✅ |
 | **27 oct.** | DMZ | ✅ |
 | **28–29 oct.** | Séoul libre → [concerts facultatifs](activites.md#concerts-et-vie-nocturne) : The Bowls le 28 (à confirmer), Harakiri for the Sky à Mokdong le 29 | 🟢 |
@@ -39,8 +39,8 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **6 nov.** | Séoul libre | 🟢 |
 | **7 nov. — matin** | **Bukhansan National Park — Summit Course, 7 h à 12 h KST** | ✅ |
 | **7 nov. — après-midi et soirée** | Retour au logement et repos → **[OFFAL GRIND FEST](activites.md#7-novembre--offal-grind-fest), Infinity Club (Sinchon), 17 h KST**; soirée choisie, entrée à acheter à la porte (**20 000 ₩**) | 🟡 |
-| **8 nov.** | ICN → YVR — AC64 | 🟢 |
-| **9 nov.** | YVR → YUL — AC314; retour au Québec | 🟢 |
+| **8 nov.** | ICN → YVR — AC64; horaires dans [Vols](vols.md) | ✅ Réservé; contrôle opérationnel à faire |
+| **9 nov.** | YVR → YUL — AC314; retour au Québec; horaires dans [Vols](vols.md) | ✅ Réservé; contrôle opérationnel à faire |
 
 ## Busan — horaire indicatif
 
@@ -116,6 +116,6 @@ Repères et cartes : [Lieux et cartes](lieux.md#attractions--busan). Billets : [
 
 - **Séoul (Hongdae) : 24 octobre au 1er novembre**
 - **Busan : 1er au 5 novembre**
-- **Séoul (Euljiro) : 5 au 8 novembre**
+- **Séoul (Dongdaemun) : 5 au 8 novembre**
 
 [← Retour au sommaire](../README.md)

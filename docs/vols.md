@@ -1,8 +1,14 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 15 octobre 2026 — capture de la réservation Air Canada fournie par le voyageur**<br>
+**Dernier contrôle documentaire : 20 octobre 2026 — courriel Air Canada du 15 octobre relu; confirmation du dossier du 15 octobre conservée**<br>
 **État : ✅ Les quatre segments sont indiqués « Confirmés » dans la réservation Air Canada consultée par le voyageur le 15 octobre 2026. Horaires opérationnels à recontrôler avant les départs.**
+
+## Recoupement documentaire — 20 octobre 2026
+
+Le courriel Air Canada du **15 octobre 2026**, « Avis de surclassement : vous pourriez obtenir un surclassement pour votre prochain vol », a été relu dans Gmail. Il reprend les quatre segments dans l’ordre **AC303 → AC63 → AC64 → AC314** : **23 octobre YUL 8 h 30 → YVR 10 h 42**; **23 octobre YVR 12 h 20 → ICN 16 h 05 le 24**; **8 novembre ICN 18 h 55 → YVR 12 h 45**; **9 novembre YVR 00 h 15 → YUL 7 h 10**. Les fuseaux et équivalents Montréal sont détaillés ci-dessous. Aucun écart avec les horaires consignés ni avec les précisions du voyageur du 20 octobre.
+
+Ce courriel confirme les horaires documentés à sa date d’envoi; il ne constitue pas un statut en temps réel. L’horaire interactif Air Canada a été ouvert le 20 octobre, mais ne restitue aucun résultat de vol exploitable. Le dossier n’a pas été rouvert aujourd’hui; aucun statut opérationnel, retard, porte ou changement d’appareil n’est déduit. Conserver la vérification avant chaque départ.
 
 ## Confirmation du dossier — 15 octobre 2026
 

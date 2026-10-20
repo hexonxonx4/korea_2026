@@ -2,6 +2,8 @@
 
 Le budget voyage est distinct du budget foyer.
 
+**Réconciliation du 20 octobre 2026 :** les coûts confirmés sont conservés, sans double comptage. Dongdaemun (ancien libellé Euljiro), chambre 402, correspond au même Airbnb de **302,88 $** déjà payé. Le **Comfort Inn Dorval du 22 au 23 octobre** reste hors budget voyage; son coût n’a pas été fourni. L’échéance Air Canada de **275,94 $ du 20 octobre** reste à confirmer comme débit effectué et ne constitue pas un nouveau coût du voyage.
+
 ## Réconciliation du voyage
 
 | Catégorie | Montant |
@@ -11,7 +13,7 @@ Le budget voyage est distinct du budget foyer.
 | **Marge discrétionnaire** | **646,77 $** |
 | **TOTAL** | **5 000,00 $** |
 
-La marge représente environ **42,00 $ par jour**, en plus des postes déjà payés ou provisionnés.
+La marge représente environ **40,42 $ par jour sur les 16 jours civils en Corée, du 24 octobre au 8 novembre inclus**, en plus des postes déjà payés ou provisionnés.
 
 ## Coûts connus
 
@@ -20,7 +22,7 @@ La marge représente environ **42,00 $ par jour**, en plus des postes déjà pay
 | Vol Air Canada | **1 655,64 $** |
 | [Hongdae — 24 octobre au 1er novembre](https://fr.airbnb.ca/rooms/1479499388321339986) | **699,43 $** |
 | [Busan — 1er au 5 novembre](https://fr.airbnb.ca/rooms/747276999137325483) | **402,20 $** |
-| [Euljiro — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** |
+| [Dongdaemun — 5 au 8 novembre](https://fr.airbnb.ca/rooms/1258184466792937269) | **302,88 $** |
 | Croisière | **47,66 $** |
 | DMZ | **0 $** |
 | Bukhansan Summit Course — 7 novembre | **90,60 $** |

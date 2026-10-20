@@ -1,11 +1,13 @@
 # 📆 Échéancier et progression
 
+**Réconcilié le 20 octobre 2026.** Les échéances passées ne sont pas considérées payées sans confirmation.
+
 ## Échéancier principal
 
 | Date | Action |
 |---|---|
 | **9 sept.** | Busan — réservation révisée — ✅ **confirmée; total de 402,20 $** |
-| **9 sept.** | Réservation Euljiro (5 au 8 nov.) — ✅ **confirmée; total de 302,88 $** |
+| **9 sept.** | Réservation Dongdaemun (5 au 8 nov.) — ✅ **confirmée; total de 302,88 $** |
 | **20 sept.** | Air Canada — **275,94 $** (2e de 6) |
 | **28 sept.** | Euljiro — **302,88 $** — ✅ **payé à la date prévue** |
 | **1er oct. — mise à jour** | KTX aller et retour — ✅ **réservés; 107 300 KRW / 112,91 $ CAD** |
@@ -13,9 +15,9 @@
 | **15 oct.** | Épicerie — **400 $** |
 | **15 oct.** | [Sélection de concerts documentée](activites.md#concerts-et-vie-nocturne) — sources directes et pistes à confirmer distinguées; METHOD avec KILLKAISER choisi pour le 25 (**billet acheté : 63 000 ₩ / 67,21 $ CAD**), ROCKERS ON FRIDAY pour le 30 et SUPER SONIC pour le 31 (entrées à obtenir); autres choix encore ouverts |
 | **15 oct.** | Busan — solde de **201,13 $** — ✅ **payé** (échéance initiale du 17 octobre) |
-| **18 oct.** | Checklist de départ; vérifier les quatre segments dans le dossier Air Canada, particulièrement AC64 le dimanche 8 novembre |
-| **20 oct.** | Air Canada — **275,94 $** (3e de 6) |
-| **22 oct.** | Faire les bagages; nuit à l'hôtel près de YUL — hors budget voyage |
+| **18 oct.** | Checklist de départ; les quatre segments, dont AC64 le dimanche 8 novembre, sont confirmés depuis le 15 octobre; suivi opérationnel avant départ à faire |
+| **20 oct.** | Air Canada — **275,94 $** (3e de 6), échéance du jour; débit non confirmé |
+| **22 oct.** | Faire les bagages; nuit au Comfort Inn Dorval près de YUL — hors budget voyage |
 | **23 oct.** | Fonds — **~1 250 $** |
 | **23 oct.** | Transport vers YUL; AC303 (YUL → YVR) + AC63 (YVR → ICN) |
 | **24 oct.** | Récupérer et activer la WOWPASS à Incheon |
@@ -50,7 +52,7 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 | AC303 / AC63 / AC64 / AC314 | ✅ Quatre segments confirmés dans la réservation Air Canada consultée le 15 octobre; 🟡 état opérationnel à revérifier avant les départs; voir [Vols](vols.md) |
 | Hongdae — 24 octobre au 1er novembre | ✅ Réservé et entièrement payé : **699,43 $** (**106,09 $ + 593,34 $**); solde **0 $** |
 | Busan — 1er au 5 novembre | ✅ Réservé et entièrement payé : **402,20 $**; solde **0 $** |
-| Euljiro — 5 au 8 novembre | ✅ Réservé et entièrement payé : **302,88 $**; solde **0 $** |
+| Dongdaemun — 5 au 8 novembre | ✅ Réservé et entièrement payé : **302,88 $**; solde **0 $** |
 | METHOD avec KILLKAISER — 25 octobre | ✅ Billet acheté et payé : **63 000 ₩** (55 000 ₩ + 8 000 ₩ de frais), **67,21 $ CAD** sur carte EQ Bank |
 | ROCKERS ON FRIDAY vol.107 — 30 octobre | 🟡 Soirée choisie; entrée à acheter sur place, **30 000 ₩ avec une consommation**; portes 19 h, début 19 h 30 KST |
 | SUPER SONIC — 31 octobre | 🟡 Soirée choisie; billet non confirmé acheté, réservation à confirmer; tarif annoncé 33 000 ₩ en prévente / 38 000 ₩ à la porte |

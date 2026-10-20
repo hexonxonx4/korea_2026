@@ -2,6 +2,8 @@
 
 ## 26 octobre — croisière
 
+Croisière sur le Han, date confirmée par le voyageur le 20 octobre.
+
 - Journée libre exploratoire.
 - Croisière en soirée : ✅ réservée.
 - Coût : **47,66 $ payé**.
@@ -40,7 +42,7 @@ Priorités :
 
 | Date et début (KST) | Spectacle et intérêt | Salle | Prix annoncé (KRW) | Sources et vérification |
 |---|---|---|---|---|
-| **Dim. 25 oct., 18 h** | **METHOD — 20 Years Anniversary, avec KILLKAISER — billet acheté et payé** — thrash metal | Rolling Hall, Hongdae | **Billet acheté 63 000 ₩**, soit 55 000 ₩ + 8 000 ₩ de frais (**67,21 $ CAD**, carte EQ Bank); porte annoncée **66 000 ₩** | Horaire, salle, artistes et prix recoupés dans [Indiego](https://www.indiego.co.kr/concerts/seoul). **Source secondaire**; [Melon fourni précédemment](https://ticket.melon.com/performance/index.htm?prodId=213902) non consultable lors du contrôle, à revalider avant achat. |
+| **Dim. 25 oct., 18 h** | **METHOD — 20 Years Anniversary, avec KILLKAISER — billet acheté et payé** — thrash metal | Rolling Hall, Hongdae | **Billet acheté 63 000 ₩**, soit 55 000 ₩ + 8 000 ₩ de frais (**67,21 $ CAD**, carte EQ Bank); porte annoncée **66 000 ₩** | Horaire, salle, artistes et prix recoupés dans [Indiego](https://www.indiego.co.kr/concerts/seoul). **Source secondaire**; [Melon fourni précédemment](https://ticket.melon.com/performance/index.htm?prodId=213902) non consultable lors du contrôle, billet désormais acheté; vérifier les consignes d’entrée. |
 | **Dim. 25 oct., 18 h** | **BrokenTeeth + Gnaw — non retenu le 25** — shoegaze / noise pop | Gongsangondo, Hongdae | Prévente **35 000 ₩** | **Source directe :** [4KOR](https://4kor4kor4kor.com/tickets/brokenteeth-gnaw). Portes à **17 h 30**; paiement PayPal proposé aux clients étrangers en contactant l'organisateur. Tarif porte non annoncé. |
 | **Mer. 28 oct., 20 h** | **The Bowls** — piste indie | Gongsangondo, Hongdae | **À confirmer** | Date, heure et salle retrouvées sur [Apple Music, alimenté par Bandsintown](https://music.apple.com/us/concerts/ce.5424819c-354d-4742-a676-65d085ab01bb). **Source secondaire**; [lien Bandsintown initial](https://www.bandsintown.com/e/109005872-the-bowls-at) non consultable. Confirmer la tenue et le tarif auprès de la salle. |
 | **Jeu. 29 oct., 20 h** | **Harakiri for the Sky** — post-black metal | **JS Art Hall & Bar, Mokdong — hors Hongdae**, 36 Deungchon-ro, Yangcheon-gu | Prévente **67 000 ₩**; porte **77 000 ₩**; VIP **90 000 ₩** | **Source directe :** [NOL](https://nol.yanolja.com/ticket/products/26009347). Portes à **19 h**. Le [lien international fourni précédemment](https://world.nol.com/en/ticket/places/26000462/products/26009347) n'a pas pu être consulté. Prévoir le trajet depuis Hongdae. |
@@ -75,7 +77,7 @@ Priorités :
 - Source consultée le **15 octobre 2026** : [annonce OFFAL GRIND FEST sur lmml](https://lmml.kr/en/concerts/100).
 - Depuis l'Airbnb d'Euljiro : rejoindre **Dongdaemun History & Culture Park**, puis **ligne 2 vers Euljiro 4-ga / City Hall jusqu'à Sinchon**, sans correspondance, et marcher depuis la sortie 1. Environ **19 min entre stations** selon [Rome2Rio](https://www.rome2rio.com/s/Dongdaemun-History-and-Culture-Park-Station/Sinchon-Station); **35–45 min porte à porte estimées**, à recalculer dans Naver Map le jour même.
 - Après **Bukhansan, 7 h–12 h**, garder l'après-midi pour le retour au logement, le repas et le repos; départ indicatif vers **16 h**. Vérifier le dernier métro si la soirée se prolonge; heure de fin inconnue.
-- Vol retour **AC64 prévu le 8 novembre à 18 h 55 KST**; conserver la limite du [contrôle public des vols](vols.md), encore partiel.
+- Vol retour **AC64 prévu le 8 novembre à 18 h 55 KST**; réservation confirmée le 15 octobre et horaires recoupés le 20 octobre; [contrôle opérationnel](vols.md) à faire avant départ.
 - Dépense prévue dans la **marge discrétionnaire**; aucun ajout aux coûts connus avant achat.
 
 ## Pistes libres

@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 15 octobre 2026 — trois Airbnb entièrement payés, quatre segments Air Canada confirmés, checklist de départ actualisée**
+**Dernière mise à jour : 20 octobre 2026 — horaires recoupés avec le courriel Air Canada du 15 octobre, hébergements précisés et statuts réconciliés**
 
 ## Sommaire exécutif
 
@@ -10,13 +10,13 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 |---|---|
 | Séjour | **23 octobre → 8 novembre 2026** |
 | Retour au Québec | **9 novembre 2026** |
-| Parcours | **Hongdae (Séoul) → Busan → Euljiro (Séoul) → retour** |
+| Parcours | **Hongdae (Séoul) → Busan → Dongdaemun (Séoul) → retour** |
 | Vols | **✅ Quatre segments confirmés dans la réservation Air Canada consultée le 15 octobre; contrôle opérationnel avant départ à faire** |
 | Budget voyage | **5 000,00 $ CAD** |
 | Coûts connus | **3 533,23 $** |
 | Provisions | **820 $** |
 | Marge discrétionnaire | **646,77 $** |
-| Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre · Euljiro : 5–8 novembre** |
+| Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre · Dongdaemun : 5–8 novembre** |
 | Prochaine action | **Acheter 160 000 KRW et les articles de toilette; e-Arrival Card et enregistrement le 22 octobre** |
 
 ## Points d'attention
@@ -24,7 +24,7 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 - [Concerts du 24 au 31 octobre](docs/activites.md#concerts-et-vie-nocturne) : huit suggestions documentées avec prix, sources et limites de vérification; **SUPER SONIC Halloween choisi pour le 31 octobre à Senggi Studio, 20 h KST**; **METHOD avec KILLKAISER choisi pour le 25 octobre à Rolling Hall, 18 h KST**. **ROCKERS ON FRIDAY vol.107 choisi pour le 30 octobre au Club Victim, 19 h 30 KST** (portes 19 h; 30 000 ₩ avec une consommation, achat sur place). **Billet METHOD acheté et payé : 63 000 ₩ (67,21 $ CAD, frais inclus)**. Entrées ROCKERS ON FRIDAY et SUPER SONIC encore à obtenir; budget actualisé.
 - **[OFFAL GRIND FEST](docs/activites.md#7-novembre--offal-grind-fest) choisi pour le 7 novembre, 17 h KST, à Infinity Club (Sinchon)**, après Bukhansan le matin. **20 000 ₩ à la porte uniquement**, entrée à acheter sur place; aucun coût réel ajouté.
 
-- Départ simplifié : nuit du **22 octobre** à l'hôtel près de YUL — **hors budget voyage**. Transports vers YUL le 23 octobre et depuis YUL le 9 novembre prévus, hors budget voyage.
+- Départ simplifié : nuit du **22 au 23 octobre** au Comfort Inn Dorval près de YUL — **hors budget voyage**. Transports vers YUL le 23 octobre et depuis YUL le 9 novembre prévus, hors budget voyage.
 - Correspondance aller à Vancouver : **1 h 38**; c'est le segment à surveiller.
 - Depuis 2026, la Colombie-Britannique conserve **Pacific Time (PCT), UTC−7** toute l’année. Vancouver ne recule donc pas l’heure le 1er novembre; les équivalents Montréal et la durée d’AC314 ont été corrigés en conséquence.
 - Le séjour à Busan est ✅ **réservé et entièrement payé** du **1er au 5 novembre** : total **402,20 $**, dont le dernier solde de **201,13 $ payé le 15 octobre**.

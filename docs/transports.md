@@ -22,6 +22,8 @@ Provision initiale : **125 $**. Après l'achat de la WOWPASS et l'arrondi conser
 
 Cette enveloppe couvre métro, autobus et transports publics courants. Les taxis sont discrétionnaires.
 
+**20 octobre 2026 : 160 000 KRW achetés.** Répartition initialement prévue : 100 000 KRW en espèces, 30 000 KRW sur T-money et 30 000 KRW sur WOWPASS. Les rechargements ne sont pas encore effectués; soldes distincts.
+
 ### WOWPASS
 
 | Élément | Situation |

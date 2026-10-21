@@ -1,8 +1,23 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle documentaire : 20 octobre 2026 — courriel Air Canada du 15 octobre relu; confirmation du dossier du 15 octobre conservée**<br>
+**Dernier contrôle : 20 octobre 2026 — horaires publics recoupés pour les quatre vols; courriel et confirmation du dossier du 15 octobre conservés; aucun statut temps réel confirmé**<br>
 **État : ✅ Les quatre segments sont indiqués « Confirmés » dans la réservation Air Canada consultée par le voyageur le 15 octobre 2026. Horaires opérationnels à recontrôler avant les départs.**
+
+## Contrôle public complémentaire — 20 octobre 2026
+
+Contrôle effectué dans l’ordre **AC303 → AC63 → AC64 → AC314**. Horaires publiés concordants avec le courriel Air Canada du 15 octobre relu précédemment :
+
+| Vol | Horaire local et équivalent Montréal | Résultat |
+|---|---|---|
+| [AC303](https://www.flight.info/AC303), 23 oct. | YUL **8 h 30 HAE (UTC−4)** → YVR **10 h 42 HAP (UTC−7)**, soit **13 h 42 HAE à Montréal** | Plage jusqu’au 23 octobre, vendredi explicitement inclus; Boeing 787-9. |
+| [AC63](https://www.flight.info/AC63), 23–24 oct. | YVR **12 h 20 HAP (UTC−7)**, soit **15 h 20 HAE (UTC−4) à Montréal** → ICN **16 h 05 KST (UTC+9) le 24**, soit **3 h 05 HAE à Montréal le 24** | Plage jusqu’au 23 octobre; Boeing 787-9. |
+| [AC64](https://www.flight.info/AC64), 8 nov. | ICN **18 h 55 KST (UTC+9)**, soit **4 h 55 HNE (UTC−5) à Montréal** → YVR **12 h 45 PCT (UTC−7)**, soit **14 h 45 HNE à Montréal** | Plage du 1er novembre au 16 décembre; Boeing 787-9. Libellé public « Every weekday » insuffisant pour établir le dimanche; confirmation du dossier et courriel du 15 octobre conservés comme preuves du segment réservé. |
+| [AC314](https://www.flight.info/AC314), 9 nov. | YVR **00 h 15 PCT (UTC−7)**, soit **2 h 15 HNE (UTC−5) à Montréal** → YUL **7 h 10 HNE (UTC−5)** | Plage du 2 novembre au 3 décembre; Airbus A220-300. |
+
+Correspondances inchangées selon ces horaires : **1 h 38 à l’aller**, **11 h 30 au retour**. Aucun écart horaire détecté dans les sources consultées.
+
+**Limites :** l’[horaire interactif Air Canada](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html) ne restitue pas de résultat exploitable; la page [État des vols](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) est inaccessible dans l’outil. Aucun nouvel avis de changement repéré dans la recherche Gmail ciblée depuis le 15 octobre; ce résultat ne prouve pas l’absence de changement. Dossier non rouvert, statut opérationnel non confirmé, portes inconnues. Revérifier dans l’application Air Canada lors de l’enregistrement et avant chaque départ.
 
 ## Recoupement documentaire — 20 octobre 2026
 

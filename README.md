@@ -2,7 +2,7 @@
 
 Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 
-**Dernière mise à jour : 20 octobre 2026 — horaires recoupés avec le courriel Air Canada du 15 octobre, hébergements précisés et statuts réconciliés**
+**Dernière mise à jour : 20 octobre 2026 — contrôle des quatre vols, 160 000 KRW achetés, dossier pharmaceutique obtenu et bagages préparés**
 
 ## Sommaire exécutif
 
@@ -17,7 +17,9 @@ Planification, budget et suivi opérationnel du voyage en Corée du Sud.
 | Provisions | **820 $** |
 | Marge discrétionnaire | **646,77 $** |
 | Hébergements | **Hongdae : 24 octobre–1er novembre · Busan : 1er–5 novembre · Dongdaemun : 5–8 novembre** |
-| Prochaine action | **Acheter 160 000 KRW et les articles de toilette; e-Arrival Card et enregistrement le 22 octobre** |
+| Prochaine action | **e-Arrival Card et enregistrement le 22 octobre; WOWPASS et T-money à l’arrivée** |
+
+**Confirmations du voyageur — 20 octobre 2026 :** 160 000 KRW achetés; dossier pharmaceutique obtenu; articles de toilette achetés; valise cabine et sac à dos préparés. Le Pixel 9 sera dans les poches. Récupération/activation de la WOWPASS et rechargements WOWPASS/T-money restent à faire à l’arrivée.
 
 ## Points d'attention
 

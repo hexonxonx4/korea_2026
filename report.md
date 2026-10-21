@@ -31,3 +31,9 @@ Dernière soirée choisie : **[OFFAL GRIND FEST](docs/activites.md#7-novembre--o
 Programme de Busan : **[horaire indicatif du 1er au 5 novembre](docs/itineraire.md#busan--horaire-indicatif)** ajouté à l'itinéraire existant, avec visites par secteur, pauses et bars facultatifs. Repères de départ et d'arrivée d'Igidae ajoutés aux cartes. Journées adaptables à la météo; KTX retour le 5 à **12 h**. Aucune nouvelle réservation ou dépense confirmée.
 
 Précision hébergement du 20 octobre : **Dongdaemun, du 5 au 8 novembre**, Airbnb **1258184466792937269**, **chambre 402**, **302,88 $ CAD entièrement payés**. Il s’agit du même logement précédemment nommé Euljiro; aucun coût supplémentaire. Hongdae reste réservé du **24 octobre au 1er novembre**, Busan du **1er au 5 novembre**. Croisière sur le Han le **26 octobre**, DMZ le **27 octobre** et Bukhansan le **7 novembre** restent réservés.
+
+## Préparatifs et contrôle des vols — 20 octobre 2026
+
+**Confirmations du voyageur — 20 octobre 2026 :** 160 000 KRW achetés; dossier pharmaceutique obtenu; articles de toilette achetés; valise cabine et sac à dos préparés. Le Pixel 9 sera dans les poches. Récupération/activation de la WOWPASS et rechargements WOWPASS/T-money restent à faire à l’arrivée.
+
+Les horaires publics des quatre vols ont été recoupés : aucun écart détecté avec les horaires documentés. Statut opérationnel non confirmé; voir [Vols](docs/vols.md) pour les sources et limites. Le montant CAD de l’achat de devises et des articles de toilette n’a pas été communiqué; voir [Budget](docs/budget.md). Les anciennes tâches d’achat et de préparation sont mises à jour dans la [checklist](docs/depart.md).

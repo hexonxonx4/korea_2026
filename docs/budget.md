@@ -82,6 +82,12 @@ La nourriture représente environ **41 $ par jour** et couvre repas, cafés, col
 
 Les trois paiements post-voyage représentent **827,82 $**.
 
+## Devises et achats récents — 20 octobre 2026
+
+**160 000 KRW achetés**, confirmation du voyageur. Contre-valeur CAD, taux et frais non fournis. Cet échange est une conversion de fonds destinés aux dépenses déjà budgétées, pas une nouvelle dépense à ajouter au total. Chargements WOWPASS et T-money encore à faire.
+
+**Articles de toilette achetés**, coût non communiqué : statut confirmé, montant à réconcilier lorsque connu; aucune valeur inventée. Les totaux actuellement chiffrés restent **3 533,23 $ + 820 $ + 646,77 $ = 5 000,00 $**, sous réserve de ce coût restant à renseigner.
+
 ## Fonds et crédit
 
 | Date | Fonds prévus | Provenance |

@@ -17,7 +17,7 @@
 | **15 oct.** | Busan — solde de **201,13 $** — ✅ **payé** (échéance initiale du 17 octobre) |
 | **18 oct.** | Checklist de départ; les quatre segments, dont AC64 le dimanche 8 novembre, sont confirmés depuis le 15 octobre; suivi opérationnel avant départ à faire |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6), échéance du jour; débit non confirmé |
-| **22 oct.** | Faire les bagages; nuit au Comfort Inn Dorval près de YUL — hors budget voyage |
+| **22 oct.** | Dernier contrôle des bagages déjà préparés; nuit au Comfort Inn Dorval près de YUL — hors budget voyage |
 | **23 oct.** | Fonds — **~1 250 $** |
 | **23 oct.** | Transport vers YUL; AC303 (YUL → YVR) + AC63 (YVR → ICN) |
 | **24 oct.** | Récupérer et activer la WOWPASS à Incheon |
@@ -70,6 +70,9 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 | Nourriture | 💰 700 $ provisionnés |
 | Épicerie foyer | 💰 800 $ provisionnés |
 | Animaux | ✅ Gaïa + Noah responsables; Geneviève + Karine en relève; promeneuse retirée; nourriture lyophilisée chiens et chats réglée |
-| Bagages | ⏳ |
+| Bagages | ✅ Valise cabine et sac à dos préparés; contrôle final au départ |
+| Wons | ✅ 160 000 KRW achetés; chargements WOWPASS/T-money encore à faire |
+| Dossier pharmaceutique | ✅ Obtenu; contenu conservé hors GitHub |
+| Articles de toilette | ✅ Achetés et rangés; montant CAD non communiqué |
 
 [← Retour au sommaire](../README.md)

@@ -1,12 +1,12 @@
 # ✈️ Vols
 
 **Dossier Air Canada : AXOQWM**<br>
-**Dernier contrôle : 20 octobre 2026 — horaires publics recoupés pour les quatre vols; courriel et confirmation du dossier du 15 octobre conservés; aucun statut temps réel confirmé**<br>
+**Dernier contrôle : 21 octobre 2026 — horaires publics recoupés pour les quatre vols; courriel et confirmation du dossier du 15 octobre conservés; aucun statut temps réel confirmé**<br>
 **État : ✅ Les quatre segments sont indiqués « Confirmés » dans la réservation Air Canada consultée par le voyageur le 15 octobre 2026. Horaires opérationnels à recontrôler avant les départs.**
 
-## Contrôle public complémentaire — 20 octobre 2026
+## Contrôle public complémentaire — 21 octobre 2026
 
-Contrôle effectué dans l’ordre **AC303 → AC63 → AC64 → AC314**. Horaires publiés concordants avec le courriel Air Canada du 15 octobre relu précédemment :
+Contrôle effectué dans l’ordre **AC303 → AC63 → AC64 → AC314**. Horaires publics revérifiés le 21 octobre, inchangés depuis le contrôle du 20 octobre et concordants avec le courriel Air Canada du 15 octobre relu précédemment :
 
 | Vol | Horaire local et équivalent Montréal | Résultat |
 |---|---|---|
@@ -17,7 +17,7 @@ Contrôle effectué dans l’ordre **AC303 → AC63 → AC64 → AC314**. Horair
 
 Correspondances inchangées selon ces horaires : **1 h 38 à l’aller**, **11 h 30 au retour**. Aucun écart horaire détecté dans les sources consultées.
 
-**Limites :** l’[horaire interactif Air Canada](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html) ne restitue pas de résultat exploitable; la page [État des vols](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) est inaccessible dans l’outil. Aucun nouvel avis de changement repéré dans la recherche Gmail ciblée depuis le 15 octobre; ce résultat ne prouve pas l’absence de changement. Dossier non rouvert, statut opérationnel non confirmé, portes inconnues. Revérifier dans l’application Air Canada lors de l’enregistrement et avant chaque départ.
+**Limites :** l’[horaire interactif Air Canada](https://www.aircanada.com/ca/fr/aco/home/book/routes-and-partners/flight-schedules.html) ne restitue pas de résultat exploitable; la page [État des vols](https://www.aircanada.com/ca/fr/aco/home/fly/flight-information/flight-status.html) est inaccessible dans l’outil. Aucun nouvel avis de changement repéré dans la recherche Gmail ciblée depuis le 20 octobre (expéditeurs aircanada.com et mail.aircanada.com); ce résultat ne prouve pas l’absence de changement. Dossier non rouvert, statut opérationnel non confirmé, portes inconnues. Revérifier dans l’application Air Canada lors de l’enregistrement et avant chaque départ.
 
 ## Recoupement documentaire — 20 octobre 2026
 

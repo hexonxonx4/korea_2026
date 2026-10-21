@@ -1,6 +1,6 @@
 # Rapport maître déplacé
 
-**Dernière mise à jour : 20 octobre 2026 — horaires documentés, hébergements et budget réconciliés**
+**Dernière mise à jour : 21 octobre 2026 — e-Arrival Card complétée et horaires des quatre vols revérifiés**
 
 Le rapport est maintenant organisé en documents thématiques.
 
@@ -37,3 +37,7 @@ Précision hébergement du 20 octobre : **Dongdaemun, du 5 au 8 novembre**, Airb
 **Confirmations du voyageur — 20 octobre 2026 :** 160 000 KRW achetés; dossier pharmaceutique obtenu; articles de toilette achetés; valise cabine et sac à dos préparés. Le Pixel 9 sera dans les poches. Récupération/activation de la WOWPASS et rechargements WOWPASS/T-money restent à faire à l’arrivée.
 
 Les horaires publics des quatre vols ont été recoupés : aucun écart détecté avec les horaires documentés. Statut opérationnel non confirmé; voir [Vols](docs/vols.md) pour les sources et limites. Le montant CAD de l’achat de devises et des articles de toilette n’a pas été communiqué; voir [Budget](docs/budget.md). Les anciennes tâches d’achat et de préparation sont mises à jour dans la [checklist](docs/depart.md).
+
+## Mise à jour du 21 octobre 2026
+
+**e-Arrival Card complétée le 21 octobre 2026**, selon le voyageur; sauvegardée dans OneDrive et disponible hors connexion sur le téléphone. Checklist et échéancier actualisés. Nouveau contrôle des horaires publics des quatre vols : aucun écart avec l’itinéraire documenté; aucun statut opérationnel en temps réel confirmé. Voir [Vols](docs/vols.md). Budget inchangé.

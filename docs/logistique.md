@@ -32,6 +32,8 @@ Ce document regroupe les éléments pratiques qui ne sont pas des moyens de tran
 - **Dossier pharmaceutique obtenu :** conserver avec les documents de voyage; aucun contenu médical ni copie du dossier publié.
 - Préparation des bagages confirmée; elle ne vaut pas validation des dimensions par le transporteur. Les contrôles du jour du départ restent ouverts dans la [checklist](depart.md).
 
+- **e-Arrival Card complétée le 21 octobre 2026**, selon le voyageur; sauvegardée dans OneDrive et disponible hors connexion sur le téléphone.
+
 ## Assurance
 
 L'assurance collective est jugée suffisante. Assurance supplémentaire : **0 $**.

@@ -1,6 +1,6 @@
 # ✅ Départ — Checklist Corée du Sud 2026
 
-**Suivi opérationnel réconcilié le 20 octobre 2026; confirmations du 15 octobre conservées.** Les confirmations déjà obtenues sont cochées; les gestes à faire avant le départ ou à l'arrivée restent ouverts.
+**Suivi opérationnel réconcilié le 21 octobre 2026; confirmations du 15 octobre conservées.** Les confirmations déjà obtenues sont cochées; les gestes à faire avant le départ ou à l'arrivée restent ouverts.
 
 **Départ : 23 octobre 2026 · Retour : 8–9 novembre 2026.** Bases : Hongdae (24 oct.–1er nov.), Busan (1er–5 nov.), Dongdaemun (5–8 nov.).
 
@@ -11,7 +11,7 @@
 - [x] **Air Canada :** réservation consultée par le voyageur le **15 octobre 2026** (capture d'écran) : **AC303 + AC63** le 23 octobre, YUL 8 h 30 → ICN 16 h 05 le 24, correspondance YVR **1 h 38**; **AC64 + AC314** le 8 novembre, ICN 18 h 55 → YUL 7 h 10 le 9, correspondance YVR **11 h 30**. Les deux trajets sont indiqués **« Confirmés »** en classe Économique Standard. **Reste à faire :** conserver une copie hors ligne et revérifier l'état opérationnel 24–48 h avant chaque départ.
 - [x] **Hébergements entièrement payés :** Hongdae (24 octobre–1er novembre), Busan (1er–5 novembre) et Dongdaemun (5–8 novembre). Dernier solde Busan de **201,13 $ CAD** payé le 15 octobre 2026, confirmé par le voyageur. Aucun solde d'hébergement restant selon le voyageur.
 - [x] **Formalités d'entrée — règles vérifiées le 15 octobre 2026 :** passeport canadien, séjour touristique de courte durée : **pas de visa**; **exemption K-ETA jusqu'au 31 décembre 2026**. La **e-Arrival Card reste normalement requise sans K-ETA**. Sources : [Voyage.gc.ca](https://travel.gc.ca/destinations/south-korea), [Ambassade de Corée au Canada](https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797), [e-Arrival Card officiel](https://www.e-arrivalcard.go.kr/).
-- [ ] **e-Arrival Card — rappel déjà inscrit dans Google Agenda; à faire le 22 octobre**, avant le départ : déclaration **gratuite** à soumettre dans les **3 jours précédant l'arrivée du 24 octobre** (heure de Corée), avec passeport, vol **AC63** et adresse du Airbnb Yeonnam. Conserver le numéro de déclaration; ne pas payer un site tiers.
+- [x] **e-Arrival Card complétée le 21 octobre 2026**, selon le voyageur; sauvegardée dans OneDrive et disponible hors connexion sur le téléphone.
 - [x] **Assurance voyage — Canada Vie : vérifiée.** Le voyageur confirme le **15 octobre 2026** que son régime couvre intégralement la durée de son séjour de **17 jours** en Corée du Sud. Selon le livret du régime collectif consulté : **100 % des frais admissibles pour les soins urgents hors du pays**, **aucune franchise** pour ces soins, maximum global des soins médicaux supplémentaires indiqué comme **illimité**, sous réserve des définitions et exclusions contractuelles. Assistance médicale 24 h/24 : **+1 204 946-2577** depuis la Corée (numéro sur la carte). Conserver une copie hors ligne de la carte et appeler l'assistance dès que possible en cas d'urgence. Les numéros personnels de régime et de certificat restent hors GitHub.
 
 ## J-7 — vers le 16 octobre

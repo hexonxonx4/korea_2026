@@ -1,6 +1,6 @@
 # Rapport maître déplacé
 
-**Dernière mise à jour : 21 octobre 2026 — e-Arrival Card complétée et horaires des quatre vols revérifiés**
+**Dernière mise à jour : 22 octobre 2026 — enregistrement effectué et cartes d’embarquement reçues**
 
 Le rapport est maintenant organisé en documents thématiques.
 
@@ -41,3 +41,7 @@ Les horaires publics des quatre vols ont été recoupés : aucun écart détect�
 ## Mise à jour du 21 octobre 2026
 
 **e-Arrival Card complétée le 21 octobre 2026**, selon le voyageur; sauvegardée dans OneDrive et disponible hors connexion sur le téléphone. Checklist et échéancier actualisés. Nouveau contrôle des horaires publics des quatre vols : aucun écart avec l’itinéraire documenté; aucun statut opérationnel en temps réel confirmé. Voir [Vols](docs/vols.md). Budget inchangé.
+
+## Mise à jour du 22 octobre 2026
+
+**Enregistrement effectué le 22 octobre 2026**, confirmé par le voyageur; cartes d’embarquement **AC303 et AC63 reçues**. **Reste à faire à YUL : scanner le passeport à une borne**, selon les instructions de l’application; sa fonction de lecture du passeport ne fonctionne pas actuellement pour le voyageur. Disponibilité hors connexion des cartes d’embarquement à vérifier. Correspondance YVR affichée DTB → INT; portes à confirmer. Voir [Vols](docs/vols.md) et [Checklist](docs/depart.md). Budget inchangé.

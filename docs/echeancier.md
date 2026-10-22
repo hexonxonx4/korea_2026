@@ -1,6 +1,6 @@
 # 📆 Échéancier et progression
 
-**Réconcilié le 21 octobre 2026.** Les échéances passées ne sont pas considérées payées sans confirmation.
+**Réconcilié le 22 octobre 2026.** Les échéances passées ne sont pas considérées payées sans confirmation.
 
 ## Échéancier principal
 
@@ -18,7 +18,7 @@
 | **18 oct.** | Checklist de départ; les quatre segments, dont AC64 le dimanche 8 novembre, sont confirmés depuis le 15 octobre; suivi opérationnel avant départ à faire |
 | **20 oct.** | Air Canada — **275,94 $** (3e de 6), échéance du jour; débit non confirmé |
 | **21 oct.** | ✅ e-Arrival Card complétée, sauvegardée dans OneDrive et disponible hors connexion sur le téléphone; horaires des quatre vols revérifiés |
-| **22 oct.** | Enregistrement Air Canada; dernier contrôle des bagages déjà préparés; nuit au Comfort Inn Dorval près de YUL — hors budget voyage |
+| **22 oct.** | ✅ Enregistrement Air Canada effectué et deux cartes reçues; passeport à scanner à YUL le 23 octobre; dernier contrôle des bagages déjà préparés; nuit au Comfort Inn Dorval près de YUL — hors budget voyage |
 | **23 oct.** | Fonds — **~1 250 $** |
 | **23 oct.** | Transport vers YUL; AC303 (YUL → YVR) + AC63 (YVR → ICN) |
 | **24 oct.** | Récupérer et activer la WOWPASS à Incheon |
@@ -73,6 +73,7 @@ Les anciennes tâches de réservation des navettes sont retirées : les transpor
 | Animaux | ✅ Gaïa + Noah responsables; Geneviève + Karine en relève; promeneuse retirée; nourriture lyophilisée chiens et chats réglée |
 | Bagages | ✅ Valise cabine et sac à dos préparés; contrôle final au départ |
 | Wons | ✅ 160 000 KRW achetés; chargements WOWPASS/T-money encore à faire |
+| Enregistrement aller | ✅ Effectué le 22 octobre; cartes AC303 et AC63 reçues; 🟡 passeport à scanner à YUL et accès hors connexion des cartes à vérifier |
 | e-Arrival Card | ✅ Complétée le 21 octobre; OneDrive et copie hors connexion sur le téléphone |
 | Dossier pharmaceutique | ✅ Obtenu; contenu conservé hors GitHub |
 | Articles de toilette | ✅ Achetés et rangés; montant CAD non communiqué |

@@ -34,6 +34,8 @@ Ce document regroupe les éléments pratiques qui ne sont pas des moyens de tran
 
 - **e-Arrival Card complétée le 21 octobre 2026**, selon le voyageur; sauvegardée dans OneDrive et disponible hors connexion sur le téléphone.
 
+**Enregistrement effectué le 22 octobre 2026**, confirmé par le voyageur; cartes d’embarquement **AC303 et AC63 reçues**. **Reste à faire à YUL : scanner le passeport à une borne**, selon les instructions de l’application; sa fonction de lecture du passeport ne fonctionne pas actuellement pour le voyageur. Disponibilité hors connexion des cartes d’embarquement à vérifier.
+
 ## Assurance
 
 L'assurance collective est jugée suffisante. Assurance supplémentaire : **0 $**.

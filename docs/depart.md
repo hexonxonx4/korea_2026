@@ -1,6 +1,6 @@
 # ✅ Départ — Checklist Corée du Sud 2026
 
-**Suivi opérationnel réconcilié le 21 octobre 2026; confirmations du 15 octobre conservées.** Les confirmations déjà obtenues sont cochées; les gestes à faire avant le départ ou à l'arrivée restent ouverts.
+**Suivi opérationnel réconcilié le 22 octobre 2026; confirmations du 15 octobre conservées.** Les confirmations déjà obtenues sont cochées; les gestes à faire avant le départ ou à l'arrivée restent ouverts.
 
 **Départ : 23 octobre 2026 · Retour : 8–9 novembre 2026.** Bases : Hongdae (24 oct.–1er nov.), Busan (1er–5 nov.), Dongdaemun (5–8 nov.).
 
@@ -18,7 +18,7 @@
 
 ### Documents et réservations
 - [x] **Passeport :** validité et état physique confirmés; copie numérique disponible hors ligne.
-- [x] **Documents hors ligne :** réservations Airbnb, billets KTX, passeport et carte d'assurance accessibles hors ligne; consultation Airbnb testée en mode avion. **À faire plus tard :** télécharger les instructions d'accès finales et les cartes d'embarquement dès réception.
+- [x] **Documents hors ligne :** réservations Airbnb, billets KTX, passeport et carte d'assurance accessibles hors ligne; consultation Airbnb testée en mode avion. **À faire plus tard :** télécharger les instructions d'accès finales; cartes d’embarquement AC303 et AC63 reçues le 22 octobre, disponibilité hors connexion à vérifier.
 - [x] **Adresses et liens cartographiques des trois Airbnb** déjà centralisés dans [Lieux](lieux.md). Les instructions d'accès finales et certaines heures restent à recevoir aux dates prévues.
 - [x] **Points de rencontre** de la croisière (26 oct.), de la DMZ (27 oct.) et de Bukhansan (7 nov.) déjà consignés dans [Lieux](lieux.md).
 - [ ] **Concerts :** billet METHOD + KILLKAISER du **25 octobre acheté et payé** (63 000 ₩ / 67,21 $ CAD, frais inclus). Conserver le billet hors ligne et vérifier les consignes d'entrée. Entrées du **30 octobre** et du **7 novembre** prévues à la porte; **SUPER SONIC du 31 octobre** : prévente par virement bancaire coréen, alternative de paiement à demander à l'organisateur, sinon billet à la porte sous réserve de capacité.
@@ -41,7 +41,9 @@
 ## J-2 — 21 octobre
 
 ### Dernières confirmations
-- [ ] **Enregistrement Air Canada :** prévu dès le 22 octobre à 8 h 30 (24 h avant AC303 du 23 octobre à 8 h 30, heure du Québec); voyageur prêt et attend l'ouverture. Télécharger et conserver les cartes d'embarquement hors ligne après enregistrement. Recontrôler statut des vols, bagages inclus et correspondances.
+- [x] **Enregistrement Air Canada effectué le 22 octobre :** cartes d’embarquement AC303 et AC63 reçues.
+- [ ] **Passeport : scanner à une borne à YUL**, selon les instructions reçues; lecture dans l’application non fonctionnelle pour le voyageur. Demander l’aide d’un agent si nécessaire.
+- [ ] **Cartes AC303 et AC63 : vérifier leur disponibilité hors connexion.** Recontrôler le statut des vols et les portes avant le départ.
 - [ ] **Bagages — stratégie confirmée :** voyage avec un sac à dos (article personnel) et une valise aux dimensions cabine; souhaite éviter la soute. Un bagage enregistré est inclus sur chaque vol en solution de rechange. Vérifier dimensions réelles du sac à dos et de la valise, ainsi que les règles de cabine Air Canada. Si valise enregistrée, conserver passeport, médicaments, appareils et batteries externes dans le sac à dos. **Contenu du sac à dos :** essentiellement électroniques, documents, médicaments et un change de secours; sac prévu peu chargé. Le UA Hustle 6.0 dépasse les dimensions nominales d'article personnel Air Canada : conformité après compression non garantie; valise en soute si nécessaire. **Valise Amazon B0BWMR7Z3R :** dimensions annoncées 55,88 × 27,94 × 22,86 cm, poids 3,08 kg; dépasse de 0,88 cm la hauteur cabine Air Canada de 55 cm (limite 55 × 40 × 23 cm). Mesurer hauteur réelle avec roues et poignée; conformité stricte non garantie, bagage enregistré inclus comme repli. **Retour d’expérience :** valise déjà en possession et déjà utilisée comme bagage cabine sans problème; voyageur accepte le léger risque lié au dépassement nominal et ne prévoit pas d'en changer.
 - [x] **Cadenas de valise :** facultatif; peut-être déjà en possession, mais aucun achat ni vérification nécessaires selon la préférence du voyageur.
 - [x] **Pochette pour les sorties :** petite pochette déjà en possession pour transporter passeport, portefeuille et téléphone sans le gros sac à dos.

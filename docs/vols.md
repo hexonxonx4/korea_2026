@@ -4,6 +4,14 @@
 **Dernier contrôle : 21 octobre 2026 — horaires publics recoupés pour les quatre vols; courriel et confirmation du dossier du 15 octobre conservés; aucun statut temps réel confirmé**<br>
 **État : ✅ Les quatre segments sont indiqués « Confirmés » dans la réservation Air Canada consultée par le voyageur le 15 octobre 2026. Horaires opérationnels à recontrôler avant les départs.**
 
+## Enregistrement et correspondance — confirmation du 22 octobre 2026
+
+**Enregistrement effectué le 22 octobre 2026**, confirmé par le voyageur; cartes d’embarquement **AC303 et AC63 reçues**. **Reste à faire à YUL : scanner le passeport à une borne**, selon les instructions de l’application; sa fonction de lecture du passeport ne fonctionne pas actuellement pour le voyageur. Disponibilité hors connexion des cartes d’embarquement à vérifier.
+
+L’application indique une arrivée à YVR dans le secteur **DTB** (vols intérieurs) et un départ dans le secteur **INT** (international). Les portes exactes restent à vérifier. La capture de la carte YVR fournie par le voyageur indique **18 minutes / 1,1 km pour C40 → D54** : exemple de parcours uniquement, sans confirmation de ces portes pour AC303/AC63 le 23 octobre. Ce temps ne comprend pas le débarquement ni une éventuelle attente au passage de correspondance.
+
+Cette mise à jour consigne les confirmations du voyageur; elle ne constitue pas une nouvelle vérification des horaires ou du statut opérationnel. Le dernier contrôle public des quatre vols reste daté du 21 octobre.
+
 ## Contrôle public complémentaire — 21 octobre 2026
 
 Contrôle effectué dans l’ordre **AC303 → AC63 → AC64 → AC314**. Horaires publics revérifiés le 21 octobre, inchangés depuis le contrôle du 20 octobre et concordants avec le courriel Air Canada du 15 octobre relu précédemment :

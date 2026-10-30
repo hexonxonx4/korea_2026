@@ -42,6 +42,14 @@ Les liens de recherche sont volontairement utilisés lorsque l'adresse exacte n'
 | Dongdaemun History & Culture Park Station | 🚇 Métro — près du Airbnb | **Lignes 2, 4 et 5** · 동대문역사문화공원역 | [Naver Map](https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EB%AC%B8%EC%97%AD%EC%82%AC%EB%AC%B8%ED%99%94%EA%B3%B5%EC%9B%90%EC%97%AD) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dongdaemun+History+Culture+Park+Station+Seoul) | Station principale la plus proche du Airbnb; excellent échangeur lignes 2/4/5 |
 | Bukhansan Ui Station | 🚇 Métro / point de rencontre | **16-20 Ui-dong, Gangbuk-gu, Seoul** · Ui-Sinseol Line · 북한산우이역 | [Naver Map](https://map.naver.com/p/search/%EB%B6%81%ED%95%9C%EC%82%B0%EC%9A%B0%EC%9D%B4%EC%97%AD) | [Google Maps](https://maps.app.goo.gl/KtzUDZwvyuRoTvyG7) | **Point de rencontre randonnée — 7 nov., avant 7 h** |
 
+## Séoul — Gangnam / Starfield Library
+
+| Lieu | Type | Adresse / repère | Naver Map | Google Maps | Utilité / statut |
+|---|---|---|---|---|---|
+| Starfield Library · 별마당도서관 | 📚 Bibliothèque / architecture | **COEX Mall, 513 Yeongdong-daero, Gangnam-gu, Seoul**; station **Samseong**, ligne 2 | [Naver Map](https://map.naver.com/p/search/%EB%B3%84%EB%A7%88%EB%8B%B9%EB%8F%84%EC%84%9C%EA%B4%80) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Starfield+Library+COEX+Seoul) | 🟢 **6 nov. en après-midi, facultatif**; accès gratuit, grandes étagères monumentales, visite suggérée de 30–45 min; horaires à vérifier |
+
+Depuis l'Airbnb Dongdaemun/Euljiro, la **ligne 2** relie Dongdaemun History & Culture Park à Samseong. Combiner la visite avec une soirée dans les ruelles d'Euljiro plutôt que considérer COEX comme étant dans le même quartier. Vérifier l'itinéraire réel dans Naver Map.
+
 ## Bars et salles de spectacles
 
 **Rolling Hall, Club Victim, Senggi Studio et Infinity Club correspondent aux quatre soirées choisies; billets ou entrée sur place restent à obtenir.** Les autres endroits sont des pistes identifiées. Les liens Naver ouvrent une recherche par nom et, lorsque disponible, par adresse; Google Maps reste une référence secondaire.

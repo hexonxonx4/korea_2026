@@ -36,11 +36,13 @@ Les concerts et les bars viseront donc le punk, le hardcore, le metal, le rock a
 | **3 nov.** | Yonggungsa → Haeundae / Dongbaek → soirée libre à Gwangalli | 🟢 |
 | **4 nov.** | Igidae : Oryukdo → Dongsaengmal → repos et bagages → Basement Gwangalli facultatif | 🟢 |
 | **5 nov.** | Café et départ du logement → KTX 034 Busan **12 h 00** → Séoul **14 h 51** | ✅ KTX · 🟢 matinée |
-| **6 nov.** | Séoul libre | 🟢 |
+| **6 nov.** | **[Starfield Library (COEX, Gangnam)](lieux.md#s%C3%A9oul--gangnam--starfield-library)** en après-midi, puis retour à Euljiro pour les ruelles et bars en soirée; sortie facultative | 🟢 |
 | **7 nov. — matin** | **Bukhansan National Park — Summit Course, 7 h à 12 h KST** | ✅ |
 | **7 nov. — après-midi et soirée** | Retour au logement et repos → **[OFFAL GRIND FEST](activites.md#7-novembre--offal-grind-fest), Infinity Club (Sinchon), 17 h KST**; soirée choisie, entrée à acheter à la porte (**20 000 ₩**) | 🟡 |
 | **8 nov.** | ICN → YVR — AC64; horaires dans [Vols](vols.md) | ✅ Réservé; contrôle opérationnel à faire |
 | **9 nov.** | YVR → YUL — AC314; retour au Québec; horaires dans [Vols](vols.md) | ✅ Réservé; contrôle opérationnel à faire |
+
+**6 novembre — option Séoul :** depuis Dongdaemun History & Culture Park (ligne 2), rejoindre Samseong pour la Starfield Library dans COEX. Prévoir environ 30–45 minutes sur place et vérifier les trajets dans Naver Map. Revenir à Euljiro en soirée pour son ambiance rétro-industrielle. Ce n'est **pas réservé** et le programme reste flexible.
 
 ## Busan — horaire indicatif
 
